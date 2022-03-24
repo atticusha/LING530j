@@ -1,5 +1,5 @@
 # LING530j
-Code for LING530j final project and workshop 3
+Code for LING530j workshop 3
 
 # What is included
 This is my source for the third workshop in LING530j. It incvludes all source files needed for neural training with ONMT.
