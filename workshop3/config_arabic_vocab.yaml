@@ -1,0 +1,13 @@
+# Corpus opts:
+
+data:
+    train:
+        path_src: workshop3_data/arabic-train-src.txt
+        path_tgt: workshop3_data/arabic-train-tgt.txt
+    valid:
+        path_src: workshop3_data/arabic-dev-src.txt
+        path_tgt: workshop3_data/arabic-dev-tgt.txt
+
+save_data: models
+src_vocab: models/arabic.vocab.src
+tgt_vocab: models/arabic.vocab.tgt

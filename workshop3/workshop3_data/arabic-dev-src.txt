@@ -1,0 +1,1589 @@
+ʾ a ʿ ā d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuʿādīna 
+ʾ a ʿ a d d a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nuʿadda 
+ʾ a ʿ a d d a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tuʿdadna 
+ʾ a ʿ ā r a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	nuʿīra 
+ʾ a b ā	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾāba 
+ʾ a b ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuʾbaw 
+ʾ a b a q a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾābiq 
+ʾ a b a q a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yaʾbiqna 
+ʿ a b a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuʿbarī 
+ʿ a b a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuʿbaru 
+ʿ a b b a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuʿabbidīna 
+ʿ a b b a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuʿabbidāni 
+ʿ a b b a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuʿabbadāni 
+ʾ a b b a d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾubbidtumā 
+ʾ a b b a d a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾubbidnā 
+ʿ a b b a d a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tuʿabbidna 
+ʾ a b b a d a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾuʾabbada 
+ʿ a b b ā s u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	ʿabbāsatayni 
+ʾ a b d a l a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tubdila 
+ʾ a b l a ḡ a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾublaḡa 
+ʾ a b l a h u	pos=ADJ def=INDF case=ACC gen=FEM num=SG	balhāʾa 
+ʾ a b ṣ a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tubṣarī 
+ʾ a b y a ḍ u	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=SG	ʾabyaḍ 
+ʾ a ḏ ā ʿ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾaḏaʿnā 
+ʾ a ḍ ā ʿ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuḍiʿtu 
+ʾ a ḍ ā f a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuḍāfu 
+ʾ ā d a m i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=PL	al-ʾādamiyyīna 
+ʿ ā d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaʿūdu 
+ʾ a d ā r a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tudar 
+ʾ a d b a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾudbaru 
+ʾ a d b a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tudbarāni 
+ʾ a d b a r a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾadbarat 
+a d - d ā b b a t u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	ad-dābba 
+a ḏ - ḏ a b ī ḥ a t u	pos=N def=DEF case=GEN num=DU	aḏ-ḏabīḥatayni 
+a d - d a f t a r u	pos=N def=DEF case=ACC num=DU	ad-daftarayni 
+a d - d a f t a r u	pos=N def=INDF case=ACC num=PL	dafātira 
+a d - d a h š a t u	pos=N def=INDF case=GEN num=SG	dahšatin 
+a d - d a h š a t u	pos=N poss=PSSD case=ACC num=PL	dahaša 
+a d - d ā ʾ i r a t u	pos=N def=DEF case=GEN num=DU	ad-dāʾiratayni 
+a d - d ā ʾ i r a t u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	dawāʾir 
+a ḏ - ḏ a n a b u	pos=N def=DEF case={NOM/ACC/GEN} num=PL	al-ʾaḏnāb 
+a ḏ - ḏ a n b u	pos=N def=INDF case=NOM num=SG	ḏanbun 
+ʾ a d d ā	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	ʾaddū 
+a d - d a r a k i y y u	pos=N def=DEF case=NOM num=DU	ad-darakiyyāni 
+a d - d a r a k i y y u	pos=N def=INDF case=NOM num=DU	darakiyyāni 
+a ḍ - ḍ a r b a t u	pos=N def=INDF case=GEN num=SG	ḍarbatin 
+a ḍ - ḍ a r b a t u	pos=N poss=PSSD case=ACC num=SG	ḍarbata 
+a d - d a r j u	pos=N def=INDF case=ACC num=SG	darjan 
+a ḍ - ḍ a r ū r a t u	pos=N poss=PSSD case=NOM num=PL	ḍarūrātu 
+a d - d a r w ī š u	pos=N def=INDF case=NOM num=SG	darwīšun 
+a d - d a w l a t u	pos=N def=DEF case=ACC num=SG	ad-dawlata 
+a ḍ - ḍ a y f u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	ḍayf 
+a d - d a y r u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	ad-dayrayn 
+a ḏ - ḏ i r ā ʿ u	pos=N poss=PSSD case=ACC num=SG	ḏirāʿa 
+a ḍ - ḍ i r s u	pos=N def=INDF case=ACC num=PL	ḍurūsan 
+a d - d u s t ū r u	pos=N def=DEF case=NOM num=PL	ad-dasātīru 
+ʾ a d ḵ a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yudḵal 
+ʾ a d ḵ a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tudḵilāni 
+ʾ a ḏ k a r a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuḏkar 
+ʾ a ḏ k a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tuḏkirna 
+ʾ a f ā d a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nufad 
+ʾ a f ā d a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾufīda 
+ʿ a f a j a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nuʿfaja 
+ʿ a f ā	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuʿfayā 
+ʿ a f ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tuʿfayāni 
+ʾ a f l a ḥ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tuflaḥā 
+ʾ a f l a ḥ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾufliḥtu 
+ʾ a f l a ḥ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾufliḥa 
+ʾ a f n ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tufniyā 
+ʾ a f n ā	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=DU	tufnayā 
+ʾ a ḥ a k k a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	ʾaḥikkū 
+ʾ a ḥ ā l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuḥālu 
+ʾ a h ā n a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yuhin 
+ʾ a ḥ a s s a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nuḥassa 
+ʾ a ḥ b a ṭ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaḥbaṭtu 
+ʾ a ḥ ḍ a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuḥḍirti 
+ʾ a ḥ ḍ a r a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾaḥḍarnā 
+ʾ a ḥ f a ẓ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tuḥfaẓu 
+ʾ a ḥ f a ẓ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaḥfaẓtu 
+ʾ a ḥ m a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuḥmidīna 
+ʾ a ḥ m a d a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yuḥmidā 
+ʾ a ḥ m a l a	pos=V voice=PASS	muḥmal 
+ʾ a ḥ r a m a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuḥramna 
+ʾ a ḥ s a n a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuḥsanna 
+ʾ a ḥ s a n a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuḥsinu 
+ʾ a ḥ w a j a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuḥwajūna 
+ʾ a ḥ y ā	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuḥyīta 
+ʾ a ʿ j a b a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuʿjib 
+ʾ a j ā b a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾujībā 
+ʾ a ʿ j a m a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾuʿjimtunna 
+ʿ a j a m i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-ʿajamiyyayn 
+ʾ a j ā r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nujīru 
+ʾ a j ā r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾujirta 
+ʾ a j h a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾujhidu 
+ʾ a j h a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yujhidu 
+ʿ a j ī b u n	pos=ADJ def=DEF case=GEN gen=FEM num=SG	al-ʿajībati 
+ʿ a j j a b a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tuʿajjabā 
+ʾ a j m a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tujmilī 
+ʿ a j ū l u n	pos=ADJ def=DEF case=GEN gen=FEM num=DU	al-ʿajūlatayni 
+ʾ a ḵ ā f a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuḵāfā 
+ʾ a k a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuʾkalu 
+ʾ a k a l a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾākula 
+ʾ a ḵ b a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuḵbiru 
+ʾ a ḵ f ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuḵfī 
+ʾ a ḵ f ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuḵfiyāni 
+ʾ a k k a d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾukkidtumā 
+ʾ a k k a d a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ʾakkadā 
+ʾ a k k a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾakkaltunna 
+ʾ a ḵ l a d a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾuḵlada 
+ʾ a ḵ m a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tuḵmirū 
+ʾ a ḵ r a j a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuḵrajā 
+ʾ a k r a m a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	ʾakrimū 
+ʾ a k r a m a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tukram 
+ʾ a k r a m a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tukrimā 
+ʾ a k t a b a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ʾaktabā 
+a l - ʾ a b ā ž ū r u	pos=N poss=PSSD case=NOM num=PL	ʾabāžūrātu 
+a l - ʾ ā f a t u	pos=N def=DEF case=NOM num=SG	al-ʾāfatu 
+a l - ʿ ā ʾ i l a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	ʿawāʾil 
+a l - ʿ a j a l a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ʿajalatay 
+a l - ʿ a l ā q a t u	pos=N def=INDF case=NOM num=SG	ʿalāqatun 
+a l - ʾ ā l a t u	pos=N def=DEF case=GEN num=DU	al-ʾālatayni 
+a l - ʾ a m ī r a t u	pos=N poss=PSSD case=NOM num=PL	ʾamīrātu 
+a l - ʾ a m ī r u	pos=N def=DEF case=GEN num=PL	al-ʾumarāʾi 
+a l - ʾ a m ī r u	pos=N poss=PSSD case=GEN num=PL	ʾumarāʾi 
+a l - ʾ a m r u	pos=N def=INDF case=ACC num=DU	ʾamrayni 
+ʾ a ʿ l a n a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yuʿlinna 
+a l - ʾ a n f u	pos=N def=DEF case=NOM num=SG	al-ʾanfu 
+a l - ʾ a n j a r u	pos=N def=INDF case=GEN num=DU	ʾanjarayni 
+a l - ʿ a q l u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-ʿaql 
+a l - ʿ a q l u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	ʿuqūl 
+a l - ʿ a q r a b u	pos=N def=DEF case=NOM num=SG	al-ʿaqrabu 
+a l - ʿ a q r a b u	pos=N poss=PSSD case=NOM num=DU	ʿaqrabā 
+a l - ʿ a r a b i y y u	pos=N poss=PSSD case=GEN num=SG	ʿarabiyyi 
+a l - ʾ a r ḍ i y y a t u	pos=N poss=PSSD case=ACC num=SG	ʾarḍiyyata 
+a l - ʿ a r ī f u	pos=N def=DEF case=NOM num=PL	al-ʿurafāʾu 
+a l - ʾ a r n a b u	pos=N poss=PSSD case=ACC num=DU	ʾarnabay 
+a l - ʿ a š ī r a t u	pos=N poss=PSSD case=ACC num=PL	ʿašāʾira 
+a l - ʿ a š ī r a t u	pos=N poss=PSSD case=NOM num=SG	ʿašīratu 
+a l - ʿ ā ṭ i f a t u	pos=N def=DEF case=GEN num=SG	al-ʿāṭifati 
+a l - ʾ a w i z a t u	pos=N def=DEF case=GEN num=SG	al-ʾawizati 
+a l - ʿ a w r a t u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	ʿawra 
+a l - ʾ a y ū n u	pos=N def=INDF case=NOM num=SG	ʾayūnun 
+a l - ʿ a ẓ m u	pos=N poss=PSSD case=GEN num=PL	ʿiẓāmi 
+a l - ʿ a ẓ m u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	ʿaẓm 
+a l - b ā ḏ i n j ā n u	pos=N def=DEF case=NOM num=SG	al-bāḏinjānu 
+a l - b ā ḏ i n j ā n u	pos=N poss=PSSD case=NOM num=DU	bāḏinjānā 
+a l - b a h ā r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	bahār 
+a l - b a r b a ḵ u	pos=N def=DEF case=GEN num=DU	al-barbaḵayni 
+a l - b a y y ā ʿ u	pos=N def=DEF case=GEN num=DU	al-bayyāʿayni 
+a l - b a ẓ r u	pos=N poss=PSSD case=NOM num=DU	baẓrā 
+a l - b ī ʾ a t u	pos=N def=INDF case=GEN num=PL	bīʾātin 
+a l - b i d ā y a t u	pos=N poss=PSSD case=NOM num=DU	bidāyatā 
+a l - b u r h ā n u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	barāhīn 
+a l - f a ḵ i ḏ u	pos=N def=DEF case=GEN num=PL	al-ʾafḵāḏi 
+a l - f a l a k u	pos=N def=INDF case=ACC num=DU	falakayni 
+a l - f a q ī h u	pos=N def=INDF case=NOM num=PL	fuqahāʾu 
+a l - f a r j u	pos=N def=DEF case=GEN num=DU	al-farjayni 
+a l - f a ʾ s u	pos=N def=INDF case=GEN num=SG	faʾsin 
+a l - f a y l a s ū f u	pos=N def=INDF case=NOM num=PL	falāsifatun 
+a l - f i l f i l u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	filfil 
+a l - f ī l u	pos=N poss=PSSD case=NOM num=DU	fīlā 
+a l - f i r ā š u	pos=N def=DEF case=ACC num=DU	al-firāšayni 
+a l - f i r ā š u	pos=N def=INDF case=GEN num=SG	firāšin 
+a l - f i t n a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	fitnatay 
+a l - f u ʾ ā d u	pos=N poss=PSSD case=GEN num=SG	fuʾādi 
+a l - f u r n u	pos=N poss=PSSD case=GEN num=PL	ʾafrāni 
+a l - f u s t ā n u	pos=N def=DEF case=NOM num=DU	al-fustānāni 
+a l - f u s t ā n u	pos=N def=DEF case=NOM num=PL	al-fasātīnu 
+a l - ḡ a d ā ʾ u	pos=N poss=PSSD case=GEN num=PL	ʾaḡdiyati 
+ʾ a l ḡ ā	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾulḡīnā 
+ʾ a l ḡ ā	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾulḡītum 
+a l - ḡ a r ī z a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ḡarīzatay 
+a l - ḡ u r ā b u	pos=N def=DEF case=GEN num=SG	al-ḡurābi 
+a l - ḥ a b s u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	ḥubūs 
+a l - ḥ a d a ṯ u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	ḥadaṯ 
+a l - ḥ ā d i ṯ a t u	pos=N def=INDF case=ACC num=PL	ḥawādiṯa 
+a l - ḥ ā f i r u	pos=N def=INDF case=ACC num=PL	ḥawāfira 
+a l - ḥ ā j j u	pos=N def=INDF case=NOM num=DU	ḥājjāni 
+a l - ḥ a l l ā q u	pos=N def=DEF case=ACC num=SG	al-ḥallāqa 
+a l - ḥ a l l ū f u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	ḥallūf 
+a l - ḥ a m m ā r u	pos=N def=INDF case=ACC num=SG	ḥammāran 
+a l - h a m m u	pos=N def=DEF case=GEN num=DU	al-hammayni 
+a l - h a m z a t u	pos=N def=DEF case=NOM num=DU	al-hamzatāni 
+a l - ḥ a n a k u	pos=N def=INDF case=ACC num=DU	ḥanakayni 
+ʾ a l ḥ a q a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yulḥaqu 
+ʾ a l ḥ a q a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾulḥiqta 
+ʾ a l ḥ a q a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yulḥiqā 
+a l - ḥ a r a k a t u	pos=N def=DEF case=GEN num=SG	al-ḥarakati 
+a l - ḥ a r a k a t u	pos=N def=INDF case=NOM num=SG	ḥarakatun 
+a l - ḥ a s a n a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ḥasanatay 
+a l - ḥ a š a r a t u	pos=N def=INDF case=NOM num=DU	ḥašaratāni 
+a l - ḥ a š d u	pos=N def=DEF case=ACC num=SG	al-ḥašda 
+a l - ḥ a š d u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	ḥašd 
+a l - h ā t i f u	pos=N def=DEF case={NOM/ACC/GEN} num=PL	al-hawātif 
+a l - ḥ a w š u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-ḥawšayn 
+a l - h a y ʾ a t u	pos=N poss=PSSD case=ACC num=SG	hayʾata 
+a l - ḥ a y ā ʾ u	pos=N def=DEF case=NOM num=DU	al-ḥayāʾāni 
+a l - h a y k a l u	pos=N def=INDF case=ACC num=SG	haykalan 
+a l - h a y k a l u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	haykalayn 
+a l - h a y k a l u	pos=N poss=PSSD case=NOM num=PL	hayākilu 
+a l - ḥ a ẓ ẓ u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ḥaẓẓay 
+a l - ḥ i ḍ n u	pos=N poss=PSSD case=GEN num=DU	ḥiḍnay 
+a l - ḥ i k ā y a t u	pos=N poss=PSSD case=GEN num=DU	ḥikāyatay 
+a l - h i l ā l u	pos=N def=DEF case=GEN num=SG	al-hilāli 
+a l - h i l ā l u	pos=N poss=PSSD case=NOM num=DU	hilālā 
+a l - h i w ā y a t u	pos=N poss=PSSD case=NOM num=SG	hiwāyatu 
+a l - ḥ u z m a t u	pos=N def=DEF case=ACC num=PL	al-ḥuzama 
+a l - ḥ u z m a t u	pos=N def=INDF case=ACC num=DU	ḥuzmatayni 
+a l - ḥ u z m a t u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	ḥuzma 
+a l - ʾ i b l ī s u	pos=N def=INDF case=GEN num=PL	ʾabālisatin 
+a l - i b t i s ā m a t u	pos=N def=DEF case=NOM num=DU	al-ibtisāmatāni 
+a l - ʾ i ḏ n u	pos=N poss=PSSD case=ACC num=PL	ʾuḏūnāti 
+ʾ a l i f b ā ʾ i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-ʾalifbāʾiyyata 
+ʾ a l i f b ā ʾ i y y u n	pos=ADJ def=DEF case=GEN gen=FEM num=PL	al-ʾalifbāʾiyyāti 
+a l - i h t i m ā m u	pos=N def=INDF case=GEN num=SG	ihtimāmin 
+a l - ʾ i j ā z a t u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ʾijāzāt 
+a l - i k t i š ā f u	pos=N poss=PSSD case=NOM num=SG	iktišāfu 
+a l - ʾ i l i k t r ū n u	pos=N def=INDF case=NOM num=DU	ʾiliktrūnāni 
+a l - ʾ i m ā m u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	ʾimām 
+a l - ʾ i r ā d a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ʾirādatay 
+a l - ʾ i ʿ ṣ ā r u	pos=N def=INDF case=GEN num=PL	ʾaʿāṣīra 
+a l - ʾ i ṣ b a ʿ u	pos=N def=INDF case=ACC num=SG	ʾiṣbaʿan 
+a l - i š t i r ā k i y y u	pos=N poss=PSSD case=NOM num=DU	ištirākiyyā 
+a l - i ʿ t i r ā f u	pos=N def=INDF case=GEN num=DU	iʿtirāfayni 
+a l - i t t i ḥ ā d u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-ittiḥādayn 
+a l - j a d w a l u	pos=N def=INDF case=NOM num=DU	jadwalāni 
+a l - j ā ʾ i z a t u	pos=N def=INDF case=NOM num=PL	jawāʾizu 
+a l - j a n n a t u	pos=N def=INDF case=GEN num=PL	jinānin 
+a l - j a s a d u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	jasad 
+a l - j i d ā r u	pos=N def=INDF case=ACC num=SG	jidāran 
+a l - j u ḥ r u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	juḥr 
+a l - j u m h ū r u	pos=N def=DEF case=NOM num=PL	al-jamāhīru 
+a l - j u m l a t u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	jumla 
+a l - j u n d u	pos=N poss=PSSD case=GEN num=PL	ʾajnādi 
+a l - j u s a y m u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	jusaymāt 
+a l - j u z ʾ u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	juzʾay 
+a l - k a f ā ʾ a t u	pos=N def=INDF case=GEN num=SG	kafāʾatin 
+a l - k a f ā ʾ a t u	pos=N def=INDF case=NOM num=PL	kafāʾātun 
+a l - k a l a k u	pos=N def=DEF case=NOM num=PL	al-kalakātu 
+a l - k a l i m a t u	pos=N poss=PSSD case=NOM num=DU	kalimatā 
+a l - k a l i m a t u	pos=N poss=PSSD case=NOM num=PL	kalimātu 
+a l - ḵ a l l u	pos=N def=INDF case=GEN num=PL	ḵilālin 
+a l - k ā m ē r a t u	pos=N def=INDF case=ACC num=PL	kāmērātin 
+a l - k a m m i y y a t u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-kammiyyatayn 
+a l - k a m r a t u	pos=N poss=PSSD case=GEN num=DU	kamratay 
+a l - ḵ a n d a q u	pos=N def=INDF case=ACC num=SG	ḵandaqan 
+a l - k a r b u	pos=N def=DEF case=GEN num=DU	al-karbayni 
+a l - k a r b u	pos=N def=INDF case=NOM num=PL	kurūbun 
+a l - k a ʾ s u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-kaʾs 
+a l - ḵ a ṭ a r u	pos=N poss=PSSD case=ACC num=DU	ḵaṭaray 
+a l - ḵ a ṭ w a t u	pos=N def=DEF case=ACC num=DU	al-ḵaṭwatayni 
+a l - k ī l o ġ r ā m u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-kīloġrām 
+a l - k ī l o m i t r u	pos=N poss=PSSD case=ACC num=DU	kīlomitray 
+a l - k u b b ā y a t u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	kubbāyatayn 
+a l - ḵ u ḍ r a t u	pos=N poss=PSSD case=ACC num=DU	ḵuḍratay 
+a l - ḵ u n f u s ā ʾ u	pos=N def=INDF case=GEN num=DU	ḵunfusāʾayni 
+a l - ḵ u n f u s ā ʾ u	pos=N def=INDF case=NOM num=PL	ḵanāfisu 
+a l - ḵ u r š ū f u	pos=N def=DEF case=NOM num=PL	al-ḵarāšīfu 
+a l - ḵ u r ṭ ū m u	pos=N def=INDF case=ACC num=SG	ḵurṭūman 
+a l - ḵ u r ṭ ū m u	pos=N def=INDF case=NOM num=PL	ḵarāṭīmu 
+a l - ḵ u ṣ l a t u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ḵuṣal 
+a l - ḵ u ṣ l a t u	pos=N def=INDF case=NOM num=DU	ḵuṣlatāni 
+a l - ḵ u ṭ w a t u	pos=N def=DEF case=ACC num=SG	al-ḵuṭwata 
+a l - ḵ u ṭ w a t u	pos=N def=INDF case=NOM num=DU	ḵuṭwatāni 
+a l - l a b w a t u	pos=N def=INDF case=NOM num=SG	labwatun 
+ʾ a l l a h a	pos=V voice=PASS	muʾallah 
+a l - l a ḥ ẓ a t u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	laḥẓatayn 
+a l - l ā ʿ i b u	pos=N poss=PSSD case=NOM num=PL	lāʿibū 
+a l - l a w l a b u	pos=N def=INDF case=GEN num=PL	lawāliba 
+a l - l a w l a b u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	lawlab 
+a l - l a w n u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	lawnay 
+a l - l i f ā f a t u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-lifāfa 
+a l - l i q ā ʾ u	pos=N poss=PSSD case=ACC num=SG	liqāʾa 
+a l - l o r d u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	lordāt 
+a l - m a b d a ʾ u	pos=N def=DEF case=ACC num=PL	al-mabādiʾa 
+a l - m a b l a ḡ u	pos=N poss=PSSD case=ACC num=SG	mablaḡa 
+a l - m a ḏ b a ḥ a t u	pos=N def=INDF case=GEN num=DU	maḏbaḥatayni 
+a l - m a ḏ b a ḥ a t u	pos=N poss=PSSD case=GEN num=DU	maḏbaḥatay 
+a l - m a ʿ d i n u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-maʿdin 
+a l - m a d ḵ a l u	pos=N def=INDF case=NOM num=DU	madḵalāni 
+a l - m a ḥ a l l a t u	pos=N def=DEF case=GEN num=DU	al-maḥallatayni 
+a l - m ā ʿ i z a t u	pos=N poss=PSSD case=GEN num=DU	māʿizatay 
+a l - m a j a l l a t u	pos=N def=INDF case=GEN num=DU	majallatayni 
+a l - m a j a l l a t u	pos=N poss=PSSD case=ACC num=DU	majallatay 
+a l - m a j a l l a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	majallat 
+a l - m a j l i s u	pos=N def=DEF case=NOM num=PL	al-majālisu 
+a l - m a j l i s u	pos=N poss=PSSD case=ACC num=PL	majālisa 
+a l - m a ḵ b a z u	pos=N def=INDF case=NOM num=PL	maḵābizu 
+a l - m a ḵ b a z u	pos=N poss=PSSD case=NOM num=PL	maḵābizu 
+a l - m a ḵ n ū ṯ u	pos=N def=DEF case=GEN num=PL	al-maḵānīṯi 
+a l - m a ḵ n ū ṯ u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	maḵnūṯ 
+a l - m a k t a b u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	maktab 
+a l - m a k t ū b u	pos=N def=DEF case=GEN num=SG	al-maktūbi 
+a l - m a k t ū b u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	makātīb 
+a l - m a ḵ z a n u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-maḵzan 
+a l - m a ḵ z a n u	pos=N def=INDF case=GEN num=SG	maḵzanin 
+a l - m a l ʿ a b u	pos=N def=DEF case=GEN num=PL	al-malāʿibi 
+a l - m a l b a s u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	malbasay 
+a l - m a q ā l u	pos=N def=INDF case=NOM num=PL	maqālātun 
+a l - m a ʿ r a k a t u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	maʿrakatayn 
+a l - m a r ḥ a l a t u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-marḥala 
+a l - m ā r i d u	pos=N def=DEF case=NOM num=SG	al-māridu 
+a l - m a r k a b a t u	pos=N poss=PSSD case=NOM num=PL	markabātu 
+a l - m a z ā j u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	mazājay 
+a l - m i f t ā ḥ u	pos=N def=INDF case=NOM num=PL	mafātīḥu 
+a l - m i ḥ r ā b u	pos=N def=DEF case=GEN num=DU	al-miḥrābayni 
+a l - m i l ʿ a q a t u	pos=N def=DEF case=NOM num=SG	al-milʿaqatu 
+a l - m i n h a j u	pos=N poss=PSSD case=ACC num=PL	manāhija 
+a l - m i q d ā r u	pos=N def=DEF case=NOM num=SG	al-miqdāru 
+a l - m i q d ā r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	miqdār 
+a l - m i ṣ ʿ a d u	pos=N poss=PSSD case=ACC num=DU	miṣʿaday 
+a l - m i ṯ ā l u	pos=N def=DEF case=GEN num=SG	al-miṯāli 
+a l - m i ṯ q ā l u	pos=N def=DEF case=ACC num=PL	al-maṯāqīla 
+a l - m i z m ā r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	mizmāray 
+a l - m u ʾ a ḏ ḏ i n u	pos=N def=INDF case=GEN num=SG	muʾaḏḏinin 
+a l - m u b a y y i ḍ u	pos=N def=DEF case=NOM num=DU	al-mubayyiḍāni 
+a l - m u b t a d i ʾ u	pos=N def=INDF case=ACC num=PL	mubtadiʾīna 
+a l - m u b t a d i ʾ u	pos=N def=INDF case=NOM num=DU	mubtadiʾāni 
+a l - m u b t a d i ʾ u	pos=N poss=PSSD case=GEN num=SG	mubtadiʾi 
+a l - m u ḏ a n n a b u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-muḏannabayn 
+a l - m u f ā j a ʾ a t u	pos=N def=INDF case=ACC num=DU	mufājaʾatayni 
+a l - m u f a t t i š u	pos=N def=DEF case=NOM num=PL	al-mufattišūna 
+a l - m u f a t t i š u	pos=N def=INDF case=GEN num=PL	mufattišīna 
+a l - m u ḥ ā r i b u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-muḥāribayn 
+a l - m u l ā ḥ a ẓ a t u	pos=N def=INDF case=ACC num=DU	mulāḥaẓatayni 
+a l - m u m a r r i ḍ u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	mumarriḍ 
+a l - m u m a ṯ ṯ i l u	pos=N poss=PSSD case=GEN num=PL	mumaṯṯilī 
+a l - m u q a d d a m u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	muqaddamīn 
+a l - m u q ā ṭ a ʿ a t u	pos=N def=DEF case=GEN num=DU	al-muqāṭaʿatayni 
+a l - m u q ā ṭ a ʿ a t u	pos=N poss=PSSD case=GEN num=SG	muqāṭaʿati 
+a l - m u s ā ʿ a d a t u	pos=N poss=PSSD case=ACC num=DU	musāʿadatay 
+a l - m u ʾ t a m a r u	pos=N def=DEF case=NOM num=SG	al-muʾtamaru 
+a l - m u ʾ t a m a r u	pos=N poss=PSSD case=ACC num=DU	muʾtamaray 
+a l - m u w ā ṭ i n u	pos=N def=INDF case=ACC num=DU	muwāṭinayni 
+a l - m u w ā ṭ i n u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	muwāṭinīn 
+a l - m u w a ẓ ẓ a f u	pos=N def=INDF case=GEN num=PL	muwaẓẓafīna 
+a l - q ā b i l a t u	pos=N def=INDF case=GEN num=PL	qawābila 
+a l - q ā b i l a t u	pos=N def=INDF case=NOM num=PL	qawābilu 
+a l - q a f a ṣ u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-qafaṣayn 
+a l - q ā f i l a t u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-qāfilatayn 
+a l - q ā f i l a t u	pos=N def=INDF case=GEN num=DU	qāfilatayni 
+a l - q a f z a t u	pos=N def=INDF case=ACC num=DU	qafzatayni 
+a l - q a h w a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	qahāwī 
+a l - q ā ʾ i m a t u	pos=N def=INDF case=NOM num=DU	qāʾimatāni 
+a l - q ā m ū s u	pos=N def=DEF case=GEN num=PL	al-qawāmīsi 
+a l - q a r ī n u	pos=N def=DEF case=GEN num=SG	al-qarīni 
+a l - q a r ī n u	pos=N def=DEF case=NOM num=DU	al-qarīnāni 
+a l - q ā ṭ i r a t u	pos=N poss=PSSD case=GEN num=SG	qāṭirati 
+a l - q ā ʿ u	pos=N def=DEF case=ACC num=DU	al-qāʿayni 
+a l - q i m m a t u	pos=N def=DEF case=ACC num=SG	al-qimmata 
+a l - q i n ā ʿ u	pos=N def=DEF case=GEN num=PL	al-ʾaqniʿati 
+a l - q i n ā ʿ u	pos=N def=DEF case=NOM num=SG	al-qināʿu 
+a l - q i n ā ʿ u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	qināʿayn 
+a l - q ī ṯ ā r a t u	pos=N def=INDF case=GEN num=SG	qīṯāratin 
+a l - q i ṭ ā r u	pos=N def=DEF case=ACC num=SG	al-qiṭāra 
+a l - q i ṭ ṭ a t u	pos=N def=DEF case=NOM num=PL	al-qiṭāṭu 
+a l - q i ṭ ṭ a t u	pos=N poss=PSSD case=ACC num=DU	qiṭṭatay 
+a l - q u b b a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	qibāb 
+a l - q u b b a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	qubbat 
+a l - q u m ā š u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	qumāš 
+a l - q u n f u ḏ u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	al-qunfuḏayn 
+a l - ʿ u l b a t u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	ʿulbatayn 
+a l - ʿ u l b a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	ʿilāb 
+a l - ʿ u l j ū m u	pos=N def=DEF case=ACC num=SG	al-ʿuljūma 
+a l - ʿ u q ū b a t u	pos=N def=DEF case=ACC num=SG	al-ʿuqūbata 
+a l - ʿ u š š u	pos=N def=DEF case=NOM num=SG	al-ʿuššu 
+a l - ʾ u s t ā ḏ u	pos=N def=INDF case=ACC num=DU	ʾustāḏayni 
+a l - w a h m u	pos=N def=INDF case=NOM num=DU	wahmāni 
+a l - w a ḥ š u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	waḥš 
+a l - w ā l i d u	pos=N poss=PSSD case=ACC num=SG	wālida 
+a l - w a š m u	pos=N def=DEF case=GEN num=PL	al-wušūmi 
+a l - w a s w a s a t u	pos=N poss=PSSD case=ACC num=SG	waswasata 
+a l - y a m ī n u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	al-yamīn 
+a l - y a m m u	pos=N def=DEF case=ACC num=DU	al-yammayni 
+a l - y a m m u	pos=N def=DEF case=GEN num=PL	al-yumūmi 
+a l - y a m m u	pos=N def=INDF case=GEN num=DU	yammayni 
+a l - y a w m u	pos=N def=DEF case=GEN num=SG	al-yawmi 
+ʾ a l z a m a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nulzam 
+ʾ a ʿ m a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾuʿmiltunna 
+ʾ a ʿ m a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuʿmaru 
+ʿ a m ī q u n	pos=ADJ def=DEF case=NOM gen=MASC num=SG	al-ʿamīqu 
+ʾ a m m a m a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuʾammamī 
+ʾ a m m a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuʾammamu 
+ʾ a m m a n a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yuʾammanā 
+ʿ a m m ā	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʿummīnā 
+ʿ a m m a q a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʿummiqnā 
+ʾ a m m a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuʾammirāni 
+ʿ ā m m i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-ʿāmmiyya 
+ʿ ā m m i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-ʿāmmiyyatayn 
+ʿ ā m m u n	pos=ADJ def=INDF case=ACC gen=FEM num=SG	ʿāmmatan 
+ʾ a m r ī k i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=PL	al-ʾamrīkiyyīna 
+ʾ a m s a k a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾamsakna 
+ʾ a m ṭ a r a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾumṭirtu 
+ʾ a m ṭ a r a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yumṭara 
+ʾ a m y a l u	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-maylāʾu 
+ʾ a n ā m a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾunīma 
+ʾ a n ā r a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾunāra 
+ʾ a n b a ʾ a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=DU	ʾanbiʾā 
+ʾ a n b a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tunbaʾīna 
+ʾ a n b a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nunbiʾu 
+ʾ a n b a ʾ a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nunbaʾa 
+ʾ a n ḥ a l a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾunḥilū 
+ʾ a n j a z a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	tunjizī 
+ʾ a n j a z a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾunjaza 
+ʾ a n j a z a	pos=V voice=PASS	munjaz 
+a n - n a b ī ḏ u	pos=N def=INDF case=ACC num=PL	ʾanbiḏatan 
+a n - n a b ī ḏ u	pos=N poss=PSSD case=NOM num=SG	nabīḏu 
+a n - n a ḥ w u	pos=N poss=PSSD case=GEN num=DU	naḥway 
+a n - n a j j ā m u	pos=N poss=PSSD case=GEN num=SG	najjāmi 
+a n - n a k b a t u	pos=N poss=PSSD case=ACC num=SG	nakbata 
+a n - n a s l u	pos=N def=DEF case=GEN num=PL	al-ʾansāli 
+a n - n a s r u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	nasr 
+a n - n a t ī j a t u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	an-natīja 
+a n - n a t ī j a t u	pos=N poss=PSSD case=ACC num=SG	natījata 
+a n - n ā y u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	nāy 
+a n - n ā y u	pos=N def=INDF case=NOM num=PL	nāyātun 
+a n - n a y z a k u	pos=N poss=PSSD case=ACC num=SG	nayzaka 
+a n - n a ẓ a r i y y a t u	pos=N def=DEF case=ACC num=DU	an-naẓariyyatayni 
+a n - n a ẓ a r i y y a t u	pos=N def=DEF case=GEN num=PL	an-naẓariyyāti 
+a n - n a ẓ ẓ ā r a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	naẓẓārāt 
+a n - n ī š ā n u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	nayāšīn 
+a n - n i s b a t u	pos=N poss=PSSD case=NOM num=PL	nisabu 
+a n - n i ẓ ā m u	pos=N def=DEF case=GEN num=SG	an-niẓāmi 
+a n - n i ẓ ā m u	pos=N def=DEF case=NOM num=DU	an-niẓāmāni 
+a n - n u s ḵ a t u	pos=N def=INDF case=GEN num=DU	nusḵatayni 
+ʾ a n ṣ a t a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nunṣata 
+ʿ ā q a b a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuʿāqabā 
+ʾ a q ā m a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuqīmā 
+ʾ a q ā m a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuqam 
+ʾ a q ā m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾaqāmū 
+ʾ a q a r r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuqirru 
+ʾ a q b a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuqbalū 
+ʾ a q b a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʾaqbalna 
+ʾ a q b a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuqbaru 
+ʾ a q f a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuqfilī 
+ʾ a q f a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuqfilīna 
+ʾ a q f a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuqfalāni 
+ʾ a q f a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaqfalti 
+ʾ a q f a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaqfalat 
+ʿ a q l i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=PL	al-ʿaqliyyāt 
+ʿ a q l i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=PL	al-ʿaqliyyātu 
+ʿ a q q a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuʿaqqamāni 
+ʿ a q q a m a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tuʿaqqamna 
+ʿ a q q a m a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tuʿaqqamā 
+ʾ a q r a ḍ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuqriḍna 
+ʿ a r a b i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	ʿarabiyyayni 
+ʾ a r ʿ a d a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾurʿidna 
+ʾ a r ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nurā 
+ʾ a r ā	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuriya 
+ʿ a r ī q u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	ʿarīqin 
+ʾ a r m ī n i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	ʾarmīniyyan 
+ʿ a r r a b a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʿarrabnā 
+ʿ a r r a b a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʿarrabtunna 
+a r - r a b ṭ a t u	pos=N poss=PSSD case=ACC num=DU	rabṭatay 
+a r - r ā h i b u	pos=N def=DEF case=NOM num=DU	ar-rāhibāni 
+a r - r a ʾ ī s u	pos=N def=INDF case=ACC num=SG	raʾīsan 
+ʾ a r r a ḵ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuʾarriḵ 
+ʾ a r r a ḵ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuʾarraḵu 
+ʾ a r r a ḵ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuʾarriḵāni 
+a r - r ā k i b u	pos=N def=INDF case=GEN num=DU	rākibayni 
+a r - r ā y a t u	pos=N def=INDF case={NOM/ACC/GEN} num=DU	rāyatayn 
+a r - r i w ā y a t u	pos=N def=INDF case=ACC num=DU	riwāyatayni 
+a r - r i w ā y a t u	pos=N def=INDF case=ACC num=PL	riwāyātin 
+a r - r i y ā l u	pos=N def=DEF case=NOM num=PL	ar-riyālātu 
+ʾ a r š a d a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=DU	ʾaršidā 
+ʾ a r š a d a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuršid 
+ʾ a r š a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	turšadāni 
+ʾ a r s a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tursilā 
+ʾ a r s a l a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nursil 
+ʾ a r s a l a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾursilā 
+ʾ a s ā ʾ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tusīʾā 
+ʾ a ṣ ā b a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuṣībī 
+ʾ a ṣ ā b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tuṣibna 
+ʿ a s a b i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	ʿasabiyyātin 
+ʾ a s ʾ a m a	pos=V voice=PASS	musʾam 
+ʾ a š ʿ a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tušʿirā 
+ʿ a š a w ā ʾ i y y u n	pos=ADJ def=DEF case=GEN gen=FEM num=PL	al-ʿašawāʾiyyāti 
+ʿ a š a w ā ʾ i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=PL	al-ʿašawāʾiyyīn 
+ʿ a š a w ā ʾ i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=SG	ʿašawāʾiyyatan 
+ʾ a ṣ f a r a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=PL	yuṣfarū 
+ʾ a š ḡ a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yušḡalū 
+ʾ a ṣ ḡ ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuṣḡa 
+ʾ a ṣ ḡ ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaṣḡat 
+ʾ a ṣ ḡ a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuṣḡiru 
+ʾ a ṣ ḡ a r a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=DU	tuṣḡarā 
+ʾ a š h a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yušhidūna 
+ʿ a š i q a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taʿšaqu 
+ʿ a š i q a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=PL	yuʿšaqū 
+ʾ a š k a l a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	ʾaškilī 
+ʾ a š ḵ a ṣ a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾušḵiṣa 
+ʾ a s ḵ a ṭ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾusḵiṭū 
+ʾ a s l a k a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ʾaslakat 
+ʾ a s l a k a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tuslika 
+ʾ a s l a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuslima 
+ʾ a s m a ʿ a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾusmaʿa 
+ʾ a s m ā	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾusmīnā 
+ʾ a š q a r u	pos=ADJ def=DEF case=NOM gen=FEM num=SG	aš-šaqrāʾu 
+ʾ a š q a r u	pos=ADJ def=INDF case=NOM gen=FEM num=PL	šuqrun 
+ʾ a š q a r u	pos=ADJ def=INDF case=NOM gen=MASC num=SG	ʾašqaru 
+ʾ a s q a ṭ a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾusqiṭa 
+ʾ a š r a k a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tušrakā 
+ʾ a š r a k a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yušrakna 
+ʾ a š r a k a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nušrik 
+ʾ a š r a k a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tušraku 
+a s - s a b ī l u	pos=N def=DEF case=ACC num=DU	as-sabīlayni 
+a s - s a b ī l u	pos=N def=DEF case=NOM num=SG	as-sabīlu 
+a ṣ - ṣ a b i y y u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	aṣ-ṣabī 
+a ṣ - ṣ a d ī q u	pos=N poss=PSSD case=ACC num=SG	ṣadīqa 
+a ṣ - ṣ a d ī q u	pos=N poss=PSSD case=GEN num=DU	ṣadīqay 
+a ṣ - ṣ a d r u	pos=N def=INDF case=GEN num=DU	ṣadrayni 
+a ṣ - ṣ a d r u	pos=N poss=PSSD case=GEN num=SG	ṣadri 
+a ṣ - ṣ a f a n u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ʾaṣfān 
+a ṣ - ṣ a f f u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	ṣaff 
+a ṣ - ṣ a f ḥ a t u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ṣafḥāt 
+a ṣ - ṣ a f q a t u	pos=N def=INDF case=NOM num=PL	ṣafaqātun 
+a ṣ - ṣ ā ḥ i b u	pos=N def=DEF case=NOM num=SG	aṣ-ṣāḥibu 
+a š - š a h ī d u	pos=N def=DEF case=ACC num=SG	aš-šahīda 
+a s - s ā ḥ i r u	pos=N poss=PSSD case=NOM num=DU	sāḥirā 
+a ṣ - ṣ a k k u	pos=N poss=PSSD case=GEN num=PL	ṣukūki 
+a ṣ - ṣ a l ī b u	pos=N def=DEF case=GEN num=DU	aṣ-ṣalībayni 
+a š - š a ʾ n u	pos=N def=DEF case=NOM num=DU	aš-šaʾnāni 
+a š - š a ʾ n u	pos=N def=INDF case=NOM num=SG	šaʾnun 
+ʿ a š š a q a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuʿaššiqū 
+a s - s a q f u	pos=N def=INDF case=ACC num=PL	suqūfan 
+a š - š a q q a t u	pos=N def=DEF case={NOM/ACC/GEN} num=PL	aš-šiqaq 
+a š - š a q q a t u	pos=N poss=PSSD case=ACC num=PL	šiqaqa 
+a š - š a r a j u	pos=N def=INDF case=GEN num=DU	šarajayni 
+a š - š ā r i b u	pos=N def=DEF case=GEN num=SG	aš-šāribi 
+a š - š ā r i b u	pos=N def=INDF case=GEN num=PL	šawāriba 
+a š - š a r ī ṭ u	pos=N def=DEF case=NOM num=SG	aš-šarīṭu 
+a š - š a r š a f u	pos=N def=INDF case=ACC num=PL	šarāšifa 
+a š - š a r ṭ u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	šurūṭ 
+ʾ a s s a s a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ʾussisna 
+ʾ a s s a s a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾussisā 
+a ṣ - ṣ a y f u	pos=N def=DEF case=GEN num=SG	aṣ-ṣayfi 
+a š - š a y ʾ u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ʾašyāʾ 
+a s - s a y y ā r a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	sayyārāt 
+a š - š i ʿ ā r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	šiʿār 
+a s - s i f ā r a t u	pos=N def=DEF case=GEN num=DU	as-sifāratayni 
+a ṣ - ṣ ī ḡ a t u	pos=N def=INDF case=ACC num=DU	ṣīḡatayni 
+a ṣ - ṣ ī ḡ a t u	pos=N poss=PSSD case=NOM num=SG	ṣīḡatu 
+a s - s i k k a t u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	as-sikka 
+a s - s i l ā ḥ u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	ʾasliḥa 
+a s - s i m a t u	pos=N def=INDF case=NOM num=DU	simatāni 
+a s - s i n j ā b u	pos=N def=DEF case=NOM num=DU	as-sinjābāni 
+a s - s ī r a t u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	sīrat 
+a š - š i r y ā n u	pos=N poss=PSSD case={NOM/ACC/GEN} num=SG	širyān 
+a š - š i t ā ʾ u	pos=N def=INDF case=NOM num=SG	šitāʾun 
+a š - š i t ā ʾ u	pos=N poss=PSSD case=NOM num=DU	šitāʾā 
+a s - s i y ā s a t u	pos=N poss=PSSD case=GEN num=PL	siyāsāti 
+a s - s u t r a t u	pos=N def=DEF case={NOM/ACC/GEN} num=DU	as-sutratayn 
+ʾ a ṭ ā ʿ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tuṭīʿā 
+ʾ a t ʿ a b a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ʾatʿabā 
+ʾ a ṭ ā l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuṭālāni 
+ʾ a ṭ ʿ a m a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuṭʿamāni 
+ʾ a ṭ ʿ a m a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tuṭʿamā 
+ʾ a t ā	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ʾataytumā 
+ʾ a t ā	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾātiya 
+ʾ ā ṯ a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuʾṯarā 
+ʾ a ṭ r a š u	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	ṭaršāʾ 
+ʾ a ṭ r a š u	pos=ADJ def=INDF case=NOM gen=MASC num=SG	ʾaṭrašu 
+a ṭ - ṭ a b a q u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	ṭabaqay 
+a ṭ - ṭ a b ī ʿ i y y u	pos=N def=DEF case=GEN num=DU	aṭ-ṭabīʿiyyayni 
+a t - t a b r ī r u	pos=N def=INDF case=GEN num=SG	tabrīrin 
+a t - t a b r ī r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	tabrīray 
+a ṯ - ṯ a d i y i y y u	pos=N def=INDF case=ACC num=PL	ṯadīyyātin 
+a t - t a ḏ k i r a t u	pos=N poss=PSSD case=NOM num=DU	taḏkiratā 
+a t - t a d r ī b u	pos=N def=DEF case={NOM/ACC/GEN} num=SG	at-tadrīb 
+a t - t ā j i r u	pos=N def=INDF case=GEN num=SG	tājirin 
+a ṯ - ṯ a ʿ l a b u	pos=N def=DEF case=NOM num=DU	aṯ-ṯaʿlabāni 
+a ṭ - ṭ a ʿ n u	pos=N poss=PSSD case=GEN num=PL	ṭuʿī 
+a t - t a q d ī m u	pos=N poss=PSSD case=GEN num=DU	taqdīmay 
+a t - t a q d ī m u	pos=N poss=PSSD case={NOM/ACC/GEN} num=DU	taqdīmay 
+a t - t a q ṣ ī r u	pos=N poss=PSSD case={NOM/ACC/GEN} num=PL	taqṣīrāt 
+a t - t a q w ī m u	pos=N def=DEF case=ACC num=SG	at-taqwīma 
+ʾ a ṯ ṯ a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yuʾaṯṯirāni 
+a ṭ - ṭ a r i b u	pos=N def=INDF case=ACC num=SG	ṭariban 
+a t - t a ʿ r ī f u	pos=N def=DEF case=ACC num=DU	at-taʿrīfayni 
+a t - t ā r ī ḵ u	pos=N poss=PSSD case=GEN num=DU	tārīḵay 
+a t - t a ʾ r ī ḵ u	pos=N poss=PSSD case=GEN num=SG	taʾrīḵi 
+a ṭ - ṭ a r ī q u	pos=N def=DEF case=GEN num=PL	aṭ-ṭuruqāti 
+a ṭ - ṭ a r ī q u	pos=N def=INDF case=GEN num=SG	ṭarīqin 
+a t - t a s ā ʾ u l u	pos=N poss=PSSD case=NOM num=SG	tasāʾulu 
+a t - t a ʾ š ī r a t u	pos=N def=INDF case={NOM/ACC/GEN} num=PL	taʾšīrāt 
+a t - t a s m i y a t u	pos=N def=DEF case=ACC num=DU	at-tasmiyatayni 
+a t - t a š r ī ʿ u	pos=N def=INDF case={NOM/ACC/GEN} num=SG	tašrīʿ 
+a ṯ - ṯ a w b u	pos=N poss=PSSD case=GEN num=SG	ṯawbi 
+a ṭ - ṭ i f l u	pos=N def=INDF case=ACC num=SG	ṭiflan 
+a t - t i l i f ū n u	pos=N poss=PSSD case=GEN num=DU	tilifūnay 
+a t - t i m s ā ḥ u	pos=N def=INDF case=ACC num=DU	timsāḥayni 
+a t - t ī n a t u	pos=N poss=PSSD case=ACC num=DU	tīnatay 
+a t - t i r y ā q u	pos=N def=INDF case=GEN num=SG	tiryāqin 
+ʾ a w ā	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ʾuwiya 
+ʾ a w ā	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuʾwā 
+ʾ a ʿ w a r u	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-ʿawrāʾayn 
+ʾ a ʿ w a r u	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-ʿawrāʾu 
+ʾ a ʿ w a r u	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=DU	ʾaʿwarayn 
+ʾ a w d a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yūdaʿ 
+ʾ a w d a ʿ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ʾūdiʿā 
+ʾ a w f ā	pos=V mood=IMP gen=FEM per=2 voice=ACT num=PL	ʾawfīna 
+ʾ a w j a b a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=DU	tūjabā 
+ʾ a w j a b a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yūjibna 
+ʾ a w l a d a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yūladā 
+ʾ a w l ā	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tūlā 
+ʾ a w q a f a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tūqafā 
+ʾ a w q a f a	pos=V voice=PASS	mūqaf 
+ʾ a w r ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾūrā 
+ʾ a w r a ṯ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yūraṯu 
+ʾ a w w a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuʾawwalā 
+ʾ a w w a l a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yuʾawwila 
+ʾ a y q a n a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	ʾayqinū 
+ʾ a y q a ẓ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tūqaẓna 
+ʾ a y q a ẓ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yūqaẓūna 
+ʿ a z a l a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ʿazalū 
+ʿ a z a r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=SG	iʿzir 
+ʿ a z a r a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuʿzar 
+ʿ a ẓ ī m u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=SG	ʿaẓīm 
+a z - z ā ʾ i r u	pos=N poss=PSSD case=NOM num=SG	zāʾiru 
+a z - z a m a n u	pos=N def=DEF case={NOM/ACC/GEN} num=PL	al-ʾazmān 
+a z - z a m a n u	pos=N def=INDF case=ACC num=PL	ʾazmānan 
+a z - z i y ā r a t u	pos=N poss=PSSD case=GEN num=SG	ziyārati 
+a z - z u b d a t u	pos=N def=DEF case=NOM num=SG	az-zubdatu 
+a z - z u b r a t u	pos=N def=INDF case=ACC num=DU	zubratayni 
+b a d a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tubdaʾāni 
+b a d a ʾ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	badaʾā 
+b ā d a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tubādilna 
+b a d ā	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	tabduwa 
+b a ḥ a ṯ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tabḥaṯū 
+b a ḥ r a y n i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=PL	baḥrayniyyīna 
+b a ḥ r a y n i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	baḥrayniyya 
+b a ʿ ī d u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=PL	al-baʿīdāt 
+b a l l a ʿ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuballaʿūna 
+b a n ā	pos=V mood=IMP gen=FEM per=2 voice=ACT num=DU	ibniyā 
+b a n ā	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	bunītum 
+b a n ā	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾabniya 
+b ā r ā	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yubārū 
+b ā r i d u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-bāridayn 
+b a r r a k a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	barraktumā 
+b ā s a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tubāsā 
+b ā s a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=PL	yubasna 
+b a ṣ a q a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yubṣaq 
+b a ṣ a q a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tubṣaqna 
+b a ṣ a q a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nubṣaqa 
+b a s a ṭ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tabsuṭ 
+b a s a ṭ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yubsaṭ 
+b a s a ṭ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	busiṭtu 
+b a s a ṭ a	pos=V voice=ACT	bāsiṭ 
+b ā ṭ i l u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	bāṭilatayni 
+b a ṭ ī ʾ u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	baṭīʾayni 
+b a t t a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yabittāni 
+d a b b a b a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	dabbibī 
+d a b b a b a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nudabbaba 
+d ā f a ʿ a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nudāfaʿa 
+d a f ī ʾ u n	pos=ADJ def=DEF case=GEN gen=MASC num=SG	ad-dafīʾi 
+ḏ a h a b i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	ḏahabiyyin 
+d a ḥ ā	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=SG	tudḥay 
+d a ḥ r a j a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tudaḥrajā 
+d a ḥ r a j a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nudaḥriju 
+d a ḥ r a j a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	tudaḥrijū 
+ḍ a ʿ ī f u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	aḍ-ḍaʿīfatayn 
+ḍ a ʿ ī f u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	ḍaʿīfan 
+ḍ ā j a ʿ a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tuḍājiʿna 
+ḏ ā k a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuḏākirā 
+ḏ ā k a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuḏākar 
+ḏ a k i y y u n	pos=ADJ def=INDF case=NOM gen=MASC num=PL	ḏakiyyūna 
+d a l l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yudallu 
+d ā m a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yadūmū 
+d ā m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tadūmu 
+d a m m a m a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾudammima 
+d a m m a m a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tudammimā 
+d a n d a n a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tudandanā 
+ḏ ā q a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuḏaq 
+ḏ a r ā	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	uḏrī 
+ḏ a r ā	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaḏrūna 
+ḏ a r r i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=PL	aḏ-ḏarriyyīna 
+d ā w a r a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	dūwirnā 
+d ā w a r a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tudāwarā 
+d i b l ū m ā s i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=DU	ad-diblūmāsiyyatayni 
+d u s t ū r i y y u n	pos=ADJ def=INDF case=NOM gen=FEM num=PL	dustūriyyātun 
+d u s t ū r i y y u n	pos=ADJ def=INDF case=NOM gen=MASC num=DU	dustūriyyāni 
+f a h i m a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yufhama 
+f a ḥ u š a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	faḥušatā 
+f ā ʾ i z u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	fāʾizayni 
+f ā j a ʾ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	fūjiʾnā 
+f a ḵ ū r u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-faḵūratāni 
+f a l a k i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=PL	al-falakiyyāt 
+f a r a d a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yufradā 
+f a r a d a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=PL	yufradū 
+f a r a d a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yufrada 
+f ā r a q a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾufāriqu 
+f a r i ḥ u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-fariḥayn 
+f ā r i ʿ u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	fāriʿatayni 
+ḡ a ḍ i b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yaḡḍabāni 
+ḡ ā ʾ i b u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-ḡāʾiba 
+ḡ ā ʾ i m u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	ḡāʾima 
+ḡ a l ā	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yaḡli 
+ḡ a l ā	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ḡalaw 
+ḡ ā l i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-ḡāliyyayn 
+ḡ ā l i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	ḡāliyyīna 
+ḡ a m a r a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ḡamartu 
+ḡ a n i y y u n	pos=ADJ def=INDF case=NOM gen=MASC num=DU	ḡaniyyāni 
+ḡ a n n ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuḡanni 
+ḡ a n n ā	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=PL	yuḡannaw 
+ḡ a r r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	ḡurrū 
+ḡ a r r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	taḡurrāni 
+ḡ a r r a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	naḡurra 
+ḡ a ṭ ṭ ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuḡaṭṭi 
+ḡ a ṭ ṭ ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yuḡaṭṭīna 
+h a b a r a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yahburna 
+ḥ a d a ṯ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuḥdaṯ 
+ḥ a d a ṯ a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yaḥduṯa 
+h a d d a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuhaddadu 
+h a d d a d a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	haddadat 
+ḥ a d d a ṯ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ḥaddaṯtum 
+ḥ a d d a ṯ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ḥuddiṯū 
+ḥ a f a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ḥufiltumā 
+ḥ a f a r a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuḥfar 
+ḥ a f a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naḥfiru 
+ḥ a f a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuḥfaru 
+ḥ a f a r a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾaḥfira 
+ḥ a f f a l a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuḥaffilā 
+h a j a m a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yahjumna 
+h ā j a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yuhājimu 
+h a j a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	hajama 
+h ā j a m a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tuhājamā 
+h ā j a r a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	nuhājira 
+ḥ a j j a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaḥujjūna 
+ḥ a k ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	taḥkūna 
+ḥ a k ā	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	taḥkiyā 
+ḥ a k ī m u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	al-ḥakīmāti 
+ḥ a l l a l a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	ḥallilī 
+ḥ a l l a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ḥullilat 
+ḥ a l l a l a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tuḥallalā 
+ḥ a m ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taḥmi 
+h a n d a s a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	hundisa 
+h a n n a ʾ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuhanniʾ 
+ḥ a n n a ʾ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tuḥannaʾā 
+h a n n a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuhannaʾna 
+ḥ a n n a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuḥanniʾāni 
+h a n n a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tuhanniʾūna 
+ḥ a q q a q a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ḥuqqiqtunna 
+h a r a b a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tahrubā 
+ḥ ā r a b a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuḥāraba 
+ḥ a r a q a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ḥuriqtumā 
+ḥ a r a ṯ a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	uḥruṯū 
+ḥ a r a ṯ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ḥuriṯtunna 
+h a r r a b a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuharrabna 
+ḥ a r r a q a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuḥarraq 
+ḥ a r r a q a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tuḥarriq 
+ḥ a r r a r a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuḥarrirna 
+ḥ a r r a r a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ḥarrara 
+ḥ a r r a r a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tuḥarrarū 
+ḥ a š a d a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	taḥšudī 
+ḥ a s a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuḥsadāni 
+ḥ a š a d a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nuḥšada 
+ḥ a š a d a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	naḥšuda 
+ḥ a ṣ a l a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaḥṣul 
+ḥ a ṣ a l a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaḥṣulna 
+ḥ a š a r a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuḥšar 
+ḥ a š š a d a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuḥaššad 
+ḥ ā ṭ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	taḥūṭāni 
+ḥ ā ṭ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yaḥūṭu 
+ḥ a ṭ ṭ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuḥaṭṭūna 
+ḥ ā w a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuḥāwilāni 
+ḥ ā w a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ḥūwilna 
+ḥ ā w a l a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tuḥāwila 
+ḥ ā w a l a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yuḥāwalā 
+ḥ a w ā	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuḥwa 
+ḥ a w ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	taḥwiyāni 
+ḥ ā w a ṭ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ḥāwaṭnā 
+h a y ū l i y y u n	pos=ADJ def=DEF case=GEN gen=FEM num=PL	al-hayūliyyāti 
+h a y ū l i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	hayūliyyayni 
+ḥ a y y ā	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yuḥayyiyā 
+ḥ a z ī n u n	pos=ADJ def=DEF case=GEN gen=FEM num=SG	al-ḥazīnati 
+h i n d i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	hindiyyayni 
+ʾ i b l ī s i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	ʾiblīsiyyāt 
+i b t a ʿ a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tabtaʿidu 
+i b t a ʿ a d a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tabtaʿidā 
+i b t ā ʿ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yubtaʿna 
+i b t ā ʿ a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yubtāʿa 
+i b t a d a ʾ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ibtadaʾtumā 
+i b t a l a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yabtaliʿū 
+i b t a s a m a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yabtasimna 
+i b t a s a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ibtasama 
+i b t a s a m a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yabtasimū 
+i b t a s a r a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nubtasar 
+i b t a s a r a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ibtasara 
+i b t a s a r a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tabtasirā 
+i d d a ʿ ā	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	taddaʿī 
+i ḏ ḏ a k a r a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naḏḏakir 
+i ḏ ḏ a k a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuḏḏakarū 
+i ḏ ḏ a k a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	taḏḏakirūna 
+i ḍ m a ḥ a l l a	pos=V voice=PASS	muḍmaḥall 
+i ḍ r a ḡ a ṭ ṭ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taḍraḡiṭṭu 
+i ḍ r a ḡ a ṭ ṭ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuḍraḡaṭṭu 
+i ḍ ṭ a r r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	iḍṭarrū 
+i f t a ʿ a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	uftuʿilti 
+i f t a ʿ a l a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	taftaʿilna 
+i ḡ t a ṣ a b a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaḡtaṣib 
+i ḡ t a ṣ a b a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	taḡtaṣibū 
+i ḡ t a ṣ a b a	pos=V voice=ACT	muḡtaṣib 
+i ḥ q a w q a f a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yaḥqawqifa 
+i ḥ t a f a l a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	uḥtufiltu 
+i ḥ t ā j a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	iḥtajtumā 
+i ḥ t a m a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuḥtamalu 
+i ḥ t a r a b a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=PL	iḥtaribna 
+i ḥ t a s a b a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾaḥtasiba 
+i ḥ t a s a b a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tuḥtasabū 
+i ḥ t a š a d a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=SG	iḥtašid 
+i ḥ t ā ṭ a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=SG	iḥtaṭ 
+i ḥ t ā ṭ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	iḥtaṭtu 
+i ḥ t a w ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaḥtawīna 
+i ḥ t a w ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	taḥtawiya 
+i j t a h a d a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tajtahidā 
+i j t a m a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tajtamiʿū 
+i j t i m ā ʿ i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-ijtimāʿiyyayn 
+i ḵ r a n m a s a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	taḵranmisū 
+i ḵ r a n ṭ a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	iḵranṭama 
+i ḵ r a w w a ṭ a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=DU	iḵrawwiṭā 
+i ḵ t a b a r a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	iḵtabarnā 
+i ḵ t a b a r a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	uḵtubirna 
+i ḵ t a m a r a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	taḵtamira 
+i ḵ t a r a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuḵtaraʿ 
+i ḵ t a r a q a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=PL	iḵtariqna 
+i ḵ t a r a q a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	taḵtariqa 
+i ḵ t a r a q a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tuḵtaraqū 
+i ḵ t a r a q a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yaḵtariqā 
+i k t a š a f a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuktašaf 
+i k t a t a b a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuktataba 
+ʿ i l m i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=PL	ʿilmiyyīn 
+i l t a f a t a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	naltafita 
+i l t a m a s a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ultumisā 
+ʾ i m ā r ā t i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=DU	al-ʾimārātiyyayni 
+ʿ i m l ā q i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	ʿimlāqiyyīna 
+ʿ i m l ā q i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=DU	ʿimlāqiyyayn 
+i m t a d d a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	imtadadna 
+i m t a ḥ a n a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	namtaḥinu 
+i m t a ḥ a n a	pos=V voice=PASS	mumtaḥan 
+i m t a l a k a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tamtalikā 
+i m t a l a k a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yumtalak 
+i m t a l a k a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	tamtalikū 
+i m t a ṯ a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	umtuṯilti 
+i n ʿ a q a d a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	tanʿaqidī 
+ʾ i n d ū n ī s i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=PL	ʾindūnīsiyyīn 
+i n f a ṣ a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tanfaṣilna 
+i n f a ṣ a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	infaṣaltumā 
+i n f a ṣ a l a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tanfaṣilā 
+i n ḥ a r a f a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	inḥarafta 
+i n ḥ a r a f a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	inḥarafā 
+i n k a t a b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tankatibu 
+ʾ i n k i l ī z i y y u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	ʾinkilīziyyatun 
+i n q ā d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	inqadti 
+i n q a r a ḍ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	inqaraḍti 
+i n q a r a ḍ a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	inqaraḍna 
+i n q a r a ḍ a	pos=V voice=PASS	munqaraḍ 
+i n ṣ a r a f a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yanṣarifā 
+i n t a f a ḍ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	tantafiḍū 
+i n t a f a ḵ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tantafiḵna 
+i n t a f a ḵ a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yantafiḵū 
+i n t a ḥ a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yantaḥilu 
+i n t a ḥ a l a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tuntaḥalā 
+i n ṯ a n ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yanṯanūna 
+i n t a w ā	pos=V voice=PASS	muntawan 
+i n t a ẓ a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuntaẓamu 
+i n t a ẓ a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuntaẓamūna 
+i n t a ẓ a m a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	intaẓamtu 
+i n t a ẓ a m a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	intaẓamtum 
+i n t a ẓ a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	untuẓimū 
+i n t a ẓ a m a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾuntaẓama 
+i q t a b a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuqtabal 
+i q t a ḍ a b a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	iqtaḍabatā 
+i q t a ḍ a b a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yaqtaḍibna 
+i q t a ḍ ā	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuqtaḍay 
+i q t a ḍ ā	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	iqtaḍaytumā 
+i q t a r a b a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yaqtaribna 
+i q t a r a ḍ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	iqtaraḍtu 
+i q t a ṣ a d a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaqtaṣidna 
+i q t a ṣ a d a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	taqtaṣidī 
+i q t a ṭ ṭ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuqtaṭṭu 
+i q t a ṭ ṭ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	iqtaṭṭa 
+i q t a ṭ ṭ a	pos=V voice=ACT	muqtaṭṭ 
+ʿ i r ā q i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	ʿirāqiyyātin 
+ʿ i r ā q i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=DU	ʿirāqiyyayn 
+i r t a f a ʿ a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=PL	irtafiʿna 
+i r t a f a ʿ a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tartafiʿna 
+i r t a j a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tartajilna 
+i r t a j a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	irtajaltumā 
+i s l a n ṭ a ʿ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	taslanṭiʿū 
+i s l a n ṭ a ḥ a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naslanṭiḥ 
+i s t a ʿ a d d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istaʿdadtunna 
+i s t a ʿ b a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastaʿbidu 
+i s t a ʿ b a d a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ustuʿbidatā 
+i ṣ ṭ a b a ḥ a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naṣṭabiḥ 
+i ṣ ṭ a b a ḥ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuṣṭabaḥāni 
+i s t a b d a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yustabdalā 
+i s t a ḍ ā ʾ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istaḍāʾū 
+i s t a d a r r a	pos=V voice=ACT	mustadirr 
+i s t a ḏ n a b a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastaḏnib 
+i s t a f ā d a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tustafādā 
+i s t a f ā d a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastafid 
+i s t a f ā d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tastafīdīna 
+i s t a f ā d a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yastafīdā 
+i s t a f h a m a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yastafhim 
+i s t a f h a m a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tastafhimna 
+i s t a f h a m a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istafhamnā 
+i š t a ḡ a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ištaḡalatā 
+i š t a ḡ a l a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	taštaḡila 
+i s t a ḥ a m m a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tastaḥimmū 
+i s t a ḥ a q q a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yustaḥaqqā 
+i s t a ḥ ḍ a r a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tustaḥḍara 
+i s t a ḥ f a ẓ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastaḥfiẓ 
+i s t a ḥ f a ẓ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	istaḥfaẓtumā 
+i s t a ḥ f a ẓ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ustuḥfiẓā 
+i s t a h z a ʾ a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=DU	istahziʾā 
+i s t a h z a ʾ a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tustahzaʾū 
+i s t a ʿ j a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾastaʿjilu 
+i s t a ʿ j a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	istaʿjaltumā 
+i s t a ʿ j a l a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yustaʿjala 
+i s t a j a n n a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tustajnanna 
+i s t a ʾ j a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tustaʾjarāni 
+i s t a ʾ j a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ustuʾjirtum 
+i s t a k b a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastakbiru 
+i s t a ḵ b a r a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ustuḵbirtu 
+i s t a ḵ d a m a	pos=V voice=PASS	mustaḵdam 
+i s t a k r a h a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾustakrahu 
+i s t a k r a h a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istakrahū 
+i s t a k š a f a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tustakšafu 
+i s t a k š a f a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yustakšafāni 
+i s t a k š a f a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istakšafnā 
+i s t a k š a f a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=PL	tastakšifū 
+i s t a k ṯ a r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=DU	istakṯirā 
+i s t a k ṯ a r a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yastakṯirna 
+i s t a l a m a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	tastalimī 
+i s t a l h a m a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tastalhimū 
+i s t a l h a m a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yastalhim 
+i s t a l h a m a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nustalhama 
+i s t a l q ā	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tastalqī 
+i s t a m a ʿ a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=DU	istamiʿā 
+i s t a ʿ m a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tastaʿmilī 
+i s t a ʿ m a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yustaʿmalā 
+i s t a ʿ m a l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	istaʿmalat 
+i s t a ʾ m a n a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tustaʾmanīna 
+i s t a ʾ m a n a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tastaʾminu 
+i s t a ʿ m a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ustuʿmirtumā 
+i s t a m a r r a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tastamirrā 
+i s t a m ṭ a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istamṭartum 
+i s t a n a d a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tastanidā 
+i s t a n a d a	pos=V voice=PASS	mustanad 
+i s t a n ā r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tastanīrīna 
+i s t a n f a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yastanfirūna 
+i s t a n f a r a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	nastanfira 
+i s t a n f a r a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	tastanfira 
+i s t a n n a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yastannū 
+i s t a n n a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tastannā 
+i s t a n n a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾustanna 
+i s t a q a r r a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yastaqirrū 
+i s t a q b a ḥ a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾastaqbiḥa 
+i s t a q b a l a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yastaqbilā 
+i s t a q r a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tastaqriʾna 
+i s t a q r a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tustaqraʾna 
+i s t a q r a ḍ a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	istaqraḍatā 
+i s t a q ṭ a b a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾastaqṭib 
+i s t a q ṭ a r a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istaqṭarnā 
+i s t a ʿ r a b a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	nastaʿriba 
+i s t a ʿ r a ḍ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yastaʿriḍna 
+i s t a ʿ r a f a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tastaʿrifna 
+i s t a ʿ r a f a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ustuʿrifatā 
+i s t a r ā ḥ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tastarīḥā 
+i š t a r a k a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	taštarikna 
+i š t a r ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ištarat 
+i š t a r ā	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yaštariya 
+i s t a r z a q a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nustarzaqa 
+i s t a š ʿ a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istašʿartunna 
+i s t a ṣ b a ḥ a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	istaṣbiḥī 
+i s t a ṣ b a ḥ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tastaṣbiḥāni 
+i s t a ṣ d a r a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yastaṣdirā 
+i s t a ṣ d a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ustuṣdirtum 
+i s t a š h a d a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tastašhidā 
+i s t a s l a m a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	istaslamna 
+i s t a ṭ ā ʿ a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yastaṭīʿa 
+i s t a t ā b a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yustatāba 
+i s t a ṯ n ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tastaṯniyā 
+i s t a ṯ n ā	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tastaṯniyā 
+i š t a ṭ ṭ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ištaṭaṭtumā 
+i š t a ṭ ṭ a	pos=V voice=ACT	muštaṭṭ 
+i s t a w ā	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yastawi 
+i s t a w l ā	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nastawli 
+i s t a w q a f a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tustawqafū 
+i s t a w r a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tustawradāni 
+i s t a w r a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tustawradūna 
+i s t a ẓ h a r a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ustuẓhirat 
+i s t a ẓ h a r a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ustuẓhirnā 
+i s t a ẓ h a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ustuẓhirta 
+i ʿ t ā d a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	uʿtidtu 
+ʾ ī ṭ ā l i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=SG	al-ʾīṭāliyyi 
+ʾ ī ṭ ā l i y y u n	pos=ADJ def=INDF case=GEN gen=FEM num=SG	ʾīṭāliyyatin 
+i ʿ t a m a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	taʿtamilāni 
+i ʿ t a m a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuʿtamaru 
+i ʿ t a n ā	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	uʿtuniya 
+i ʿ t a n ā	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	naʿtaniya 
+i ʿ t a n ā	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	taʿtanīna 
+i ʿ t a q a d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	uʿtuqidti 
+i ʿ t a r a f a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuʿtarafīna 
+i ʿ t a z a m a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	taʿtazimū 
+i ṭ m a ʾ a n n a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	taṭmaʾinnāni 
+i t t a b a ʿ a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuttabaʿī 
+i t t a b a ʿ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tuttabaʿ 
+i t t a k a ʾ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tattakiʾ 
+i t t a k a ʾ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ittakaʾtumā 
+i t t a ḵ a ḏ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tuttaḵaḏu 
+i t t a ḵ a ḏ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ittaḵaḏnā 
+i t t a ḵ a ḏ a	pos=V voice=ACT	muttaḵiḏ 
+i ṯ ṯ a n ā	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	iṯṯanū 
+i ṯ ṯ a n ā	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	iṯṯanayti 
+i t t a q ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuttaqawna 
+i t t a ṣ a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ittaṣaltumā 
+i z d ā d a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	izdādī 
+i z d ā d a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	izdadtumā 
+i z d a h a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tazdahiru 
+i z d a r a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tazdaridāni 
+i z d a r a d a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nuzdarada 
+j ā ʿ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yajūʿūna 
+j ā b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tujābāni 
+j ā b a	pos=V mood=IND tense=PST gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	jibnā 
+j a b a r a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=DU	ujburā 
+j a d d a d a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=DU	jaddidā 
+j a ḏ ḏ a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	juḏḏirtunna 
+j a ḏ ḏ a r a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tujaḏḏirna 
+j ā ḏ i b u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	jāḏibin 
+j a d ī d u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-jadīdāni 
+j ā f f u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-jāffatāni 
+j a h a d a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=SG	tujhada 
+j a h a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tajhar 
+j a h h a z a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tujahhizna 
+j ā h i l u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-jāhilāni 
+j ā h i l u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	jāhila 
+j ā m a l a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾujāmil 
+j ā m a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	jāmaltum 
+j a r ā	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	najriya 
+j a r ā	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yajriya 
+j a r u ʾ a	pos=V voice=ACT	jāriʾ 
+j ā w a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tujāwirna 
+j ā w a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	jāwartumā 
+j ā w a z a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yujāwazna 
+j ā w a z a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nujāwaza 
+j a w w a f a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tujawwafūna 
+j a w w a f a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	jawwaftum 
+j a w w a f a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tujawwifā 
+j a w w i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=PL	al-jawwiyyīna 
+j a w w i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=DU	al-jawwiyyayni 
+j a y y a b a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nujayyaba 
+j ā z a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nujaz 
+j a z ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tujzā 
+j a z ā	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tajziyā 
+j a z ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tajziyā 
+j ā z a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tujāzū 
+j i n s i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-jinsiyyatu 
+j i n s i y y u n	pos=ADJ def=INDF case=NOM gen=FEM num=PL	jinsiyyātun 
+j u z a y ʾ i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-juzayʾiyyatayn 
+j u z a y ʾ i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	juzayʾiyyin 
+ḵ ā b a r a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ḵābartunna 
+ḵ ā b a r a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾuḵābara 
+k a b a s a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	nakbisa 
+k a b b a s a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tukabbasā 
+k a ḏ a b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	takḏibu 
+ḵ a d a m a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tuḵdamna 
+k ā f a ʾ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	kāfaʾū 
+k a f ā	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	kufītumā 
+ḵ ā f a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ḵīfat 
+ḵ a f ī f u n	pos=ADJ def=DEF case=GEN gen=FEM num=DU	al-ḵafīfatayni 
+ḵ a f ī f u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-ḵafīfāni 
+ḵ a f ī f u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	ḵafīfatun 
+ḵ a f i y y u n	pos=ADJ def=INDF case=NOM gen=FEM num=PL	ḵafiyyātun 
+k a h r a b a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yukahrabū 
+k a h r a b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾukahribu 
+ḵ ā l a f a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuḵālif 
+k ā l a m a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾukālim 
+k ā l a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tukālimu 
+k ā l a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yukālamūna 
+ḵ ā l a ṭ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ḵūliṭa 
+ḵ a l l ā q u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	ḵallāqan 
+ḵ a l l ā q u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	ḵallāqatun 
+k ā m i l u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	kāmilatayn 
+ḵ a r a j a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yaḵrujāni 
+ḵ a r a j a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuḵraju 
+ḵ a r a j a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ḵurija 
+ḵ a r a j a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾaḵruja 
+ḵ a r a q a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	taḵruqu 
+k a r r a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tukarrimāni 
+k a r r a m a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	karramnā 
+k a r r a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	kurrimā 
+ḵ a r ṭ a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuḵarṭamāni 
+k a s a b a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	kasabū 
+k a s a b a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuksaba 
+k a š a f a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	takšifāni 
+k a š a f a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yakšifna 
+ḵ a t a n a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taḵtin 
+ḵ a ʾ ū n u n	pos=ADJ def=INDF case=NOM gen=MASC num=SG	ḵaʾūnun 
+k a w n i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-kawniyyatu 
+ḵ a w w a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuḵawwal 
+ḵ a w w a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ḵawwalti 
+ḵ u ṣ ū ṣ i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-ḵuṣūṣiyyata 
+ḵ u ṣ ū ṣ i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-ḵuṣūṣiyya 
+l ā ʿ a b a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾulāʿaba 
+l a ʿ a n a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yulʿanu 
+l ā ḥ a ẓ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾulāḥaẓu 
+l a ʿ i q a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=SG	ilʿaq 
+l a ʿ i q a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	luʿiqa 
+l a ʿ i q a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=SG	tulʿaqa 
+l a m a s a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yalmisā 
+l ā q ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nulāqī 
+l ā q ā	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yulāqā 
+l ī b i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=PL	al-lībiyyātu 
+l u b n ā n i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-lubnāniyya 
+l u b n ā n i y y u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-lubnāniyyāni 
+m a ḍ a ḡ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tamḍuḡu 
+m a ḍ a ḡ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yumḍaḡūna 
+m a d a n i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-madaniyyatāni 
+m a d a n i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	madaniyyatayn 
+m a ḍ ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tamḍiya 
+m a ḍ b ū ṭ u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	maḍbūṭatun 
+m ā d d i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	māddiyyātin 
+m a f q ū d u n	pos=ADJ def=INDF case=NOM gen=MASC num=DU	mafqūdāni 
+m a f t ū ḥ u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-maftūḥatāni 
+m a ḥ ā	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	numḥā 
+m a j h ū l u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-majhūlatayn 
+m a j h ū l u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-majhūlatāni 
+m a j h ū l u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	majhūlayni 
+m a j h ū l u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	majhūlatayn 
+m a j m ū ʿ u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-majmūʿatayn 
+m a j m ū ʿ u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	majmūʿatun 
+m a k a r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	umkurū 
+m a k a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yumkaru 
+m a k s ū r u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	maksūratayni 
+m a ḵ t ū n u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	maḵtūnatayn 
+m a l a ʾ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tamlaʾ 
+m a l a ʾ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	malaʾtu 
+m a m n ū ʿ u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-mamnūʿatu 
+m a m n ū ʿ u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	mamnūʿayni 
+m a n a w i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-manawiyyayn 
+m a n n a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tamunnā 
+m a q ṭ ū ʿ u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-maqṭūʿāni 
+m ā r i d u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	māridatun 
+m ā r ū n i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=SG	al-mārūnī 
+m a s f ū ḥ u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	al-masfūḥāni 
+m a s f ū ḥ u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	masfūḥayni 
+m a š ḡ ū l u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	al-mašḡūlayn 
+m a š h ū d u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-mašhūdatayn 
+m a s ī ḥ i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=DU	al-masīḥiyyatayni 
+m a s ī ḥ i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=SG	al-masīḥiyya 
+m a s ī ḥ u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-masīḥatāni 
+m a s ī ḥ u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	masīḥatayni 
+m a š r ū ʿ u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	mašrūʿāt 
+m a ṣ ṣ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tumaṣṣīna 
+m a ṯ a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yumṯalu 
+m a ṯ a l a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾamṯula 
+m a ṯ a l a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾumṯala 
+m a w ḍ ū ʿ i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-mawḍūʿiyya 
+m a w w a t a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾumawwat 
+m a w w a t a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yumawwitna 
+m a w w a t a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	numawwitu 
+m a w w a t a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yumawwatūna 
+m ā z a ḥ a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tumāzaḥa 
+m i r r ī ḵ i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=PL	al-mirrīḵiyyīna 
+m i s k ī n u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	al-miskīna 
+m u d a w w a r u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	al-mudawwaratayn 
+m u ḥ ā f i ẓ u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	al-muḥāfiẓayni 
+m u ḥ t a l i m u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-muḥtalimatu 
+m u m t a l i ʾ u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	mumtaliʾāt 
+m u m t ā z u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-mumtāzatāni 
+m u n ā s i b u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=SG	al-munāsib 
+m u n a w w i m u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-munawwimata 
+m u n a w w i m u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	munawwiman 
+m u n d a ṯ i r u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	mundaṯirayni 
+m u n f a ṣ i l u n	pos=ADJ def=INDF case=GEN gen=FEM num=SG	munfaṣilatin 
+m u n ḵ a f i ḍ u n	pos=ADJ def=INDF case=NOM gen=FEM num=DU	munḵafiḍatāni 
+m u q a d d a s u n	pos=ADJ def=INDF case=NOM gen=MASC num=SG	muqaddasun 
+m ū s ī q i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	mūsīqiyyin 
+m u š m i s u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	al-mušmisāti 
+m u š m i s u n	pos=ADJ def=DEF case=GEN gen=FEM num=DU	al-mušmisatayni 
+m u s t a d ī r u n	pos=ADJ def=DEF case=GEN gen=MASC num=DU	al-mustadīrayni 
+m u s t a ʿ m i r u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	mustaʿmirayni 
+m u s t a q i l l u n	pos=ADJ def=DEF case=ACC gen=FEM num=DU	al-mustaqillatayni 
+m u s t a q i l l u n	pos=ADJ def=DEF case=NOM gen=MASC num=SG	al-mustaqillu 
+m u s t a q i l l u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	mustaqillayni 
+m u s t a q ī m u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	al-mustaqīmatu 
+m u s t a q ī m u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	mustaqīmayni 
+m u t a ʾ a k k i d u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	al-mutaʾakkidayni 
+m u t a d a y y i n u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	mutadayyinayni 
+m u t a w a s s i ṭ u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	mutawassiṭatayn 
+m u t a w a s s i ṭ u n	pos=ADJ def=INDF case=NOM gen=MASC num=PL	mutawassiṭūna 
+m u t t a ḥ i d u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	al-muttaḥidayni 
+m u z ʿ i j u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-muzʿijata 
+m u z ʿ i j u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	muzʿijan 
+n a b ī ḏ u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	nabīḏayni 
+n a b ī ḏ u n	pos=ADJ def=INDF case=NOM gen=MASC num=DU	nabīḏāni 
+n a b ī h u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	nabīhin 
+n a d ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tundaw 
+n a f a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	tunfaʿā 
+n a f a ʿ a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yanfaʿna 
+n a f a ḏ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾunfaḏ 
+n a f a ḏ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	nafaḏtum 
+n ā f a r a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tunāfarī 
+n ā f a s a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tunāfis 
+n ā f a s a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾunāfisa 
+n ā f a s a	pos=V voice=PASS	munāfas 
+n a f f a q a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	nuffiqta 
+n a f f a q a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	naffaqā 
+n a f f a q a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tunaffaqna 
+n a f f a r a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tunaffira 
+n a f ī s u n	pos=ADJ def=DEF case=GEN gen=MASC num=DU	an-nafīsayni 
+n ā f i ʿ u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=DU	an-nāfiʿatayn 
+n ā ʿ i m u n	pos=ADJ def=INDF case=ACC gen=FEM num=SG	nāʿimatan 
+n a j a ḥ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	najaḥtumā 
+n a j ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yanjūna 
+n ā k a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tanīkāni 
+n ā m a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tanāmī 
+n a m ā	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tunmayā 
+n a m m ā	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾunammā 
+n a q a ṣ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tanquṣu 
+n a q a ṣ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	nuqiṣta 
+n ā q a š a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	tunāqiša 
+n ā q a š a	pos=V voice=ACT	munāqiš 
+n ā q i ṣ u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	nāqiṣāt 
+n a š a ʾ a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=SG	inšaʾ 
+n a š a ʾ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	našaʾtu 
+n ā s a b a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tunāsabā 
+n a s a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tansulū 
+n a s a l a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	nasalnā 
+n a ṣ a r a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾunṣar 
+n a ṣ a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tunṣarūna 
+n a š a r a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	našartu 
+n a š a r a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	našaratā 
+n a ṣ a r a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾunṣara 
+n a ṣ a r a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=SG	ʾunṣara 
+n a s s ā	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	nussītum 
+n ā w a l a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tunāwalna 
+n ā w a l a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=PL	nunāwila 
+n ā w ā	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nunāwā 
+n a w ā	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tanwiyā 
+n a w ā	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=PL	yunwayna 
+n a w w a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yunawwamāni 
+n a y y i r u n	pos=ADJ def=DEF case=NOM gen=FEM num=PL	an-nayyirātu 
+n a y y i r u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	nayyirin 
+n a z a f a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾunzaf 
+n a z a f a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾunzafu 
+n a z a f a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tanzifā 
+n a z a l a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	nazaltu 
+n a z a l a	pos=V voice=ACT	nāzil 
+n a ẓ ī f u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	an-naẓīfāti 
+n a ẓ ī f u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	an-naẓīfayn 
+n a z z a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	nazzalta 
+n i m s ā w i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=PL	an-nimsāwiyyīn 
+q a ʿ a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	taqʿudīna 
+q a ʿ a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaqʿudūna 
+q a ʿ ʿ a r a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾuqaʿʿara 
+q a ḍ a b a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuqḍab 
+q a ḍ a b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yaqḍibna 
+q a ḏ a f a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yuqḏafa 
+q a ḍ ī b i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	qaḍībiyyāt 
+q a d ī m u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	qadīmatayn 
+q ā d i r u n	pos=ADJ def=INDF case=GEN gen=FEM num=SG	qādiratin 
+q ā d i r u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	qādirāt 
+q ā l a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaqul 
+q ā l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taqul 
+q ā l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuqālā 
+q ā l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	taqulna 
+q ā l a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tuqālā 
+q ā l a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tuqālū 
+q a l ī l u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	qalīlatayni 
+q a l l a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuqalladu 
+q a l l a d a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuqallada 
+q ā m a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tuqāmarāni 
+q a r a ʾ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuqraʾā 
+q a r a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuqraʾu 
+q a r a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	taqraʾāni 
+q a r i b a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tuqrab 
+q a r i b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	taqrabīna 
+q a r i b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuqrabūna 
+q a r ī r u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	qarīrin 
+q a r r a b a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuqarrab 
+q a r r a b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuqarrabāni 
+q a r r a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tuqarrirū 
+q a r r a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuqarrir 
+q a r r a r a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	qarrarū 
+q ā r r i y y u n	pos=ADJ def=INDF case=NOM gen=MASC num=PL	qārriyyūna 
+q ā r r u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	al-qārrayni 
+q ā r r u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=SG	al-qārr 
+q a ṣ a d a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naqṣid 
+q ā s a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuqas 
+q ā s a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	qāsatā 
+q a s s a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	qasastumā 
+q a s s a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	qassat 
+q a t a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	qataltumā 
+q a t a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	qutilta 
+q ā t a l a	pos=V voice=PASS	muqātal 
+q a ṭ a r i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=PL	al-qaṭariyyīna 
+q a t t a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuqattalu 
+q a t t a l a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	qattaltu 
+q ā w a m a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tuqāwimā 
+q ā w a m a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾuqāwima 
+q a w m i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	qawmiyyīna 
+q a w m i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	qawmiyyatayn 
+q ā y a s a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	qāyasatā 
+q ā y a s a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV/PRF}	qāyasnā 
+q ā y a s a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tuqāyasā 
+q i b l i y y u n	pos=ADJ def=DEF case=GEN gen=FEM num=SG	al-qibliyyati 
+q u r ʾ ā n i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-qurʾāniyyata 
+q u r ʾ ā n i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	qurʾāniyya 
+q u r ʾ ā n i y y u n	pos=ADJ def=INDF case=NOM gen=MASC num=DU	qurʾāniyyāni 
+r a ʾ ā	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yarā 
+r a ʾ a s a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nurʾasu 
+r a ʾ a s a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ruʾistunna 
+r a ʾ a s a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yarʾasū 
+r a b b a b a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	turabbibī 
+r a ḍ i y a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yarḍā 
+r ā ḥ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tarūḥāni 
+r ā ḥ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tarūḥu 
+r ā ḥ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ruḥti 
+r a ḥ m ā n u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	ar-raḥmānāti 
+r a j a ʿ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yarjaʿāni 
+r a j ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾarju 
+r a j j a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV}	turajjaʿā 
+r a j j a ʿ a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yurajjiʿū 
+r a ḵ ī ṣ u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	raḵīṣātin 
+r ā n a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	turan 
+r ā q a b a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	rūqibat 
+r a z z a z a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	turazziza 
+r a z z a z a	pos=V voice=PASS	murazzaz 
+r u j ū l i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	rujūliyyatayni 
+r u j ū l i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	rujūliyyin 
+ṣ a ʿ ʿ a b a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuṣaʿʿabū 
+s ā ʿ a d a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tusāʿidā 
+s a ʿ a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tasʿul 
+s a ʾ a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yasʾalūna 
+š a ʿ a l a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	šuʿilā 
+s a ʿ a l a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾasʿula 
+s a ʾ a l a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yusʾalā 
+š ā ʾ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tašāʾā 
+ṣ ā b a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yuṣābirāni 
+s a b b a b a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tusabbibā 
+s a b b a b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV}	yusabbabna 
+ṣ a b b a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tuṣbabna 
+s ā b i ʿ u n	pos=ADJ def=DEF case=NOM gen=FEM num=PL	as-sābiʿātu 
+ṣ ā d a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuṣādaru 
+ṣ a d a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ṣadartum 
+ṣ a f ā	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuṣfa 
+š a f a w i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=SG	aš-šafawiyyi 
+ṣ a ḡ ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ṣaḡatā 
+ṣ a ḡ ā	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	taṣḡuwā 
+š a ḡ i f u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	aš-šaḡifatāni 
+š a ḡ i f u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	šaḡifatun 
+ṣ ā ḥ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	taṣīḥu 
+ṣ ā ḥ a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ṣiḥtu 
+s a ḥ a r a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	suḥirna 
+š a h a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	šuhirtum 
+ṣ a ḥ ḥ a ḥ a	pos=V voice=ACT	muṣaḥḥiḥ 
+s a ḥ ḥ a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	saḥḥarta 
+ṣ a ḥ i b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yaṣḥabu 
+ṣ a ḥ ī ḥ u n	pos=ADJ def=DEF case=GEN gen=FEM num=SG	aṣ-ṣaḥīḥati 
+ṣ a ḥ ī ḥ u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	aṣ-ṣaḥīḥatāni 
+ṣ a ḥ ī ḥ u n	pos=ADJ def=INDF case=NOM gen=FEM num=DU	ṣaḥīḥatāni 
+š a h r i y y u n	pos=ADJ def=INDF case=NOM gen=FEM num=DU	šahriyyatāni 
+s a j a n a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nusjan 
+s a j a n a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	sujinā 
+s a j j a l a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tusajjilā 
+s a j j a l a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	sajjalū 
+š a k ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tuškaw 
+š a k ā	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	naškuwa 
+s ā k i t u n	pos=ADJ def=DEF case=NOM gen=MASC num=PL	as-sukūtu 
+s ā k i t u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	sākitatayni 
+s a k k a n a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	sukkinatā 
+s a k k a n a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yusakkanā 
+s a ḵ ḵ a r a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tusaḵḵirū 
+s a ḵ ḵ a r a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yusaḵḵarā 
+s a ḵ ḵ a r a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾusaḵḵara 
+s a ḵ ḵ a r a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=DU	tusaḵḵarā 
+s a l a ḵ a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	taslaḵ 
+s a l a ḵ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	naslaḵu 
+s ā l a m a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾusālim 
+ṣ a l ī b u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	aṣ-ṣalībatu 
+ṣ a l ī b u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=SG	ṣalīb 
+s a l ī m u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	as-salīmāti 
+s a l l a ṭ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	sallaṭā 
+s a m a k i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=DU	as-samakiyyayn 
+s a m a k i y y u n	pos=ADJ def=DEF case=NOM gen=MASC num=SG	as-samakiyyu 
+š a m ā l i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	aš-šamāliyyāti 
+š ā m i s u n	pos=ADJ def=DEF case=NOM gen=FEM num=SG	aš-šāmisatu 
+ṣ ā m i t u n	pos=ADJ def=DEF case=ACC gen=MASC num=SG	aṣ-ṣāmita 
+s a m m a ʿ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tusammaʿāni 
+s a m m a ʿ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	sammaʿtumā 
+š a m m a ʿ a	pos=V mood=SBJV gen=MASC per=1 voice=PASS num=PL	nušammaʿa 
+s a m m a m a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=PL	sammimū 
+s a m m a n a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	summinti 
+ṣ a m m a t a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=SG	tuṣammata 
+s ā n a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yusānadu 
+ṣ ā n a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ṣunna 
+ṣ ā n i ʿ u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	aṣ-ṣāniʿayni 
+ṣ a n n a f a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV}	yuṣannafā 
+ṣ a n n a f a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV}	tuṣannafāni 
+s a q a ṭ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yasquṭu 
+ṣ ā r a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuṣāriʿū 
+š a r a ḥ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾušraḥ 
+š a r a ḥ a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tušraḥā 
+š ā r a k a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾušārak 
+š ā r a k a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tušārikīna 
+š ā r a k a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV}	tušārakīna 
+š ā r a k a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	šārakta 
+ṣ ā r a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yaṣir 
+s ā r a q a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	nusāriqu 
+ṣ a r ī ḥ u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	aṣ-ṣarīḥāni 
+ṣ ā r i ḵ u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	ṣāriḵayni 
+ṣ ā r i ḵ u n	pos=ADJ def=INDF case=NOM gen=FEM num=PL	ṣāriḵātun 
+s a r ī ʿ u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	sarīʿatayni 
+s a r ī ʿ u n	pos=ADJ def=INDF case=ACC gen=MASC num=DU	sarīʿayni 
+š a r r a ḥ a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾušarriḥ 
+s a ʿ ū d i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=SG	as-saʿūdiyya 
+ṣ a w w a b a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuṣawwab 
+ṣ a w w a b a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuṣawwibā 
+ṣ a w w a b a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuṣawwab 
+s a w w a f a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV/PRF}	sawwafa 
+s a w w a l a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾusawwila 
+s a w w ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV}	tusawwiyā 
+s a w w ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	suwwiyat 
+š a y y a ṭ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	šuyyiṭtumā 
+š a y y a ṭ a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=DU	tušayyaṭā 
+s i r r i y y u n	pos=ADJ def=INDF case=GEN gen=FEM num=PL	sirriyyātin 
+š u j ā ʿ u n	pos=ADJ def=DEF case=NOM gen=MASC num=SG	aš-šujāʿu 
+s ū r i y y u n	pos=ADJ def=DEF case=NOM gen=FEM num=PL	as-sūriyyātu 
+s u r y ā n i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=DU	as-suryāniyyayni 
+s u r y ā n i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=PL	suryāniyyāt 
+t a ʾ a k k a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yataʾakkadāni 
+t a ʾ a k k a d a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	tataʾakkada 
+t a ʿ ā l ā	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=DU	yataʿālayā 
+t a ʿ a m m a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	taʿammalta 
+ṭ a ʿ a n a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ṭuʿintunna 
+ṭ a ʿ a n a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ṭuʿinti 
+ṭ a ʿ a n a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	taṭʿanā 
+ṭ ā ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuṭaʿ 
+ṭ ā ʿ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ṭīʿa 
+ṭ ā ʿ a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuṭāʿa 
+ṭ a b a ʿ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yuṭbaʿ 
+t ā b a ʿ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾutābaʿu 
+t ā b a ʿ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	tābaʿtu 
+ṭ a b a ʿ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ṭabaʿtunna 
+t ā b a ʿ a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tutābiʿna 
+t a b ā ʾ a s a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV}	tatabāʾasā 
+t a b ā ʾ a s a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tatabāʾas 
+t a b ā ʾ a s a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=PL aspect={IPFV/PFV}	natabāʾasu 
+t a b ā ʾ a s a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	tubūʾisa 
+t a b ā d a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV}	nutabādalu 
+t a b ā d a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yutabādalu 
+t a b ā d a l a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	tabādaltumā 
+t a b a d d a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=PL aspect={IPFV/PFV}	tutabaddalūna 
+t a b a d d a l a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	tabaddaltu 
+ṭ a b a ḵ a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuṭbaḵ 
+t ā b a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tatūbu 
+ṯ a b a t a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	taṯbutī 
+ṭ a b b a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuṭabbilu 
+ṭ a b b a l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ṭubbiltumā 
+ṭ a b ī ʿ i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=SG	ṭabīʿiyya 
+ṯ ā b i t u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	aṯ-ṯābitata 
+ṯ ā b i t u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	ṯābitatun 
+t a ḍ a ḵ ḵ a m a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾataḍaḵḵama 
+t a ḍ a w w a ʾ a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	taḍawwaʾtu 
+t a ḍ a w w a ʾ a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=SG	tataḍawwaʾī 
+t a ḍ a w w a ʾ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tataḍawwaʾā 
+t a f ā ʿ a l a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yatafāʿal 
+ṭ a f a q a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	taṭfiqā 
+t a f ā r a q a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	tafāraqū 
+ṭ a f i ʾ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ṭafiʾtumā 
+t a ḥ ā d a ṯ a	pos=V mood=SBJV gen=FEM per=1 voice=ACT num=SG	ʾataḥādaṯa 
+t a ḥ ā d a ṯ a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=SG	yutaḥādaṯa 
+t a ḥ a m m a l a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=ACT num=SG aspect={IPFV/PFV}	tataḥammalīna 
+t a ḥ a m m a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nataḥammalu 
+t ā h a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=PL aspect={IPFV/PFV}	tatūhū 
+t a ḥ a w w a ṭ a	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	tataḥawwaṭna 
+ṭ a h h a r a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ṭuhhirū 
+t a ʿ i b u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	at-taʿibāti 
+t a ʿ i b u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=FEM num=SG	at-taʿiba 
+ṭ ā ʾ i r u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	ṭāʾirātin 
+t a ʿ ī s u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	at-taʿīsāti 
+t a j ā h a l a	pos=V mood={IND/COND/IMP} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾutajāhal 
+t a j a n n a b a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾutajannaba 
+t a j a n n a b a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=DU	tutajannabā 
+t a ḵ a y y a l a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tutaḵayyalna 
+ṭ a l a b a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaṭlub 
+ṭ a l a b a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ṭalabtumā 
+t a l ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yatluwāni 
+ṭ ā l a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ṭiltumā 
+ṭ ā l a	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=PL aspect={IPFV/PFV/PRF}	ṭilna 
+t a l ā q ā	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	talāqaytumā 
+ṭ a l l a q a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuṭalliqā 
+ṭ a l l a q a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=DU aspect={IPFV/PFV/PRF}	ṭallaqtumā 
+ṭ a l l a q a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=SG	tuṭallaqa 
+t a m a n n ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾatamanna 
+t a m a n n ā	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	tumunnīnā 
+t a m a t t a ʿ a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=PL	natamattaʿa 
+ṯ ā m i n u n	pos=ADJ def=INDF case=NOM gen=FEM num=SG	ṯāminatun 
+t a m t a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nutamtamu 
+t a m t a m a	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tutamtamū 
+t a n a b b a ʾ a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=DU	tatanabbaʾā 
+t a n a b b a ʾ a	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾatanabbaʾa 
+ṯ ā n a w i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=PL	ṯānawiyyātin 
+ṯ ā n a w i y y u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	ṯānawiyyatayni 
+ṯ ā n a w i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	ṯānawiyyīna 
+t a q ā r a ḍ a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾataqāraḍu 
+t a q a y y a ʾ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nataqayyaʾu 
+t a q r ī r i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=PL	taqrīriyyīna 
+ṭ ā r a ḥ a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=PASS num=PL aspect={IPFV/PFV}	yuṭāraḥū 
+ṭ ā r a ḥ a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	ṭāraḥtunna 
+ṭ a r a ḥ a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=PL	nuṭraḥa 
+ṭ a r a ḥ a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=SG	taṭraḥa 
+ṭ ā r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	taṭīru 
+ṭ a r ī f u n	pos=ADJ def=INDF case=ACC gen=MASC num=SG	ṭarīfan 
+ṭ a r ī f u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=FEM num=DU	ṭarīfatayn 
+t a r j a m a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	tarjamtunna 
+t a r j a m a	pos=V mood=IND tense=PST gen=FEM per=2 voice=PASS num=SG aspect={IPFV/PFV/PRF}	turjimti 
+ṭ a r r a ḥ a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ṭarraḥta 
+ṯ a r ṯ a r a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	ṯarṯarta 
+ṯ a r ṯ a r a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	ṯurṯira 
+t a r t ī b i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	tartībiyyīna 
+t a ṣ a l l ā	pos=V mood=SBJV gen=MASC per=1 voice=ACT num=SG	ʾataṣallā 
+t a s ā n a d a	pos=V mood={IND/COND/IMP} gen=MASC per=3 voice=ACT num=SG aspect={IPFV/PFV}	yatasānad 
+t a s ā n a d a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	tasānadtu 
+t a s ā n a d a	pos=V mood=SBJV gen=FEM per=2 voice=ACT num=PL	tatasānadna 
+t a s a r r ā	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾutasarrā 
+t a ṭ a w w a l a	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tataṭawwal 
+ṭ ā w a ʿ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV}	yuṭāwiʿāni 
+t a w a f f ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	tawaffayna 
+t a w a k k a ʾ a	pos=V mood=IND tense=PST gen=MASC per=3 voice=ACT num=DU aspect={IPFV/PFV/PRF}	tawakkaʾā 
+t a w a k k a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=PASS num=SG aspect={IPFV/PFV}	yutawakkadu 
+t a w a k k a d a	pos=V mood=IND tense=PST gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	tawakkadtu 
+ṭ ā w a l a	pos=V mood=SBJV gen=MASC per=2 voice=ACT num=DU	tuṭāwilā 
+t a w a l l ā	pos=V mood={IND/COND/IMP} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tatawalla 
+t a w ʾ a m u n	pos=ADJ def=INDF case=GEN gen=MASC num=DU	tawʾamayni 
+t a w a q q ā	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV/PRF}	tuwuqqītu 
+t a w a q q ā	pos=V mood=IND tense=PST gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV/PRF}	tuwuqqiyat 
+ṭ a w w a ʿ a	pos=V mood=IMP gen=FEM per=2 voice=ACT num=SG	ṭawwiʿī 
+ṭ a y y a b a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tuṭayyibā 
+t a z a l z a l a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=SG aspect={IPFV/PFV}	tatazalzal 
+t u r k i y y u n	pos=ADJ def=DEF case=NOM gen=MASC num=DU	at-turkiyyāni 
+ʿ u m ā n i y y u n	pos=ADJ def=DEF case={NOM/ACC/GEN} gen=MASC num=SG	al-ʿumānī 
+ʿ u m ū m i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=PL	ʿumūmiyyīna 
+ʾ u r d u n i y y u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	ʾurduniyyatayni 
+ʾ u r u b b i y y u n	pos=ADJ def=INDF case=ACC gen=FEM num=DU	ʾurubbiyyatayni 
+w ā f ā	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=PL aspect={IPFV/PFV}	nuwāfi 
+w ā f ā	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=SG	tuwāfay 
+w ā f ā	pos=V mood=SBJV gen=MASC per=2 voice=PASS num=PL	tuwāfaw 
+w ā f i r u n	pos=ADJ def=INDF case=GEN gen=FEM num=DU	wāfiratayni 
+w a h a b a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=2 voice=PASS num=PL aspect={IPFV/PFV}	tūhabna 
+w a h a b a	pos=V mood=IND tense=PST gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV/PRF}	wahabna 
+w a h a b a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=DU	tahabā 
+w ā j i b u n	pos=ADJ def=DEF case=NOM gen=FEM num=DU	al-wājibatāni 
+w a j j a h a	pos=V mood=IND tense=PST gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV/PRF}	wajjahta 
+w a k k a d a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tuwakkidā 
+w a k k a d a	pos=V mood={IND/COND/IMP} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾuwakkid 
+w a k k a d a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=ACT num=SG aspect={IPFV/PFV}	tuwakkidu 
+w a k k a d a	pos=V mood=IND tense=PST gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV/PRF}	wakkadtunna 
+w a q ā	pos=V mood={IND/COND/IMP} gen=FEM per=2 voice=ACT num=PL aspect={IPFV/PFV}	taqīna 
+w a q q a t a	pos=V mood=SBJV gen=MASC per=3 voice=PASS num=DU	yuwaqqatā 
+w a ṭ a n i y y u n	pos=ADJ def=INDF case=ACC gen=MASC num=PL	waṭaniyyīna 
+w a ṭ a n i y y u n	pos=ADJ def=INDF case=GEN gen=MASC num=SG	waṭaniyyin 
+w ā t a r a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=1 voice=PASS num=SG aspect={IPFV/PFV}	ʾuwātaru 
+w ā t a r a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=PL	yuwātirū 
+w a ṭ i ʾ a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=2 voice=PASS num=SG aspect={IPFV/PFV}	tūṭaʾu 
+w a ṭ i ʾ a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=SG	taṭaʾa 
+y a h ū d i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=PL	al-yahūdiyyāti 
+y a h ū d i y y u n	pos=ADJ def=DEF case=GEN gen=FEM num=DU	al-yahūdiyyatayni 
+y a ʾ i s a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=DU aspect={IPFV/PFV}	tayʾasāni 
+y a ʾ i s a	pos=V mood=IND tense=PST gen=FEM per=1 voice=ACT num=SG aspect={IPFV/PFV/PRF}	yaʾistu 
+y a m a n i y y u n	pos=ADJ def=DEF case=ACC gen=MASC num=PL	al-yamaniyyīna 
+y a w m i y y u n	pos=ADJ def=DEF case=ACC gen=FEM num=SG	al-yawmiyyata 
+y ū n ā n i y y u n	pos=ADJ def=DEF case=GEN gen=MASC num=SG	al-yūnāniyyi 
+z a ʿ a m a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=PASS num=SG aspect={IPFV/PFV}	tuzʿamu 
+z ā d a	pos=V mood=IND tense=PST gen=FEM per=1 voice=PASS num=PL aspect={IPFV/PFV/PRF}	zidnā 
+z ā d a	pos=V mood=SBJV gen=FEM per=3 voice=ACT num=PL	yazidna 
+z ā d a	pos=V mood=SBJV gen=MASC per=3 voice=ACT num=SG	yazīda 
+ẓ ā h a r a	pos=V mood=IMP gen=MASC per=2 voice=ACT num=DU	ẓāhirā 
+ẓ ā h a r a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuẓāhirūna 
+ẓ a l a m a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=ACT num=SG aspect={IPFV/PFV}	ʾaẓlimu 
+ẓ a l a m a	pos=V mood=IND tense=PST gen=MASC per=3 voice=PASS num=DU aspect={IPFV/PFV/PRF}	ẓulimā 
+ẓ a l a m a	pos=V mood=SBJV gen=FEM per=2 voice=PASS num=PL	tuẓlamna 
+ẓ a l l a l a	pos=V mood=IND tense={PRS/FUT} gen=MASC per=1 voice=PASS num=PL aspect={IPFV/PFV}	nuẓallalu 
+z ā r a	pos=V mood={IND/COND/IMP} gen=FEM per=3 voice=PASS num=DU aspect={IPFV/PFV}	tuzārā 
+z ā r a	pos=V mood=SBJV gen=FEM per=1 voice=PASS num=SG	ʾuzāra 
+z a y t i y y u n	pos=ADJ def=INDF case={NOM/ACC/GEN} gen=MASC num=DU	zaytiyyayn 
+z a y y a d a	pos=V mood=IND tense={PRS/FUT} gen=FEM per=3 voice=ACT num=PL aspect={IPFV/PFV}	yuzayyidna 
+z a y y a t a	pos=V mood=SBJV gen=FEM per=3 voice=PASS num=PL	yuzayyatna 

@@ -1,0 +1,1596 @@
+a a r ó n i c o	pos=ADJ gen=MASC num=PL	aarónicos 
+a b a l u a r t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	abaluartara 
+a b a l u a r t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	abaluarte 
+a b a ñ a r	pos=V mood=SBJV tense=FUT per=1 num=SG	abañare 
+a b a n d o n a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	abandono 
+a b a r r a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	abarraba 
+a b a s t a r d a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	abastardan 
+a b a s t i o n a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	abastionamos 
+a b a t o j a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	abatojarás 
+a b d u c i r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	abduzca 
+a b e j e a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	abejeaban 
+a b e j o n e a r	pos=V tense=PST gen=MASC num=PL	abejoneados 
+a b e m o l a r	pos=V tense=PST gen=MASC num=PL	abemolados 
+a b i s a g r a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	abisagraren 
+a b l a n d a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	ablandemos 
+a b n e g a r	pos=V mood=SBJV tense=FUT per=1 num=SG	abnegare 
+a b o c a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	abocaras 
+a b o c a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	abocabas 
+a b o m i n a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	abominábamos 
+a b o r t a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	aborto 
+a b o t o n a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	abotona 
+a b r a s a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	abraso 
+a b r a s i ó n	pos=N num=PL	abrasiones 
+á b r e g o	pos=N num=PL	ábregos 
+a b r e v a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	abrevara 
+a b r e v i a r	pos=V mood=IND tense=FUT per=3 num=PL	abreviarán 
+a b r i g a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	abrigara 
+a b r o c h a r	pos=V finite=NFIN	abrochar 
+a b r o n c a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	abroncabais 
+a b s o l u t i s t a	pos=N num=PL	absolutistas 
+a b s o r b e r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	absorberían 
+a b s t e r s i v o	pos=ADJ gen=MASC num=SG	abstersivo 
+a b u n d a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	abundáramos 
+a b u s a r	pos=V tense=PST gen=MASC num=SG	abusado 
+a c a l m a r	pos=V tense=PST gen=MASC num=PL	acalmados 
+a c a m p a n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	acampanaste 
+a c a n a l a r	pos=V mood=SBJV tense=FUT per=3 num=PL	acanalaren 
+a c a p a r a r	pos=V polar=POS mood=IMP per=1 num=PL	acaparemos 
+a c a p a r a r	pos=V tense=PST	acaparado 
+a c c e s a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	accesara 
+a c c e s i ó n	pos=N num=PL	accesiones 
+a c c e s o	pos=N num=PL	accesos 
+a c c i o n a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	accionase 
+á c e r o	pos=ADJ gen=MASC num=SG	ácero 
+a c h a c a r	pos=V tense=PST gen=FEM num=PL	achacadas 
+a c h a n t a r	pos=V mood=IND tense=FUT per=1 num=PL	achantaremos 
+a c h a n t a r	pos=V tense=PST gen=MASC num=SG	achantado 
+a c h a t a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	achatará 
+a c h a t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	achatabais 
+a c h i c a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	achicad 
+a c h i n a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	achinaran 
+a c h i s p a d o	pos=ADJ gen=MASC num=PL	achispados 
+a c i c a t e a r	pos=V mood=COND per=1 num=PL	acicatearíamos 
+a c i d u l a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	acidularan 
+a c i t r o n a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	acitronara 
+a c i t r o n a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	acitronareis 
+a c o l c h a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	acolcharais 
+a c o l c h o n a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	acolchonara 
+a c o m e t e r	pos=V mood=IND tense=FUT per=3 num=PL	acometerán 
+a c o r d o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	acordonaréis 
+a c o t o l a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	acotolase 
+a c r e d i t a r	pos=V tense=PST gen=FEM num=SG	acreditada 
+a c r i a n z a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	acrianzaba 
+a c u n a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	acunásemos 
+a c u ñ a r	pos=V polar=POS mood=IMP per=1 num=PL	acuñemos 
+a c u r r u c a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	acurruca 
+a d a p t a r	pos=V mood=COND polite=INFM per=2 num=SG	adaptarías 
+a d e c e n t a r	pos=V mood=IND	adecentaría 
+a d e u d a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	adeudaréis 
+a d h e s i v o	pos=ADJ gen=FEM num=PL	adhesivas 
+a d h e s i v o	pos=N num=SG	adhesivo 
+a d i n e r a r	pos=V tense=PST gen=FEM num=SG	adinerada 
+a d j e t i v a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	adjetive 
+a d j u n t a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	adjuntaras 
+a d o p t a r	pos=V tense=PST gen=FEM num=SG	adoptada 
+a d o r a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	adora 
+a d o r m i l a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	adormilare 
+a d u j a r	pos=V finite=NFIN	adujar 
+a d u j a r	pos=V tense=PST	adujado 
+a d u r i r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	adurid 
+a f e i t a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	afeitase 
+a f e l i o	pos=N num=SG	afelio 
+a f e m i n a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	afeminareis 
+a f e m i n a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	afeminen 
+a f e r r a r	pos=V tense=PST gen=FEM num=SG	aferrada 
+a f r e n t a	pos=N num=SG	afrenta 
+a f r o n t a r	pos=V mood=COND polite=INFM per=2 num=SG	afrontarías 
+a f r o n t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	afrontáremos 
+a g a r r a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	agarrábamos 
+a g e n c i a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	agenciase 
+a g i l i z a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	agilizará 
+a g i l i z a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	agilice 
+a g i t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	agitaste 
+a g l o m e r a r	pos=V mood=IND	aglomeraría 
+a g o b i a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	agobiamos 
+a g r a n d a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	agrando 
+a g r i e t a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	agrietares 
+a g u d i z a r	pos=V mood=COND polite=INFM per=2 num=PL	agudizaríais 
+a g u i j a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	aguijasen 
+a g u i j o n e a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	aguijoneamos 
+a g u i j o n e a r	pos=V tense=PRS	aguijoneando 
+a h e r r o j a r	pos=V mood=SBJV tense=FUT per=1 num=PL	aherrojáremos 
+a h o r c a r	pos=V mood=COND per=1 num=SG	ahorcaría 
+a h u s a d o	pos=ADJ gen=MASC num=PL	ahusados 
+a h u y e n t a r	pos=V mood=COND per=3 num=PL	ahuyentarían 
+a j a r	pos=V mood=SBJV tense=FUT per=1 num=SG	ajare 
+a j u a r a r	pos=V mood=IND	ajuararía 
+a j u s t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	ajustáremos 
+a j u s t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	ajustare 
+a l a b a n c i o s o	pos=ADJ gen=FEM num=PL	alabanciosas 
+a l c a n f o r a r	pos=V tense=PST gen=FEM num=PL	alcanforadas 
+a l c a	pos=N num=PL	alcas 
+a l e a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	aleáramos 
+a l e a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	aleabais 
+a l e n o	pos=N num=PL	alenos 
+a l e n t a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	aliente 
+a l e r t a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	alerta 
+a l f o m b r a r	pos=V mood=COND polite=INFM per=2 num=PL	alfombraríais 
+a l g u n o	pos=ADJ gen=MASC num=PL	algunos 
+a l i n e a m i e n t o	pos=N num=SG	alineamiento 
+a l i s t a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	alistáis 
+a l l e g a r	pos=V mood=COND polite=INFM per=2 num=SG	allegarías 
+a l m a c e n a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	almacenarais 
+a l m a c e n a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	almacenaseis 
+a l m a g r a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	almagrabais 
+a l m e n d r a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	almendrase 
+a l m e n d r a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	almendrarán 
+a l m e n d r a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	almendro 
+a l q u i t r a n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	alquitranabais 
+a l u c i n a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	alucinara 
+a l u c i n a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	alucino 
+a l u c i n a r	pos=V tense=PST	alucinado 
+a l u d i r	pos=V tense=PRS	aludiendo 
+a l u z a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	aluzaran 
+a l u z a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	aluzarais 
+a m a c o l l a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	amacollaron 
+a m a i n a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	amainaban 
+a m a i t i n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	amaitinaste 
+a m a n e c e r	pos=N num=PL	amaneceres 
+a m a r a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	amaré 
+a m a r i l l e n t o	pos=ADJ gen=MASC num=PL	amarillentos 
+a m a s i j a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	amasijaren 
+a m b i c i o n a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	ambicionásemos 
+a m e d r e n t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	amedrentarás 
+a m e n a z a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	amenazara 
+a m e r i t a r	pos=V mood=IND tense=FUT per=3 num=PL	ameritarán 
+a m e r i z a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	amerizábamos 
+a m i g a r	pos=V mood=IND tense=FUT per=1 num=SG	amigaré 
+a m i n o a c i l	pos=N num=PL	aminoaciles 
+a m i n o b e n z o a t o	pos=N num=PL	aminobenzoatos 
+a m i n o r a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	aminoraréis 
+a m o l d a r	pos=V mood=SBJV tense=FUT per=3 num=PL	amoldaren 
+a m o n t o n a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	amontonen 
+a m o r t i z a r	pos=V mood=IND	amortizaría 
+a m p o l l a r	pos=V tense=PST gen=MASC num=PL	ampollados 
+a m p u t a r	pos=V mood=IND	amputaría 
+a m u e b l a r	pos=V mood=SBJV tense=FUT per=1 num=PL	amuebláremos 
+a m u r a d a	pos=N num=PL	amuradas 
+a n a c a r d o	pos=N num=SG	anacardo 
+a ñ a d i d u r a	pos=N num=PL	añadiduras 
+a ñ a d i r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	añadid 
+a n a g r a m á t i c o	pos=ADJ gen=MASC num=PL	anagramáticos 
+a n á l o g o	pos=ADJ gen=MASC num=PL	análogos 
+a n á s t r o f e	pos=N num=PL	anástrofes 
+a n d a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	andabas 
+a n d r o i d e	pos=N num=SG	androide 
+a n e s t e s i s t a	pos=N num=PL	anestesistas 
+a n i h i l a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	anihilaren 
+a n i l i n a	pos=N num=SG	anilina 
+a n i l l a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	anillemos 
+a n i m a l i z a r	pos=V mood=COND polite=FORM per=3 num=SG	animalizaría 
+a n o n a d a r	pos=V mood=IND tense=FUT per=1 num=SG	anonadaré 
+a n o n i m i z a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	anonimizarás 
+a n o n i m i z a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	anonimizamos 
+a n t e b r a z o	pos=N num=SG	antebrazo 
+a n t e p r o y e c t o	pos=N num=PL	anteproyectos 
+a n t e s a l a	pos=N num=SG	antesala 
+a n t i c o n c e p c i ó n	pos=N num=PL	anticoncepciones 
+a n t í d o t o	pos=N num=SG	antídoto 
+a n t i l l a n o	pos=ADJ gen=MASC num=SG	antillano 
+a n t i p ú t r i d o	pos=ADJ gen=FEM num=PL	antipútridas 
+a n t i t é r m i c o	pos=ADJ gen=MASC num=SG	antitérmico 
+a n t o j a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	antojó 
+a p a c h u r r a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	apachurrarán 
+a p a g a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	apagareis 
+a p a g a r	pos=V mood=SBJV tense=FUT per=3 num=PL	apagaren 
+a p a r c a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	aparcaba 
+a p a r e a r	pos=V mood=IND	aparearía 
+a p e a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	apearás 
+a p e d r e a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	apedrearán 
+a p e l a n t e	pos=N num=SG	apelante 
+a p e l a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	apelasteis 
+a p e l l i d a r	pos=V mood=IND tense=FUT per=1 num=PL	apellidaremos 
+a p e s a d u m b r a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	apesadumbrare 
+a p l a c a r	pos=V tense=PST gen=FEM num=PL	aplacadas 
+a p l a n a r	pos=V mood=COND per=3 num=PL	aplanarían 
+a p l a n a r	pos=V tense=PST gen=FEM num=PL	aplanadas 
+a p o q u i n a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	apoquiné 
+a p o r r e a r	pos=V polar=POS mood=IMP per=1 num=PL	aporreemos 
+a p o s e n t a r	pos=V mood=COND per=3 num=PL	aposentarían 
+a p r e c i a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	aprecian 
+a p r e n d e r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	aprendiere 
+a p r e t u j a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	apretujaren 
+a p r o b a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	aprobara 
+a p r o v i s i o n a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	aprovisionaban 
+a p u ñ a l a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	apuñalemos 
+a p u n t i l l a r	pos=V mood=COND per=1 num=PL	apuntillaríamos 
+a q u i e t a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	aquieta 
+a r a n é s	pos=ADJ gen=FEM num=SG	aranesa 
+a r b i t r a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	arbitrase 
+a r c h i v a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	archivaran 
+a r m a d o	pos=ADJ gen=FEM num=SG	armada 
+a r o	pos=N num=PL	aros 
+a r p í a	pos=N num=SG	arpía 
+a r r a s a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	arrasarán 
+a r r a s a r	pos=V tense=PST gen=MASC num=SG	arrasado 
+a r r e b a t a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	arrebato 
+a r r e m e t e r	pos=V tense=PST gen=MASC num=SG	arremetido 
+a r r e n d a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	arrendásemos 
+a r r i b a r	pos=V mood=IND tense=FUT per=1 num=PL	arribaremos 
+a r r i m a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	arrimen 
+a r r o d i l l a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	arrodillé 
+a r r o j a r	pos=V mood=IND	arrojaría 
+a r r o m a r	pos=V mood=COND polite=INFM per=2 num=PL	arromaríais 
+á r t i c o	pos=ADJ gen=MASC num=PL	árticos 
+á r t i c o	pos=ADJ gen=MASC num=SG	ártico 
+a s a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	asen 
+a s c e n d e n c i a	pos=N num=SG	ascendencia 
+a s e m e j a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	asemejará 
+a s e m e j a r	pos=V polar=POS mood=IMP per=1 num=PL	asemejemos 
+a s f a l t a r	pos=V polar=POS mood=IMP per=1 num=PL	asfaltemos 
+a s i g n a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	asignara 
+a s i s t i r	pos=V tense=PST gen=FEM num=PL	asistidas 
+a s o l a r	pos=V mood=COND polite=INFM per=2 num=PL	asolaríais 
+a s p r o	pos=N num=SG	aspro 
+a t a c a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	ataca 
+a t a l a y a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	atalayaste 
+a t a r d e c e r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	atardecerán 
+a t a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	atamos 
+a t e n t a r	pos=V mood=IND	atentaría 
+a t i b o r r a r	pos=V tense=PST gen=FEM num=PL	atiborradas 
+a t i r a n t a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	atiranto 
+a t o l o n d r a r	pos=V polar=POS mood=IMP per=1 num=PL	atolondremos 
+a t o r m e n t a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	atormentan 
+a t o r n i l l a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	atornilláramos 
+a t o v a q u o n a	pos=N num=PL	atovaquonas 
+a t r a g a n t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	atragantase 
+a t u s a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	atusare 
+a u t e n t i c a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	autenticaba 
+a u t e n t i f i c a r	pos=V finite=NFIN	autentificar 
+a v e n t a j a r	pos=V tense=PST	aventajado 
+a v e n t u r a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	aventuráis 
+a x ó n	pos=N num=PL	axones 
+a y u n a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	ayune 
+a y u n a r	pos=V tense=PRS	ayunando 
+a z o l v a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	azolvad 
+a z u c a r a r	pos=V mood=COND polite=INFM per=2 num=SG	azucararías 
+b a b a	pos=N num=SG	baba 
+b a j a m i e n t o	pos=N num=SG	bajamiento 
+b a j a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	bajareis 
+b a l a n c e a d o	pos=ADJ gen=MASC num=PL	balanceados 
+b a l a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	balaban 
+b a l e a r	pos=V mood=IND tense=FUT per=1 num=SG	balearé 
+b a m b o l e a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	bambolearían 
+b a q u e t a	pos=N num=PL	baquetas 
+b a r b e c h o	pos=N num=SG	barbecho 
+b a r r a c ó n	pos=N num=PL	barracones 
+b a r r e n o	pos=N num=PL	barrenos 
+b a s t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	bastare 
+b a t a l l a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	batallaba 
+b e s u q u e a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	besuqueaba 
+b i r l a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	birlarán 
+b l a n d i r	pos=V mood=IND tense=FUT per=3 num=PL	blandirán 
+b l a n q u e a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	blanquee 
+b l a n q u e a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	blanquead 
+b l i n d a r	pos=V tense=PST gen=MASC num=SG	blindado 
+b o f e t e a r	pos=V mood=COND per=3 num=PL	bofetearían 
+b o g a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	bogaba 
+b o l e a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	bolee 
+b o m b o n a	pos=N num=SG	bombona 
+b o q u i a b i e r t o	pos=ADJ gen=MASC num=PL	boquiabiertos 
+b o r b o l l a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	borbollaseis 
+b o r r a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	borremos 
+b o s q u e j a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	bosquejen 
+b o t o n e s	pos=N num=PL	botones 
+b r o t a r	pos=V tense=PST	brotado 
+b u c e a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	buceaban 
+b ú f a l o	pos=N num=PL	búfalos 
+b u f a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	bufa 
+b u f o n e a r	pos=V mood=COND per=1 num=SG	bufonearía 
+b u s c a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	buscabais 
+b u s c a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	busque 
+c a b r i o l a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	cabriolabais 
+c a c h a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	cachásemos 
+c a c h i m b ó n	pos=ADJ gen=FEM num=PL	cachimbonas 
+c a f i c h a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	cafichéis 
+c a f i c h e a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	cafichean 
+c a f i c h e a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	caficheares 
+c a g ü í n	pos=N num=SG	cagüín 
+c a l a f a t e a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	calafateásemos 
+c a l e n t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	calentaréis 
+c a l i f i c a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	calificareis 
+c a l l a r	pos=V mood=COND polite=INFM per=2 num=PL	callaríais 
+c a l m a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	calmamos 
+c a m e l a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	camelares 
+c a m i n a r	pos=V mood=SBJV tense=FUT per=3 num=PL	caminaren 
+c a m i s o l a	pos=N num=SG	camisola 
+c a m p a n i l l a	pos=N num=SG	campanilla 
+c a m p a r	pos=V tense=PST	campado 
+c a n s a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	cansábamos 
+c a n s a r	pos=V tense=PRS	cansándose 
+c a p o l a r	pos=V tense=PST	capolado 
+c a p t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	captáremos 
+c a r a m b o l o	pos=N num=SG	carambolo 
+c a r e n a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	carenare 
+c a r g a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	cargad 
+c a r n í v o r o	pos=ADJ gen=MASC num=PL	carnívoros 
+c a r o	pos=ADJ gen=MASC num=SG	caro 
+c a r r e t i l l a	pos=N num=PL	carretillas 
+c a r t o g r á f i c o	pos=ADJ gen=MASC num=PL	cartográficos 
+c a s t i g a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	castigan 
+c a t a l o g a r	pos=V tense=PST per=1 num=PL aspect=PFV	catalogué 
+c a t o l i z a r	pos=V tense=PST gen=FEM num=SG	catolizados 
+c a v i l a r	pos=V mood=SBJV tense=FUT per=1 num=SG	cavilare 
+c a v i l a r	pos=V tense=PRS	cavilando 
+c e c e a r	pos=V mood=COND polite=INFM per=2 num=PL	cecearíais 
+c e c e a r	pos=V tense=PRS	ceceando 
+c e m e n t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	cementaréis 
+c e n t r a l i z a r	pos=V mood=IND tense=FUT per=1 num=PL	centralizaremos 
+c e n t r í p e t o	pos=ADJ gen=FEM num=PL	centrípetas 
+c e n t r í p e t o	pos=ADJ gen=MASC num=PL	centrípetos 
+c e r c i o r a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	cerciorarais 
+c e r t i f i c a r	pos=V tense=PST per=1 num=PL aspect=PFV	certifiqué 
+c h a b a c a n o	pos=N num=SG	chabacano 
+c h a c o l í	pos=N num=PL	chacolíes 
+c h a l a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	chalad 
+c h a n g a r r o	pos=N num=SG	changarro 
+c h a n t a j e a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	chantajeasen 
+c h a p o t e a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	chapoteemos 
+c h a r l a t a n e a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	charlataneaban 
+c h i s p a	pos=N num=SG	chispa 
+c h i s p e a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	chispeo 
+c h i v e r r e	pos=N num=SG	chiverre 
+c h o f e r	pos=N num=SG	chofer 
+c h o r r e a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	chorrease 
+c h o r r e a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	chorrearás 
+c h u l e a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	chulearon 
+c h u p e t e a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	chupeteaba 
+c h u t a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	chutases 
+c i a n h í d r i c o	pos=ADJ gen=MASC num=SG	cianhídrico 
+c i c a t r i z a t i v o	pos=ADJ gen=FEM num=SG	cicatrizativa 
+c i m b r a r	pos=V mood=IND tense=FUT per=1 num=SG	cimbraré 
+c i m e n t a r	pos=V tense=PRS aspect=IPFV/PFV	cimiente 
+c i n e g é t i c o	pos=ADJ gen=FEM num=SG	cinegética 
+c i r i o	pos=N num=PL	cirios 
+c i t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	citabas 
+c l a m a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	clamad 
+c l a s i f i c a r	pos=V tense=PST per=1 num=PL aspect=PFV	clasifiqué 
+c l i m a t i z a r	pos=V mood=COND per=3 num=PL	climatizarían 
+c l o r o a c é t i c o	pos=ADJ gen=FEM num=PL	cloroacéticas 
+c l o r o f o r m i z a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	cloroformizarán 
+c l o r o p l a s t o	pos=N num=SG	cloroplasto 
+c l o r o p r e n o	pos=N num=PL	cloroprenos 
+c l o r o x i l e n o l	pos=N num=PL	cloroxilenoles 
+c o d i c i l o	pos=N num=SG	codicilo 
+c o d o r n i z	pos=N num=SG	codorniz 
+c o e x i s t i r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	coexistíamos 
+c o e x i s t i r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	coexistid 
+c o h e c h a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	cohecharan 
+c o h e c h a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	coheche 
+c o l a b o r a r	pos=V tense=PST	colaborado 
+c o l a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	colaseis 
+c o l e c c i o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	coleccionarás 
+c o l e c t a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	colecte 
+c ó l i c o	pos=ADJ gen=FEM num=PL	cólicas 
+c o l i n d a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	colindarás 
+c o l i n d a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	colindabais 
+c o l o r	pos=N num=SG	color 
+c o l u m p i a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	columpia 
+c o l u m p i a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	columpiaban 
+c o m e r c i a l i z a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	comercializaseis 
+c o m e r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	comed 
+c o m e t e r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	cometía 
+c o m p a d r a z g o	pos=N num=SG	compadrazgo 
+c o m p a g i n a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	compaginad 
+c o m p e n s a r	pos=V mood=COND polite=FORM per=3 num=SG	compensaría 
+c o m p l e t a r	pos=V tense=PRS aspect=IPFV/PFV	complete 
+c o m p l o t	pos=N num=PL	complots 
+c o m p o r t a r	pos=V mood=COND polite=FORM per=3 num=SG	comportaría 
+c o m p r a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	compraban 
+c o m p r e n d e r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	comprendáis 
+c o m p r o m e t e r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	comprometieron 
+c o m u l g a r	pos=V mood=COND per=1 num=PL	comulgaríamos 
+c o m u l g a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	comulgaba 
+c o m u n i c a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	comunicarán 
+c o n c e d e r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	concedí 
+c o n c e p t u a l i z a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	conceptualizaréis 
+c o n c e r t a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	concierten 
+c o n c i e n z u d o	pos=ADJ gen=MASC num=SG	concienzudo 
+c o n c o r d a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	concordamos 
+c o n c o r d a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	concordé 
+c o n c o r d a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	concordad 
+c o n c u r r i r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	concurríais 
+c o n e x i o n a r	pos=V tense=PST	conexionado 
+c o n f o r t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	conforte 
+c o n g r a t u l a r	pos=V tense=PST gen=FEM num=SG	congratulada 
+c o n g r e g a r	pos=V mood=COND polite=FORM per=3 num=SG	congregaría 
+c o n j e t u r a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	conjeturaban 
+c o n m e m o r a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	conmemoraran 
+c o n m u t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	conmutasen 
+c o n m u t a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	conmutad 
+c o n s i g n a r	pos=V mood=COND per=1 num=PL	consignaríamos 
+c o n s i s t i r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	consistían 
+c o n s o l i d a r	pos=V tense=PST gen=MASC num=SG	consolidado 
+c o n s p i r a r	pos=V mood=COND per=3 num=PL	conspirarían 
+c o n s p i r a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	conspiro 
+c o n s t a r	pos=V mood=COND polite=INFM per=2 num=SG	constarías 
+c o n s t a r	pos=V tense=PST gen=MASC num=PL	constados 
+c o n s t a t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	constatasteis 
+c o n s u e l o	pos=N num=SG	consuelo 
+c o n s u l t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	consultare 
+c o n s u m i r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	consumieron 
+c o n t a m i n a r	pos=V mood=COND polite=FORM per=3 num=SG	contaminaría 
+c o n t a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	contaseis 
+c o n t r a r r e s t a r	pos=V mood=COND per=1 num=PL	contrarrestaríamos 
+c o n v e r s a r	pos=V mood=COND per=3 num=PL	conversarían 
+c o n v i c c i ó n	pos=N num=SG	convicción 
+c o n v i d a r	pos=V polar=POS mood=IMP per=1 num=PL	convidemos 
+c o o p e r a r	pos=V mood=IND tense=FUT per=1 num=SG	cooperaré 
+c o o p t a r	pos=V mood=COND per=3 num=PL	cooptarían 
+c o o p t a r	pos=V mood=IND	cooptaría 
+c o o r d i n a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	coordinábamos 
+c o p r e s i d i r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	copresidiésemos 
+c o r t a r	pos=V finite=NFIN	cortar 
+c o s q u i l l e a r	pos=V mood=IND tense=FUT per=1 num=SG	cosquillearé 
+c o t e j a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	cotejásemos 
+c o t i l e d ó n	pos=N num=SG	cotiledón 
+c o t i l l e a r	pos=V mood=IND tense=FUT per=1 num=PL	cotillearemos 
+c o t i z a r	pos=V tense=PRS aspect=IPFV/PFV	cotice 
+c o w b o y	pos=N num=PL	cowboys 
+c r i s t a l	pos=N num=SG	cristal 
+c r o m a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	cromará 
+c r o m a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	cromaste 
+c r o q u i s	pos=N num=SG	croquis 
+c r u z a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	crucen 
+c u a d r a n t e	pos=N num=SG	cuadrante 
+c u á n t o	pos=ADJ gen=MASC num=SG	cuánto 
+c u b e t e r a	pos=N num=SG	cubetera 
+c u c h i t r i l	pos=N num=SG	cuchitril 
+c u e r n o	pos=N num=SG	cuerno 
+c u e r v o	pos=N num=PL	cuervos 
+c u i d a r	pos=V tense=PST per=1 num=PL aspect=PFV	cuidé 
+c u l e a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	culeare 
+c u l t i v o	pos=N num=PL	cultivos 
+c u l t u r a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	culturásemos 
+c u m p l i m e n t a r	pos=V tense=PST gen=MASC num=PL	cumplimentados 
+c u m p l i m i e n t o	pos=N num=SG	cumplimiento 
+c u r s i l í s i m o	pos=ADJ gen=MASC num=SG	cursilísimo 
+c u r t i r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	curtáis 
+c u r v a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	curva 
+d a v i l a r	pos=V tense=PRS	davilando 
+d e b u t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	debutara 
+d e c a p i t a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	decapitaren 
+d e c a p i t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	decapite 
+d e c e p c i o n a r	pos=V tense=PST gen=MASC num=SG	decepcionado 
+d e d i c a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	dedicares 
+d e f e c t u o s o	pos=ADJ gen=FEM num=SG	defectuosa 
+d e g e n e r a r	pos=V mood=COND polite=INFM per=2 num=PL	degeneraríais 
+d e l e g a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	delegarían 
+d e l e g a r	pos=V mood=COND polite=INFM per=2 num=SG	delegarías 
+d e l e t r e a r	pos=V polar=POS mood=IMP per=1 num=PL	deletreemos 
+d e l i b e r a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	delibere 
+d e l i r a r	pos=V mood=IND tense=FUT per=3 num=PL	delirarán 
+d e m e r i t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	demeritaste 
+d e m o c r a t i z a r	pos=V mood=SBJV tense=FUT per=3 num=PL	democratizaren 
+d e m o d u l a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	demoduláramos 
+d e m o n i z a c i ó n	pos=N num=SG	demonización 
+d e m o r a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	demoraras 
+d e n e g a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	denegaba 
+d e n t e l l e a r	pos=V mood=COND per=1 num=SG	dentellearía 
+d e p a r t i r	pos=V mood=IND	departiría 
+d e p i l a r	pos=V mood=IND tense=FUT per=3 num=PL	depilarán 
+d e p i l a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	depilareis 
+d e r r e t i d o	pos=ADJ gen=FEM num=SG	derretida 
+d e r r u m b a r	pos=V mood=IND tense=FUT per=1 num=SG	derrumbaré 
+d e s a b e j a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	desabeja 
+d e s a b o t o n a r	pos=V mood=COND per=1 num=SG	desabotonaría 
+d e s a b o t o n a r	pos=V mood=IND tense=FUT per=1 num=SG	desabotonaré 
+d e s a c e r t a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	desacertamos 
+d e s a c o n s e j a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	desaconsejarais 
+d e s a g r a d a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	desagraden 
+d e s a l i ñ a d o	pos=ADJ gen=FEM num=PL	desaliñadas 
+d e s a l o j a r	pos=V mood=IND tense=FUT per=3 num=PL	desalojarán 
+d e s a m p a r a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	desamparéis 
+d e s a m p a r a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	desamparo 
+d e s a n u d a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	desanudan 
+d e s a s o s e g a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	desasosieguen 
+d e s b a n d a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	debandarás 
+d e s b a n d a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	debandaban 
+d e s c a l i f i c a r	pos=V tense=PST gen=FEM num=PL	descalificadas 
+d e s c a r t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	descartase 
+d e s c i f r a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	descifrasen 
+d e s c i f r a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	descifre 
+d e s c o m u l g a r	pos=V mood=IND tense=FUT per=1 num=PL	descomulgaremos 
+d e s c o n c e r t a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	desconcertase 
+d e s c o n e c t a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	desconectaba 
+d e s c u a r t i z a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	descuarticemos 
+d e s c u a r t i z a r	pos=V tense=PST gen=MASC num=SG	descuartizado 
+d e s d e ñ a r	pos=V mood=COND polite=INFM per=2 num=SG	desdeñarías 
+d e s e m p a c a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	desempacaba 
+d e s e m p e ñ a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	desempeñases 
+d e s e n c a b e s t r a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	desencabestra 
+d e s e n m a r a ñ a r	pos=V mood=SBJV tense=FUT per=3 num=PL	desenmarañaren 
+d e s e n r e d a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	desenredarían 
+d e s e n t o n a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	desentonarán 
+d e s e n t r a ñ a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	desentrañaren 
+d e s e n v a i n a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	desenvainará 
+d e s e q u i l i b r a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	desequilibrare 
+d e s e s p e r a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	desesperabais 
+d e s e s p e r a r	pos=V tense=PST gen=FEM num=PL	desesperadas 
+d e s g a r r a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	desgarramos 
+d e s g a r r a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	desgarremos 
+d e s g a r r a r	pos=V tense=PST gen=MASC num=PL	desgarrados 
+d e s h i d r a t a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	deshidratarán 
+d e s h i d r a t a r	pos=V polar=POS mood=IMP per=1 num=PL	deshidratemos 
+d e s h i l a c h a r	pos=V mood=IND tense=FUT per=3 num=PL	deshilacharán 
+d e s h i l a c h a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	deshilacharon 
+d e s h i n c h a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	deshinchásemos 
+d e s h o j a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	deshojaras 
+d e s h u m a n i z a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	deshumanizasen 
+d e s i l u s i o n a r	pos=V tense=PST gen=MASC num=SG	desilusionado 
+d e s i n c e n t i v a r	pos=V mood=COND polite=INFM per=2 num=PL	desincentivaríais 
+d e s i n s e c t a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	desinsecte 
+d e s l i g a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	desligan 
+d e s l u m b r a m i e n t o	pos=N num=PL	deslumbramientos 
+d e s l u s t r a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	deslustrase 
+d e s m a y a r	pos=V polar=POS mood=IMP per=1 num=PL	desmayemos 
+d e s m e j o r a r	pos=V mood=IND	desmejoraría 
+d e s m i g a r	pos=V mood=COND per=1 num=SG	desmigaría 
+d e s m o l d a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	desmoldasen 
+d e s n u c a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	desnuque 
+d e s n u c a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	desnuquen 
+d e s o l l a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	desollase 
+d e s o l l a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	desollaste 
+d e s p a r r a m a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	desparramaran 
+d e s p a r r a m a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	desparramemos 
+d e s p a r r a m a r	pos=V tense=PRS aspect=IPFV/PFV	desparrame 
+d e s p e j a r	pos=V mood=COND per=1 num=PL	despejaríamos 
+d e s p e r t a r	pos=V polar=POS mood=IMP per=1 num=PL	despertemos 
+d e s p l e g a r	pos=V tense=PRS	desplegando 
+d e s p l u m a r	pos=V mood=COND per=1 num=PL	desplumaríamos 
+d e s p r e n d e r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	desprendieran 
+d e s q u i c i a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	desquiciases 
+d e s q u i t a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	desquitares 
+d e s t a p a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	destapases 
+d e s t a p a r	pos=V mood=IND tense=FUT per=3 num=PL	destaparán 
+d e s t e m p l a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	destemplaran 
+d e s t e m p l a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	destemplarían 
+d e s t e n s a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	destense 
+d e s t r i p a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	destripé 
+d e s t r o n a r	pos=V tense=PRS	destronando 
+d e s u n i r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	desunan 
+d e s v a l i j a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	desvalijarais 
+d e t e c t a r	pos=V mood=COND polite=INFM per=2 num=PL	detectaríais 
+d e t e n t a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	detente 
+d e t o n a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	detonarais 
+d e t o n a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	detonen 
+d e v a n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	devanasteis 
+d e v e l a r	pos=V tense=PST gen=FEM num=SG	develada 
+d i a b l u r a	pos=N num=SG	diablura 
+d i b u j a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	dibujases 
+d i b u j a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	dibujamos 
+d i f e r e n c i a r	pos=V mood=IND tense=FUT per=1 num=SG	diferenciaré 
+d i f u m i n a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	difumine 
+d i g á s t r i c o	pos=N num=SG	digástrico 
+d i o n i s í a c o	pos=ADJ gen=FEM num=PL	dionisíacas 
+d i s c a r	pos=V mood=COND per=1 num=PL	discaríamos 
+d i s c r e p a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	discrepo 
+d i s c u r r i r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	discurráis 
+d i s c u t i r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	discutan 
+d i s e c a r	pos=V mood=IND	disecaría 
+d i s e m i n a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	diseminareis 
+d i s f r u t a r	pos=V mood=COND per=3 num=PL	disfrutarían 
+d i s f r u t a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	disfrutaron 
+d i s i m u l a d o	pos=ADJ gen=MASC num=PL	disimulados 
+d i s i m u l a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	disimulasen 
+d i s l o c a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	dislocabais 
+d i s l o c a r	pos=V mood=SBJV tense=FUT per=1 num=SG	dislocare 
+d i s p e n s a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	dispensara 
+d i s u a d i r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	disuadid 
+d i v e r s i f i c a c i ó n	pos=N num=PL	diversificaciones 
+d i v i d i r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	dividirían 
+d i v i d i r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	dividan 
+d i v i s a r	pos=V tense=PST gen=FEM num=PL	divisadas 
+d o c t o r a r	pos=V tense=PST	doctorado 
+d o g m a	pos=N num=SG	dogma 
+d o l a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	dolabais 
+d o m a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	domaste 
+d o m e s t i c a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	domesticara 
+d o m e s t i c a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	domestiquéis 
+d o s i f i c a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	dosificareis 
+d o t a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	dotarían 
+d r a g a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	dragan 
+d r a m a t i z a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	dramatizan 
+d r e n a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	drenan 
+d r i b l e a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	driblearen 
+d u d a r	pos=V mood=SBJV tense=FUT per=1 num=PL	dudáremos 
+d u l c i f i c a r	pos=V tense=PST gen=MASC num=PL	dulcificados 
+d u p l i c a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	duplica 
+e b r i o	pos=ADJ gen=MASC num=PL	ebrios 
+e f i g i e	pos=N num=SG	efigie 
+e j e c u c i ó n	pos=N num=PL	ejecuciones 
+e j e c u t a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	ejecutara 
+e j e r c i c i o	pos=N num=SG	ejercicio 
+e l e c t r i z a r	pos=V mood=SBJV tense=FUT per=1 num=SG	electrizare 
+e l e v a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	elevarais 
+e l i m i n a c i ó n	pos=N num=SG	eliminación 
+e l í s e o	pos=ADJ gen=MASC num=SG	elíseo 
+e m b a l a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	embalamos 
+e m b a r r a n c a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	embarrancareis 
+e m b a r r a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	embarré 
+e m b a u c a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	embaucarais 
+e m b e t u n a r	pos=V mood=SBJV tense=FUT per=1 num=PL	embetunáremos 
+e m b o b a r	pos=V mood=SBJV tense=FUT per=3 num=PL	embobaren 
+e m b o s c a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	emboscare 
+e m b r a g a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	embragaban 
+e m b r i a g a d o r	pos=ADJ gen=MASC num=PL	embriagadores 
+e m b r i a g u e z	pos=N num=PL	embriagueces 
+e m b r i d a r	pos=V mood=COND polite=INFM per=2 num=PL	embridaríais 
+e m b u l l a r	pos=V tense=PST per=1 num=PL aspect=PFV	embullé 
+e m p a c a r	pos=V tense=PRS aspect=IPFV/PFV	empaque 
+e m p a p e l a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	empapelé 
+e m p a r e j a r	pos=V mood=COND polite=FORM per=3 num=SG	emparejaría 
+e m p a r e n t a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	emparentará 
+e m p a s t a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	empastareis 
+e m p e o r a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	empeoren 
+e m p l a z a r	pos=V mood=COND per=3 num=PL	emplazarían 
+e m p r e s a r i a d o	pos=N num=SG	empresariado 
+e m p u j a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	empujaréis 
+e m u l s i o n a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	emulsionara 
+e n a m o r a r	pos=V mood=COND per=1 num=PL	enamoraríamos 
+e n c a b e z a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	encabezaba 
+e n c a j o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	encajonaréis 
+e n c a n t a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	encantad 
+e n c a r n i z a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	encarnizaban 
+e n c a r n i z a r	pos=V polar=POS mood=IMP per=1 num=PL	encarnicemos 
+e n c a s i l l a m i e n t o	pos=N num=PL	encasillamientos 
+e n c e r a r	pos=V tense=PST gen=MASC num=PL	encerados 
+e n c h i l a r	pos=V tense=PST gen=MASC num=PL	enchilados 
+e n c h u f a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	enchufaran 
+e n c i c l o p e d i a	pos=N num=SG	enciclopedia 
+e n c i n t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	encintáramos 
+e n c i n t a r	pos=V mood=IND tense=FUT per=1 num=PL	encintaremos 
+e n c o n a r	pos=V finite=NFIN	enconar 
+e n c o n a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	enconen 
+e n c o r v a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	encorvó 
+e n d e u d a r	pos=V tense=PST	endeudado 
+e n d u l z a r	pos=V mood=COND per=1 num=PL	endulzaríamos 
+e n e r g í a	pos=N num=PL	energías 
+e n e r v a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	enervábamos 
+e n f a r d a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	enfardaba 
+e n f o c a r	pos=V finite=NFIN	enfocar 
+e n f o c a r	pos=V tense=PRS	enfocando 
+e n f r a s c a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	enfrascaran 
+e n g a n c h a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	enganchaste 
+e n g a t u s a r	pos=V tense=PRS aspect=IPFV/PFV	engatuse 
+e n g l o b a r	pos=V tense=PST gen=MASC num=SG	englobado 
+e n g o m i n a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	engominares 
+e n g r o s a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	engruesan 
+e n g r o s a r	pos=V tense=PST gen=FEM num=PL	engrosadas 
+e n h i l a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	enhilaran 
+e n j a b o n a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	enjabonase 
+e n j a b o n a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	enjabonase 
+e n j u g a d o r	pos=ADJ gen=FEM num=SG	enjugadora 
+e n l o d a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	enlodan 
+e n m a r a ñ a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	enmarañábamos 
+e n m u g r a r	pos=V tense=PST per=1 num=PL aspect=PFV	enmugré 
+e n r o l l a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	enrollaréis 
+e n r o s c a r	pos=V mood=COND per=3 num=PL	enroscarían 
+e n r o s c a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	enroscaban 
+e n s a l z a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	ensalzaba 
+e n s a l z a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	ensalzo 
+e n s a m b l a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	ensamblara 
+e n s a m b l a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	ensamblamos 
+e n s a y a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	ensayaban 
+e n s e ñ a r	pos=V mood=COND polite=FORM per=3 num=SG	enseñaría 
+e n s i l l a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	ensillasteis 
+e n t a l l a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	entalle 
+e n t e r r a r	pos=V mood=COND per=3 num=PL	enterrarían 
+e n t i n t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	entintasen 
+e n t r a m a r	pos=V tense=PST	entramado 
+e n t r e g a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	entregase 
+e n t r e g a r	pos=V mood=SBJV tense=FUT per=1 num=SG	entregare 
+e n t r e l a z a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	entrelazamos 
+e n t r e l a z a r	pos=V tense=PST	entrelazado 
+e n t r e t e j e r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	entretejo 
+e n t r o n i z a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	entronizarais 
+e n t r o n i z a r	pos=V tense=PST gen=MASC num=SG	entronizado 
+e n t u r b i a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	enturbiamos 
+e n u n c i a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	enunciáramos 
+e n u n c i a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	enunciaste 
+e n v a s a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	envasaba 
+e n v e n e n a r	pos=V mood=IND tense=FUT per=1 num=PL	envenenaremos 
+e n v e n e n a r	pos=V tense=PST gen=MASC num=PL	envenenados 
+e n y e s a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	enyesase 
+e q u i v o c a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	equivocan 
+e r u c t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	eructasteis 
+e s c a m a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	escamo 
+e s c a m p a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	escamparán 
+e s c e n i f i c a r	pos=V tense=PRS	escenificando 
+e s c o b a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	escoba 
+e s c o p l e a r	pos=V mood=SBJV tense=FUT per=1 num=SG	escopleare 
+e s c o r a r	pos=V mood=SBJV tense=FUT per=1 num=PL	escoráremos 
+e s c u c h a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	escucharás 
+e s c u c h a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	escuchaban 
+e s c u d a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	escudasen 
+e s c u l p i r	pos=V mood=SBJV tense=FUT per=3 num=PL	esculpieren 
+e s c u r r i r	pos=V mood=COND per=1 num=PL	escurriríamos 
+e s c u r r i r	pos=V mood=IND tense=FUT per=3 num=PL	escurrirán 
+e s g r i m a	pos=N num=SG	esgrima 
+e s m a l t a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	esmaltará 
+e s p a c i a r	pos=V mood=IND tense=FUT per=1 num=SG	espaciaré 
+e s p e r a n z a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	esperancé 
+e s p e r a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	esperases 
+e s p e r p e n t o	pos=N num=PL	esperpentos 
+e s p e s a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	espesasen 
+e s p e s a r	pos=V mood=IND tense=FUT per=1 num=SG	espesaré 
+e s p i r i t u a l i d a d	pos=N num=SG	espiritualidad 
+e s p o l v o r e a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	espolvoreabas 
+e s p o n j a	pos=N num=PL	esponjas 
+e s p u t a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	esputo 
+e s q u e m á t i c o	pos=ADJ gen=MASC num=SG	esquemático 
+e s q u i v a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	esquivase 
+e s q u i v a r	pos=V mood=IND tense=FUT per=1 num=PL	esquivaremos 
+e s t a c i o n a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	estacionares 
+e s t a f a r	pos=V mood=SBJV tense=FUT per=1 num=PL	estafáremos 
+e s t a f a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	estafen 
+e s t a l a c t i t a	pos=N num=PL	estalactitas 
+e s t a n c a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	estanca 
+e s t e l a r i z a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	estelarizo 
+e s t e r n o c l e i d o m a s t o i d e o	pos=N num=SG	esternocleidomastoideo 
+e s t e r o i d e	pos=N num=PL	esteroides 
+e s t i m a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	estimamos 
+e s t i r a r	pos=V tense=PST gen=MASC num=SG	estirado 
+e s t o r b a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	estorbarían 
+e s t o r b a r	pos=V mood=SBJV tense=FUT per=1 num=SG	estorbare 
+e s t o r n u d a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	estornudare 
+e s t r a n g u l a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	estrangulo 
+e s t r a t o v o l c á n	pos=N num=PL	estratovolcanes 
+e s t r e c h a r	pos=V tense=PRS	estrechando 
+e s t r e g a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	estregue 
+e s t r e n a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	estrenaban 
+e s t r é s	pos=N num=SG	estrés 
+e s t r o p e a r	pos=V mood=COND polite=INFM per=2 num=PL	estropearíais 
+e s t r u j a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	estrujáramos 
+e s t r u j a r	pos=V polar=POS mood=IMP per=1 num=PL	estrujemos 
+e s t u d i a r	pos=V mood=COND per=1 num=PL	estudiaríamos 
+e s t u d i a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	estudiarían 
+e s t u d i a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	estudió 
+e t e r n o	pos=ADJ gen=MASC num=SG	eterno 
+e v a c u a r	pos=V tense=PST gen=MASC num=PL	evacuados 
+e v a n g e l i z a r	pos=V mood=SBJV tense=FUT per=3 num=PL	evangelizaren 
+e v i d e n c i a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	evidencie 
+e v i s c e r a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	evisceraron 
+e x a l t a r	pos=V tense=PRS aspect=IPFV/PFV	exalte 
+e x c r e t a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	excreten 
+e x c u s a r	pos=V mood=COND per=3 num=PL	excusarían 
+e x i l i a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	exiliareis 
+e x o n e r a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	exonerarán 
+e x o n e r a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	exoneréis 
+e x o r c i z a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	exorcizo 
+e x o r c i z a r	pos=V polar=POS mood=IMP per=1 num=PL	exorcicemos 
+e x o r d i o	pos=N num=PL	exordios 
+e x p a n s i o n a r	pos=V mood=COND per=1 num=SG	expansionaría 
+e x p e l e r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	expeliere 
+e x p e n d e r	pos=V mood=COND polite=INFM per=2 num=PL	expenderíais 
+e x p e r i m e n t a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	experimentasen 
+e x p e r i m e n t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	experimente 
+e x p l a y a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	explayaron 
+e x p l o r a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	explorares 
+e x p o l i a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	expoliaban 
+e x p o r t a d o r	pos=N num=PL	exportadores 
+e x p u r g a r	pos=V mood=COND polite=INFM per=2 num=PL	expurgaríais 
+e x t e r i o r i z a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	exteriorizabas 
+e x t e r n a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	externaban 
+e x t r u s o m a	pos=N num=PL	extrusomas 
+e x u d a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	exudaste 
+e x u l c e r a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	exulcerases 
+e x u l t a r	pos=V mood=COND per=3 num=PL	exultarían 
+f a c h a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	facharais 
+f a c i l i t a r	pos=V tense=PRS	facilitando 
+f a c u l t a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	faculto 
+f a l l a r	pos=V mood=COND polite=INFM per=2 num=SG	fallarías 
+f a l s e a r	pos=V tense=PRS	falseando 
+f a m i l i a r i z a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	familiarizaran 
+f a r a l l ó n	pos=N num=SG	farallón 
+f a t u o	pos=ADJ gen=MASC num=PL	fatuos 
+f e c u n d i z a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	fecundizásemos 
+f e d e r a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	federaseis 
+f e l p u d o	pos=N num=SG	felpudo 
+f e n i l e t i l a m i n a	pos=N num=PL	feniletilaminas 
+f e s t e j a r	pos=V mood=IND	festejaría 
+f i c a r	pos=V tense=PRS	ficando 
+f i c h a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	fichen 
+f i l i c i d a	pos=N num=SG	filicida 
+f i l o s o f a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	filosofasteis 
+f i r m a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	firmabais 
+f l e t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	fletaran 
+f l i r t e a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	flirtearon 
+f l i r t e a r	pos=V mood=IND tense=FUT per=1 num=SG	flirtearé 
+f l o j e a r	pos=V tense=PST gen=FEM num=SG	flojeada 
+f l o t a r	pos=V tense=PRS	flotando 
+f o c a l i z a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	focalicemos 
+f o g u e a r	pos=V mood=IND tense=FUT per=3 num=PL	foguearán 
+f o n e m á t i c o	pos=ADJ gen=MASC num=SG	fonemático 
+f o r m a l i z a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	formalizaba 
+f o r m a r	pos=V mood=SBJV tense=FUT per=1 num=PL	formáremos 
+f o r n i c a r	pos=V mood=IND	fornicaría 
+f o r t i f i c a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	fortificabais 
+f o s f o r i l a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	fosforilarais 
+f o t o c o p i a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	fotocopiaran 
+f o t o g é n i c o	pos=ADJ gen=MASC num=PL	fotogénicos 
+f r a c c i o n a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	fraccionáramos 
+f r a t e r n i z a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	fraternizáramos 
+f r e c u e n t a r	pos=V tense=PST gen=MASC num=SG	frecuentado 
+f r e n a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	freno 
+f r u s t r a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	frustran 
+f u n c i o n a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	funcionan 
+f u s i o n a r	pos=V tense=PST	fusionado 
+f u s t i g a r	pos=V mood=COND per=1 num=SG	fustigaría 
+g a l a x i a	pos=N num=SG	galaxia 
+g a l ó n	pos=N num=SG	galón 
+g a l v a n o m é t r i c o	pos=ADJ gen=MASC num=SG	galvanométrico 
+g a m a	pos=N num=PL	gamas 
+g a n c h o s o	pos=ADJ gen=FEM num=PL	ganchosas 
+g a n g r e n a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	gangrenamos 
+g a ñ i d o	pos=N num=PL	gañidos 
+g a r a p i ñ a r	pos=V mood=COND polite=INFM per=2 num=SG	garapiñarías 
+g a r r a p i ñ a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	garrapiña 
+g á r r u l o	pos=ADJ gen=MASC num=PL	gárrulos 
+g a s e o d u c t o	pos=N num=SG	gaseoducto 
+g e m i n a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	geminemos 
+g e m i n a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	geminen 
+g e n e a l ó g i c o	pos=ADJ gen=MASC num=PL	genealógicos 
+g e o s m i n a	pos=N num=PL	geosminas 
+g e r m a n i z a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	germanizásemos 
+g e r m a n i z a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	germanizareis 
+g e s t a r	pos=V mood=SBJV tense=FUT per=3 num=PL	gestaren 
+g i r a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	gira 
+g i t a n o	pos=ADJ gen=MASC num=SG	gitano 
+g l a m o r o s o	pos=ADJ gen=FEM num=SG	glamorosa 
+g l a s e a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	glasearás 
+g l i c o c ó l i c o	pos=ADJ gen=FEM num=SG	glicocólica 
+g l i c o c ó l i c o	pos=ADJ gen=MASC num=SG	glicocólico 
+g o l p e a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	golpeaba 
+g o l p e t e a r	pos=V tense=PST	golpeteado 
+g o r i l a	pos=N num=SG	gorila 
+g o r r o n e a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	gorroneáramos 
+g o z a r	pos=V mood=COND per=3 num=PL	gozarían 
+g o z a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	gozad 
+g o z a r	pos=V tense=PST	gozado 
+g r a d a r	pos=V mood=COND polite=FORM per=3 num=SG	gradaría 
+g r a p a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	grapaste 
+g r a t i n a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	gratino 
+g r a v a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	grava 
+g r u m o s o	pos=ADJ gen=MASC num=PL	grumosos 
+g u i l l o t i n a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	guillotinarán 
+g u s t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	gustare 
+h a b i t á c u l o	pos=N num=PL	habitáculos 
+h a c k e a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	hackease 
+h a r t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	hartabas 
+h e b r e o	pos=ADJ gen=FEM num=PL	hebreas 
+h e l e n i z a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	helenizásemos 
+h e l e n i z a r	pos=V tense=PST	helenizado 
+h e m a t ó f a g o	pos=ADJ gen=MASC num=PL	hematófagos 
+h e m o r r a g i a	pos=N num=SG	hemorragia 
+h e r e d a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	heredábamos 
+h i d r a t a r	pos=V mood=SBJV tense=FUT per=3 num=PL	hidrataren 
+h i d r a t a r	pos=V tense=PRS aspect=IPFV/PFV	hidrate 
+h i d r o l ó g i c o	pos=ADJ gen=FEM num=PL	hidrológicas 
+h i e r o s o l i m i t a n o	pos=ADJ gen=MASC num=PL	hierosolimitanos 
+h i l v a n a r	pos=V mood=COND polite=INFM per=2 num=SG	hilvanarías 
+h i l v a n a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	hilvanaron 
+h i m n a r i o	pos=N num=PL	himnarios 
+h i p a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	hipábamos 
+h i p e r i c i n a	pos=N num=PL	hipericinas 
+h i p n o t i z a d o r	pos=ADJ gen=MASC num=SG	hipnotizador 
+h i p n o t i z a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	hipnotizase 
+h i p o t e c a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	hipotecara 
+h i p o t e c a r	pos=V mood=COND per=1 num=PL	hipotecaríamos 
+h i s t é r i c o	pos=ADJ gen=MASC num=SG	histérico 
+h o j a l d r a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	hojaldraréis 
+h o j e a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	hojeaban 
+h o l o g r á f i c o	pos=ADJ gen=FEM num=SG	holográfica 
+h o m e n a j e a r	pos=V mood=IND tense=FUT per=1 num=PL	homenajearemos 
+h o m i c i d a	pos=N num=PL	homicidas 
+h o n d u r a	pos=N num=SG	hondura 
+h o n o r a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	honorasteis 
+h o r r i p i l a r	pos=V tense=PST gen=MASC num=PL	horripilados 
+h o r r o r i z a d o	pos=ADJ gen=MASC num=PL	horrorizados 
+h o s p e d a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	hospedaran 
+h o s t a l	pos=N num=PL	hostales 
+h u l e	pos=N num=PL	hules 
+h u m e a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	humean 
+h u m e a r	pos=V tense=PRS	humeando 
+h u r t a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	hurten 
+i d e n t i f i c a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	identifican 
+i d e n t i f i c a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	identificare 
+i d o l a t r a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	idolatra 
+í g n e o	pos=ADJ gen=FEM num=PL	ígneas 
+i g u a l a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	igualase 
+i g u a l a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	igualareis 
+i l e g a l i z a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	ilegaliza 
+i l u s i o n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	ilusionabais 
+i l u s t r a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	ilustrara 
+i m p a c t a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	impactarais 
+i m p a r t i r	pos=V polar=POS mood=IMP per=1 num=PL	impartamos 
+i m p l e m e n t a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	implementasen 
+i m p l o r a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	implorad 
+i m p o r t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	importasen 
+i m p o r t a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	importarían 
+i m p o r t u n a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	importunasen 
+i m p r o v i s a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	improvisaban 
+i m p r o v i s a r	pos=V mood=IND tense=FUT per=1 num=PL	improvisaremos 
+i n a u g u r a r	pos=V mood=COND polite=INFM per=2 num=PL	inauguraríais 
+i n c a u t a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	incautaseis 
+i n c e n d i a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	incendiara 
+i n c e n s a r	pos=V mood=COND per=1 num=SG	incensaría 
+i n c e n s a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	incensabas 
+i n c i t a r	pos=V mood=IND tense=FUT per=3 num=PL	incitarán 
+i n c o m o d a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	incomodan 
+i n c o m o d a r	pos=V mood=SBJV tense=FUT per=1 num=SG	incomodare 
+i n c r i m i n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	incriminaste 
+i n d e m n i z a r	pos=V mood=COND polite=INFM per=2 num=PL	indemnizaríais 
+i n d e m n i z a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	indemnizaba 
+i n d e p e n d i z a r s e	pos=V mood=COND per=3 num=PL	independizarían 
+i n d i c a r	pos=V tense=PRS aspect=IPFV/PFV	indique 
+i n d i g e n c i a	pos=N num=PL	indigencias 
+i n d u c i r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	indujera 
+i n d u l t a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	indultasen 
+i n d u s t r i a l i z a r	pos=V mood=IND tense=FUT per=1 num=PL	industrializaremos 
+i n f a m a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	infamen 
+i n f e c c i o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	infeccionaréis 
+i n f l u e n c i a r	pos=V mood=COND polite=FORM per=3 num=SG	influenciaría 
+i n f r a v a l o r a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	infravaloró 
+i n h a b i l i t a r	pos=V mood=IND tense=FUT per=1 num=SG	inhabilitaré 
+i n i c i a r	pos=V mood=COND per=1 num=SG	iniciaría 
+i n i c i a r	pos=V mood=COND polite=FORM per=3 num=SG	iniciaría 
+i n j u r i a r	pos=V mood=IND	injuriaría 
+i n m u t a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	inmutarán 
+i n s p e c c i o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	inspeccionaréis 
+i n s t a l a r	pos=V mood=SBJV tense=FUT per=1 num=SG	instalare 
+i n s u l t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	insulte 
+i n t e g r i d a d	pos=N num=SG	integridad 
+i n t e n t a r	pos=V mood=COND polite=INFM per=2 num=PL	intentaríais 
+i n t e r a t ó m i c o	pos=ADJ gen=MASC num=PL	interatómicos 
+i n t e r c e p t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	interceptase 
+i n t e r c e p t a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	intercepto 
+i n t e r e s a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	interesaran 
+i n t e r n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	internaréis 
+i n t e r p r e t a r	pos=V mood=COND per=3 num=PL	interpretarían 
+i n t e r r u m p i r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	interrumpieron 
+i n t e r r u m p i r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	interrumpan 
+i n t i m a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	intimamos 
+i n t i m a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	intimaren 
+i n t i m i d a r	pos=V tense=PST gen=FEM num=SG	intimidada 
+i n t i t u l a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	intitulan 
+i n t i t u l a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	intitula 
+i n t o x i c a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	intoxica 
+i n t o x i c a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	intoxiqué 
+i n v a d i r	pos=V mood=COND polite=INFM per=2 num=SG	invadirías 
+i n v a l i d a r	pos=V mood=SBJV tense=FUT per=3 num=PL	invalidaren 
+i n v o c a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	invoqué 
+i r r i t a c i ó n	pos=N num=SG	irritación 
+i r r i t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	irrite 
+i r r o g a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	irrogan 
+i z a r	pos=V mood=IND tense=FUT per=3 num=PL	izarán 
+i z a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	izare 
+j a c o b e o	pos=ADJ gen=FEM num=SG	jacobea 
+j a d e a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	jadean 
+j a l e a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	jalearán 
+j a p ó n	pos=ADJ gen=MASC num=SG	japón 
+j a s p e a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	jaspeasen 
+j i l g u e r o	pos=N num=SG	jilguero 
+j u e z a	pos=N num=SG	jueza 
+j u s t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	justarás 
+j u s t i f i c a r	pos=V mood=COND per=3 num=PL	justificarían 
+k i l o g r a m o	pos=N num=SG	kilogramo 
+l a c r i m a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	lacrima 
+l a d r a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	ladrasteis 
+l a d r a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	ladraren 
+l a i c i z a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	laicizaban 
+l a m b e r	pos=V mood=COND per=1 num=SG	lambería 
+l a m i n a r	pos=V tense=PST gen=MASC num=PL	laminados 
+l a n o l i n a	pos=N num=SG	lanolina 
+l a r g a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	largaseis 
+l a s t i m a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	lastimasen 
+l a t i n a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	latinasen 
+l a t i n o a m e r i c a n o	pos=ADJ gen=FEM num=SG	latinoamericana 
+l a u d a b i l i d a d	pos=N num=SG	laudabilidad 
+l a v a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	lavará 
+l a x a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	laxéis 
+l a x a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	laxo 
+l a z a r	pos=V mood=SBJV tense=FUT per=3 num=PL	lazaren 
+l e g a l i z a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	legalizaren 
+l e n g ü e t e a r	pos=V mood=COND per=1 num=PL	lengüetearíamos 
+l e n g ü e t e a r	pos=V mood=IND tense=FUT per=1 num=PL	lengüetearemos 
+l e v a n t a r	pos=V mood=COND per=1 num=PL	levantaríamos 
+l e v a n t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	levantare 
+l e v i t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	levitáremos 
+l é x i c o	pos=ADJ gen=MASC num=PL	léxicos 
+l i b a r	pos=V mood=COND polite=FORM per=3 num=SG	libaría 
+l i b é r r i m o	pos=ADJ gen=FEM num=SG	libérrima 
+l i b e r t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	libertaréis 
+l i b e r t a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	libertéis 
+l i b r a r	pos=V mood=COND polite=INFM per=2 num=PL	libraríais 
+l i c e n c i a r	pos=V mood=COND per=3 num=PL	licenciarían 
+l i m o s n e a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	limosnean 
+l i s t a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	liste 
+l i s t o	pos=ADJ gen=FEM num=PL	listas 
+l l o b a c a	pos=N num=PL	llobacas 
+l l o v i z n a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	llovizna 
+l o c a l i z a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	localicen 
+l u b r i f i c a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	lubrificase 
+l u c r a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	lucráramos 
+m a c o l l a	pos=N num=SG	macolla 
+m a d r i d i s t a	pos=N num=PL	madridistas 
+m a d u r a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	madure 
+m a g u l l a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	magullasen 
+m a g u l l a r	pos=V mood=IND tense=FUT per=1 num=PL	magullaremos 
+m a l f u n c i o n a r	pos=V mood=COND per=1 num=PL	malfuncionaríamos 
+m a l f u n c i o n a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	malfuncionéis 
+m a l h e c h o r	pos=N num=SG	malhechor 
+m a l v i n e n s e	pos=N num=SG	malvinense 
+m a l v i v i r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	malviva 
+m a m a l o g í a	pos=N num=PL	mamalogías 
+m a n a n t i a l	pos=N num=PL	manantiales 
+m a n a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	manaran 
+m a n d i l ó n	pos=N num=SG	mandilón 
+m a n d o b l e	pos=N num=PL	mandobles 
+m a n d o	pos=N num=SG	mando 
+m a n e j a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	manejaras 
+m a n g o n e a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	mangonearais 
+m a n i f e s t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	manifestasteis 
+m a n o t e a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	manotead 
+m a n t a r r a y a	pos=N num=SG	mantarraya 
+m a p a	pos=N num=PL	mapas 
+m a r c a r	pos=V finite=NFIN	marcar 
+m a r c h a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	marchen 
+m a r c h i t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	marchitara 
+m a r c h i t a r	pos=V mood=COND polite=FORM per=3 num=SG	marchitaría 
+m a r c h i t a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	marchite 
+m a r c h o s o	pos=ADJ gen=FEM num=SG	marchosa 
+m a r r a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	marre 
+m a s t e c t o m í a	pos=N num=SG	mastectomía 
+m a s t u r b a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	masturbara 
+m a t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	matasteis 
+m a t a s e l l a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	matasellasen 
+m a t a s e l l a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	matasello 
+m a t r i c u l a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	matriculan 
+m a t r i c u l a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	matriculen 
+m e c a n i z a r	pos=V mood=COND per=3 num=PL	mecanizarían 
+m e c a n i z a r	pos=V mood=COND polite=INFM per=2 num=SG	mecanizarías 
+m e c a n i z a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	mecanice 
+m e d r a r	pos=V mood=COND polite=INFM per=2 num=PL	medraríais 
+m e j i l l a	pos=N num=PL	mejillas 
+m e l l a r	pos=V tense=PST gen=MASC num=PL	mellados 
+m e m o r i z a r	pos=V mood=COND per=1 num=PL	memorizaríamos 
+m e n e a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	meneasen 
+m e n t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	mentabas 
+m e r m a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	mermaste 
+m i g r a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	migráis 
+m i l i t a r i z a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	militarice 
+m i m e t i z a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	mimetizaban 
+m i n i d e p o r t e	pos=N num=SG	minideporte 
+m i r a r	pos=V tense=PST gen=FEM num=SG	mirada 
+m i r i á p o d o	pos=ADJ gen=MASC num=SG	miriápodo 
+m o d e r a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	moderase 
+m o d i f i c a c i ó n	pos=N num=PL	modificaciones 
+m o n d a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	mondásemos 
+m o n e g a s c o	pos=ADJ gen=MASC num=SG	monegasco 
+m o n o a m i n o	pos=N num=PL	monoaminos 
+m o r a l i z a r	pos=V mood=IND	moralizaría 
+m o t e a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	moteaba 
+m o t o r	pos=N num=SG	motor 
+m o v i l i z a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	movilizaban 
+m u e r m o s o	pos=ADJ gen=MASC num=PL	muermosos 
+m u l a	pos=N num=PL	mulas 
+m u l e t i l l a	pos=N num=PL	muletillas 
+m u l t a r	pos=V tense=PST	multado 
+m u l t i é t n i c o	pos=ADJ gen=FEM num=PL	multiétnicas 
+m u r a r	pos=V tense=PST gen=MASC num=SG	murado 
+m u s c u l o s o	pos=ADJ gen=MASC num=SG	musculoso 
+m u s i t a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	musitarán 
+n a d a r	pos=V finite=NFIN	nadar 
+n a r i z	pos=N num=PL	narices 
+n a z i	pos=N num=PL	nazis 
+n i n f a	pos=N num=PL	ninfas 
+n i n f o m a n í a	pos=N num=SG	ninfomanía 
+n i x t a m a l i z a r	pos=V mood=COND polite=FORM per=3 num=SG	nixtamalizaría 
+n o m b r a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	nombrara 
+n o m i n a l i z a r	pos=V mood=SBJV tense=FUT per=1 num=PL	nominalizáremos 
+n o r i r l a n d é s	pos=ADJ gen=FEM num=PL	norirlandesas 
+n u m e r a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	numeramos 
+o b j e t a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	objetamos 
+o b j e t i v o	pos=N num=PL	objetivos 
+o b l i g a c i ó n	pos=N num=SG	obligación 
+o b l i g a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	obliga 
+o b r a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	obrara 
+o b s e s i o n a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	obsesionaba 
+o b s e s i o n a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	obsesionarán 
+o c t o d e c á g o n o	pos=N num=SG	octodecágono 
+o d i a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	odio 
+o f e n d e r	pos=V mood=IND	ofendería 
+o p t i m i z a r	pos=V tense=PST gen=FEM num=SG	optimizados 
+ó p t i m o	pos=ADJ gen=FEM num=PL	óptimas 
+o p u e s t o	pos=ADJ gen=FEM num=SG	opuesta 
+o p ú s c u l o	pos=N num=SG	opúsculo 
+o r b i t a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	orbitasen 
+o r g a n i z a r	pos=V mood=COND per=1 num=PL	organizaríamos 
+o r g a n i z a r	pos=V tense=PST gen=MASC num=SG	organizado 
+o r i l l a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	orillarás 
+o r o p e l	pos=N num=SG	oropel 
+o s a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	osaba 
+o s t e n t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	ostentabais 
+o x h í d r i c o	pos=ADJ gen=FEM num=SG	oxhídrica 
+o x i d a r	pos=V mood=IND tense=FUT per=1 num=SG	oxidaré 
+p a g a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	pagare 
+p a j i t a	pos=N num=PL	pajitas 
+p a l m e a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	palmeo 
+p a l p i t a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	palpitarais 
+p a n c e t a	pos=N num=SG	panceta 
+p a n d o	pos=ADJ gen=FEM num=SG	panda 
+p a r a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	paraban 
+p a r c e l a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	parcelaras 
+p a r t i c i p a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	participo 
+p a r t i c i p a r	pos=V tense=PST gen=FEM num=PL	participadas 
+p a s e a r	pos=V mood=COND polite=INFM per=2 num=SG	pasearías 
+p a s m a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	pasmaran 
+p a t ó g e n o	pos=ADJ gen=FEM num=PL	patógenas 
+p a t r o c i n a r	pos=V mood=IND tense=FUT per=1 num=SG	patrocinaré 
+p e c a r	pos=V mood=IND	pecaría 
+p e c o s o	pos=ADJ gen=MASC num=PL	pecosos 
+p e d a l e a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	pedaleara 
+p e g a j o s o	pos=ADJ gen=FEM num=SG	pegajosa 
+p e l l i z c a r	pos=V tense=PST gen=MASC num=SG	pellizcado 
+p e n a l i z a r	pos=V tense=PRS	penalizando 
+p e n d i e n t e	pos=N num=SG	pendiente 
+p e p i t a	pos=N num=SG	pepita 
+p e r a l t a r	pos=V polar=POS mood=IMP per=1 num=PL	peraltemos 
+p e r c i b i r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	percibieren 
+p e r d o n a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	perdonábamos 
+p e r d u r a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	perdurare 
+p e r e g r i n i d a d	pos=N num=PL	peregrinidades 
+p e r g e ñ a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	pergeñares 
+p e r i q u i t o	pos=N num=SG	periquito 
+p e r j u r a r	pos=V tense=PRS aspect=IPFV/PFV	perjure 
+p e r m e a r	pos=V mood=COND per=3 num=PL	permearían 
+p e r n o c t a r	pos=V mood=SBJV tense=FUT per=3 num=PL	pernoctaren 
+p e r s i s t i r	pos=V tense=PST	persistido 
+p e r s o n a l i z a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	personalizaran 
+p e r t u r b a r	pos=V mood=IND	perturbaría 
+p e s c a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	pescaran 
+p e s t a ñ e a r	pos=V tense=PST gen=MASC num=PL	pestañeados 
+p i c a r d o	pos=ADJ gen=MASC num=SG	picardo 
+p i c a r e s c o	pos=ADJ gen=MASC num=SG	picaresco 
+p i c o t e a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	picotearían 
+p i n c i a n o	pos=ADJ gen=FEM num=PL	pincianas 
+p i n z a m i e n t o	pos=N num=PL	pinzamientos 
+p i o c h a	pos=N num=PL	piochas 
+p i o j o	pos=N num=PL	piojos 
+p i p i á n	pos=N num=SG	pipián 
+p i r a r	pos=V mood=IND tense=FUT per=1 num=PL	piraremos 
+p i r a t e a r	pos=V mood=IND tense=FUT per=1 num=SG	piratearé 
+p i r a t e a r	pos=V mood=SBJV tense=FUT per=1 num=SG	pirateare 
+p i s o t e a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	pisotearan 
+p i s o t e a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	pisotea 
+p i s o t e a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	pisoteábamos 
+p l a n c h a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	planchases 
+p l a s t i f i c a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	plastificáis 
+p l a t i n o	pos=N num=SG	platino 
+p l e i t e a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	pleitee 
+p o d a r	pos=V mood=COND polite=INFM per=2 num=SG	podarías 
+p o l i z o n t e	pos=N num=SG	polizonte 
+p o l o l e a r	pos=V mood=SBJV tense=FUT per=1 num=SG	pololeare 
+p o n c h a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	poncharon 
+p o r m e n o r i z a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	pormenoricen 
+p o s a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	posaran 
+p o s i b i l i t a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	posibiliten 
+p o s t r a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	postrasen 
+p o t a b i l i z a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	potabilice 
+p r e c a l e n t a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	precalentases 
+p r e c a v e r	pos=V tense=PRS	precaviendo 
+p r e c e d e r	pos=V tense=PST gen=FEM num=PL	precedidas 
+p r e d a d o r	pos=N num=SG	predador 
+p r e d e s t i n a r	pos=V mood=IND tense=FUT per=1 num=PL	predestinaremos 
+p r e d e t e r m i n a r	pos=V tense=PST per=1 num=PL aspect=PFV	predeterminé 
+p r e d o m i n a r	pos=V mood=COND polite=FORM per=3 num=SG	predominaría 
+p r e g u n t a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	preguntarán 
+p r e h i s t o r i a	pos=N num=SG	prehistoria 
+p r e s c i n d i r	pos=V mood=IND	prescindiría 
+p r e s c i n d i r	pos=V mood=SBJV tense=FUT per=3 num=PL	prescindieren 
+p r e s t a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	prestaren 
+p r e s t a r	pos=V tense=PST gen=FEM num=SG	prestada 
+p r e t e x t a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	pretexto 
+p r i m a r i o	pos=ADJ gen=FEM num=SG	primaria 
+p r i m a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	primasen 
+p r i v a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	privó 
+p r i v i l e g i a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	privilegia 
+p r o b a r	pos=V mood=IND tense=FUT per=3 num=PL	probarán 
+p r o c u r a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	procuraba 
+p r o d u c i r	pos=V mood=IND tense=FUT per=3 num=PL	producirán 
+p r o f e t i z a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	profetizan 
+p r o l e t a r i o	pos=ADJ gen=FEM num=PL	proletarias 
+p r o l i n a	pos=N num=PL	prolinas 
+p r o l o g a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	prologo 
+p r o l o n g a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	prolongaseis 
+p r o m o t o r	pos=ADJ gen=MASC num=PL	promotores 
+p r o m u l g a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	promulgará 
+p r o m u l g a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	promulgue 
+p r o n o s t i c a r	pos=V mood=COND polite=INFM per=2 num=SG	pronosticarías 
+p r o p a n o	pos=N num=PL	propanos 
+p r o p i c i a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	propicié 
+p r o p o r c i o n a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	proporcionarás 
+p r o r r a t e a r	pos=V mood=IND tense=FUT per=3 num=PL	prorratearán 
+p r o r r o g a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	prorrogáis 
+p r o s p e c t a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	prospectaran 
+p r o t e s t a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	protesto 
+p r o t o z o a r i o	pos=N num=SG	protozoario 
+p s i c o a n a l i z a r	pos=V mood=SBJV tense=FUT per=1 num=PL	psicoanalizáremos 
+p s i c o s o m á t i c o	pos=ADJ gen=FEM num=SG	psicosomática 
+p u b l i c a r	pos=V mood=COND polite=INFM per=2 num=PL	publicaríais 
+p u b l i c a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	publican 
+p u e b l e r i n o	pos=ADJ gen=FEM num=SG	pueblerina 
+p u l p e r í a	pos=N num=SG	pulpería 
+p u l u l a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	pululaba 
+p u ñ a l i t o	pos=N num=SG	puñalito 
+p u n i r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	punid 
+p u ñ o	pos=N num=SG	puño 
+p u n t u a l i z a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	puntualizabais 
+p u r i f i c a c i ó n	pos=N num=SG	purificación 
+p u r i f i c a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	purifico 
+p u t a ñ e a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	putañeen 
+q u e b r a n t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	quebrantásemos 
+q u e m a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	quemad 
+q u e r e r	pos=V tense=PST gen=MASC num=SG	querido 
+r a b i a r	pos=V mood=IND tense=FUT per=1 num=SG	rabiaré 
+r a b í n i c o	pos=ADJ gen=MASC num=SG	rabínico 
+r a c i o n a l i z a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	racionalizan 
+r a c i o n a l i z a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	racionalicéis 
+r a j a r	pos=V mood=IND	rajaría 
+r a m i f i c a r	pos=V mood=IND	ramificaría 
+r a n c a r	pos=V tense=PST gen=FEM num=SG	rancada 
+r a n u r a	pos=N num=SG	ranura 
+r a p t a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	raptad 
+r a s g a r	pos=V mood=IND	rasgaría 
+r a s g a r	pos=V tense=PST gen=FEM num=SG	rasgados 
+r a s t r o	pos=N num=PL	rastros 
+r a s u r a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	rasuraron 
+r a t i f i c a r	pos=V mood=COND polite=FORM per=3 num=SG	ratificaría 
+r e a f i r m a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	reafirmamos 
+r e a j u s t a r	pos=V mood=COND polite=INFM per=2 num=SG	reajustarías 
+r e a n i m a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	reaniman 
+r e a n u d a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	reanuden 
+r e a r m a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	rearmarán 
+r e b a j a r	pos=V mood=COND per=3 num=PL	rebajarían 
+r e b a ñ a r	pos=V mood=IND tense=FUT per=3 num=PL	rebañarán 
+r e b e l a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	rebeláramos 
+r e b o b i n a r	pos=V mood=COND per=3 num=PL	rebobinarían 
+r e c a b a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	recabo 
+r e c a l c a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	recalque 
+r e c a l e n t a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	recalentó 
+r e c a l e n t a r	pos=V tense=PST	recalentado 
+r e c a p i t u l a r	pos=V mood=SBJV tense=FUT per=3 num=PL	recapitularen 
+r e c e t a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	recetaran 
+r e c e t a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	recete 
+r e c h i s t a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	rechistará 
+r e c h i s t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	rechistáremos 
+r e c i c l a r	pos=V mood=COND polite=INFM per=2 num=PL	reciclaríais 
+r e c i t a r	pos=V mood=SBJV tense=FUT per=1 num=SG	recitare 
+r e c l i n a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	recline 
+r e c l u t a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	reclutaba 
+r e c o m p e n s a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	recompensaban 
+r e c o m p e n s a r	pos=V mood=SBJV tense=FUT per=1 num=PL	recompensáremos 
+r e c o n q u i s t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	reconquistaréis 
+r e c o n s i d e r a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	reconsideren 
+r e c o p i l a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	recopila 
+r e c o r r e r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	recorriese 
+r e c o r r e r	pos=V mood=SBJV tense=FUT per=1 num=PL	recorriéremos 
+r e c u s a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	recusare 
+r e d a c t a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	redactaras 
+r e d i m i r	pos=V mood=IND	redimiría 
+r e d o n d e a r	pos=V mood=COND per=1 num=PL	redondearíamos 
+r e d u n d a r	pos=V mood=COND polite=INFM per=2 num=SG	redundarías 
+r e e x a m i n a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	reexaminásemos 
+r e f r a c t a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	refractases 
+r e f r a c t a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	refractare 
+r e f u n d i r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	refundieren 
+r e f u t a r	pos=V tense=PRS	refutando 
+r e g a l o n e a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	regaloneaseis 
+r e g e n t a r	pos=V tense=PST gen=FEM num=PL	regentadas 
+r e g l a m e n t a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	reglamentaron 
+r e g l a m e n t a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	reglamentáis 
+r e i n i c i a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	reiniciáramos 
+r e i n i c i a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	reiniciaron 
+r e i n t e g r a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	reintegré 
+r e l a c i o n a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	relacionaseis 
+r e l a j a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	relajare 
+r e l a t a r	pos=V mood=SBJV polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	relate 
+r e l e v a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	relevaron 
+r e m a n g a r	pos=V mood=COND per=3 num=PL	remangarían 
+r e m a t a r	pos=V tense=PRS	rematando 
+r e m e d i a r	pos=V finite=NFIN	remediar 
+r e m o l c a r	pos=V mood=IND tense=FUT per=1 num=SG	remolcaré 
+r e m o l d e a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	remoldeabais 
+r e m o l d e a r	pos=V mood=SBJV tense=FUT per=3 num=PL	remoldearen 
+r e m o l d e a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	remoldee 
+r e m o n t a r	pos=V mood=IND tense=FUT per=3 num=PL	remontarán 
+r e n q u e a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	renqueaba 
+r e n u n c i a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	renunciaban 
+r e o r d e n a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	reordenara 
+r e o r g a n i z a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	reorganizamos 
+r e p a v i m e n t a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	repavimenta 
+r e p a v i m e n t a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	repavimentarás 
+r e p a v i m e n t a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	repavimentare 
+r e p e l e r	pos=V polar=POS mood=IMP per=1 num=PL	repelamos 
+r e p l a n t e a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	replanteará 
+r e p o r t e a r	pos=V mood=COND polite=FORM per=3 num=SG	reportearía 
+r e p o s a r	pos=V mood=SBJV tense=FUT per=3 num=PL	reposaren 
+r e p o s t a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	repostabas 
+r e p r e n s o r a	pos=N num=SG	reprensora 
+r e p r e s e n t a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	representábamos 
+r e p r o b a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	reprobara 
+r e p r o g r a m a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	reprograma 
+r e p u d i a r	pos=V mood=COND per=1 num=PL	repudiaríamos 
+r e p u g n a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	repugnase 
+r e s b a l ó n	pos=N num=PL	resbalones 
+r e s e c a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	resecara 
+r e s e c a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	reseque 
+r e s e m b l a r	pos=V mood=COND polite=INFM per=2 num=PL	resemblaríais 
+r e s i d i r	pos=V mood=IND tense=FUT per=1 num=SG	residiré 
+r e s i s t i r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	resistían 
+r e s o n a r	pos=V finite=NFIN	resonar 
+r e s o n d r a r	pos=V polar=POS mood=IMP per=1 num=PL	resondremos 
+r e s p a l d a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	respaldásemos 
+r e s p e t a r	pos=V tense=PST gen=FEM num=SG	respetada 
+r e s p l a n d o r	pos=N num=PL	resplandores 
+r e s p o n s a b i l i z a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	responsabilizaras 
+r e s p o n s a b i l i z a r	pos=V tense=PST gen=FEM num=PL	responsabilizadas 
+r e s t a u r a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=PL	restauraréis 
+r e s t r u c t u r a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	restructuráis 
+r e t a d o r	pos=ADJ gen=MASC num=SG	retador 
+r e t o c a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	retoque 
+r e t o m a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	retomase 
+r e t r a t a r	pos=V polar=POS mood=IMP per=1 num=PL	retratemos 
+r e t r o c e d e r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	retrocederá 
+r e u n i f i c a c i ó n	pos=N num=SG	reunificación 
+r e u n i f i c a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	reunificaseis 
+r e v e r b e r a r	pos=V mood=COND polite=INFM per=2 num=SG	reverberarías 
+r e v e r e n c i a r	pos=V mood=IND tense=FUT per=1 num=SG	reverenciaré 
+r e v e r s a r	pos=V mood=IND polite=FORM tense=FUT per=3 num=SG	reversará 
+r e v i s t a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	revistaban 
+r e v i s t a r	pos=V tense=PRS	revistando 
+r o b a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	robaron 
+r o b a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	robare 
+r o b	pos=N num=SG	rob 
+r o c o s o	pos=ADJ gen=FEM num=PL	rocosas 
+r o d e a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=PL	rodeareis 
+r o d o p s i n a	pos=N num=PL	rodopsinas 
+r o m a n c e a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	romanceáis 
+r o m a n z a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	romanzarían 
+r o m p e d o r	pos=N num=PL	rompedores 
+r o n c a r	pos=V mood=IND tense=FUT per=3 num=PL	roncarán 
+r o n d a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	rondábamos 
+r o t u r a r	pos=V mood=SBJV tense=FUT per=1 num=PL	roturáremos 
+r o z a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	rozaban 
+r u b i o	pos=ADJ gen=FEM num=SG	rubia 
+r u i d o s o	pos=ADJ gen=MASC num=SG	ruidoso 
+r u i n a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	ruinamos 
+r u i n a r	pos=V mood=SBJV tense=FUT per=3 num=PL	ruinaren 
+r u m o r e a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	rumoreaban 
+r u n r u n e a r	pos=V mood=SBJV tense=FUT per=1 num=SG	runruneare 
+r u t a	pos=N num=SG	ruta 
+s a b o t e a r	pos=V tense=PST	saboteado 
+s a c a b o c a d o s	pos=N num=PL	sacabocados 
+s a c a p u n t a s	pos=N num=SG	sacapuntas 
+s a c i a r	pos=V tense=PST gen=FEM num=PL	saciadas 
+s a c i a r	pos=V tense=PST	saciado 
+s a h a r a u i	pos=N num=SG	saharaui 
+s a l d a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	saldábamos 
+s a l i v a r	pos=V mood=COND per=3 num=PL	salivarían 
+s a l m o d i a r	pos=V tense=PST gen=FEM num=SG	salmodiada 
+s a l s e r a	pos=N num=PL	salseras 
+s a l t e a r	pos=V mood=COND per=1 num=SG	saltearía 
+s a l u d a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	saludaba 
+s a l v a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	salvase 
+s a n a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	sane 
+s a n c o c h a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	sancochan 
+s a n g r a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	sangrases 
+s a n j u a n i n o	pos=ADJ gen=FEM num=PL	sanjuaninas 
+s a n l u i s e ñ o	pos=ADJ gen=FEM num=PL	sanluiseñas 
+s a r a o	pos=N num=PL	saraos 
+s a r m e n t o s a	pos=N num=PL	sarmentosas 
+s a t i n a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	satinasen 
+s a t i s f a c e r	pos=V mood=IND tense=FUT per=1 num=SG	satisfaré 
+s a t i s f a c e r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	satisfagan 
+s a z o n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	sazonabas 
+s e d u c i r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	seducen 
+s e g m e n t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	segmentáremos 
+s e l l o	pos=N num=PL	sellos 
+s e m b r a d o r	pos=ADJ gen=FEM num=SG	sembradora 
+s e m i d e s n a t a d o	pos=ADJ gen=FEM num=PL	semidesnatadas 
+s e m i o l ó g i c o	pos=ADJ gen=FEM num=PL	semiológicas 
+s e ñ a l a r	pos=V mood=COND polite=INFM per=2 num=SG	señalarías 
+s e ñ a l a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	señalábamos 
+s e n e g a l é s	pos=ADJ gen=MASC num=SG	senegalés 
+s e n t a r	pos=V mood=SBJV tense=FUT per=1 num=PL	sentáremos 
+s e r e n a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	sereno 
+s e r m o n e a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	sermonearán 
+s i l a b a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	silaben 
+s i l a b e a r	pos=V mood=COND polite=INFM per=2 num=PL	silabearíais 
+s i l a b e a r	pos=V mood=IND polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	silabean 
+s i l a b e a r	pos=V mood=SBJV tense=FUT per=3 num=PL	silabearen 
+s i l a b e a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	silabee 
+s i l e n c i a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	silenciara 
+s i l í c e o	pos=ADJ gen=FEM num=SG	silícea 
+s i m b o l i z a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	simbolizases 
+s i m b o l i z a r	pos=V mood=COND polite=FORM per=3 num=SG	simbolizaría 
+s i n c o p a r	pos=V tense=PST gen=FEM num=SG	sincopada 
+s i s t e m á t i c o	pos=ADJ gen=MASC num=SG	sistemático 
+s o b o r n a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	sobornen 
+s o b o r n a r	pos=V tense=PST	sobornado 
+s o b r e s t i m a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	sobrestiman 
+s o b r e v o l a r	pos=V mood=IND tense=PST per=3 num=PL aspect=IPFV	sobrevolaban 
+s o b r e v o l a r	pos=V tense=PST per=1 num=PL aspect=PFV	sobrevolé 
+s o c a r r a r	pos=V mood=IND tense=PST per=3 num=PL aspect=PFV	socarraron 
+s o c i o l ó g i c o	pos=ADJ gen=MASC num=SG	sociológico 
+s o f o c a r	pos=V mood=IND tense=PRS per=1 num=PL aspect=IPFV/PFV	sofocamos 
+s o l e m n i d a d	pos=N num=PL	solemnidades 
+s o l i c i t a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	solicitaren 
+s o l i d a r i o	pos=ADJ gen=MASC num=SG	solidario 
+s o l i d i f i c a r	pos=V mood=SBJV polite={INFM/FORM} tense=PRS per=2 num=PL aspect=IPFV/PFV	solidifiquen 
+s o l l o z a r	pos=V mood=SBJV tense=FUT per=1 num=PL	sollozáremos 
+s o l u c i o n a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	solucionasen 
+s o l u c i o n a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	solucionábamos 
+s o l v e n t a r	pos=V mood=COND polite=INFM per=2 num=SG	solventarías 
+s o n a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	suena 
+s o n d e a r	pos=V mood=SBJV polite={INFM/FORM} tense=FUT per=2 num=PL	sondearen 
+s o n r o s a r	pos=V mood=COND per=1 num=SG	sonrosaría 
+s o n s a c a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	sonsacases 
+s o p o r t a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=PFV	soportó 
+s o r b e r	pos=V tense=PST gen=FEM num=PL	sorbidas 
+s o s e g a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	sosegábamos 
+s o s p e c h a	pos=N num=SG	sospecha 
+s o s p e c h a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	sospecharán 
+s t e v i a	pos=N num=PL	stevias 
+s u a v i z a n t e	pos=N num=SG	suavizante 
+s u a v i z a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	suavizan 
+s u b a s t a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	subasten 
+s u b a t ó m i c o	pos=ADJ gen=MASC num=PL	subatómicos 
+s ú b i t o	pos=ADJ gen=MASC num=PL	súbitos 
+s u b r a y a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	subrayaba 
+s u b s i d i a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	subsidiarán 
+s u b s i d i a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=PFV	subsidiaron 
+s u b s i s t i r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	subsistís 
+s u b t í t u l o	pos=N num=PL	subtítulos 
+s u c c i o n a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	succionéis 
+s u f r i r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	sufrís 
+s u p e r a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	supera 
+s u p e r d o t a d o	pos=ADJ gen=FEM num=SG	superdotada 
+s u p e r f l u o	pos=ADJ gen=MASC num=SG	superfluo 
+s u p e r s t i c i ó n	pos=N num=SG	superstición 
+s u p e r v i s a r	pos=V tense=PST	supervisado 
+s u p e r v i v i r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	superviva 
+s u p l a n t a r	pos=V tense=PST per=1 num=PL aspect=PFV	suplanté 
+s u p l i c a r	pos=V mood=IND tense=PRS per=1 num=SG aspect=IPFV/PFV	suplico 
+s u r c a r	pos=V mood=IND tense=FUT per=1 num=SG	surcaré 
+s u s c i t a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	suscitaban 
+s u s u r r a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	susurrasen 
+s u s u r r a r	pos=V tense=PST gen=FEM num=SG	susurrada 
+s u t u r a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	suturábamos 
+s u t u r a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	suturo 
+t a c h a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	tacharás 
+t a c h o n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=PFV	tachonaste 
+t a c o n e a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	taconeáramos 
+t a c o n e a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	taconeéis 
+t a m b o r i l e a r	pos=V mood=IND tense=PRS per=3 num=PL aspect=IPFV/PFV	tamborilean 
+t a p e a r	pos=V tense=PRS	tapeando 
+t e c h a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	techáramos 
+t e j a r	pos=V mood=COND polite=FORM per=3 num=SG	tejaría 
+t e l e f o n e a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	telefonead 
+t e l e t r a n s p o r t a r	pos=V polar=POS mood=IMP per=1 num=PL	teletransportemos 
+t e l e t r a n s p o r t a r	pos=V tense=PST	teletransportado 
+t e l e v i s a r	pos=V mood=COND polite=FORM per=3 num=SG	televisaría 
+t e l e v i s a r	pos=V mood=IND	televisaría 
+t e l o n e a r	pos=V mood=IND	telonearía 
+t e l o n e a r	pos=V mood=IND tense=PST per=1 num=PL aspect=IPFV	teloneábamos 
+t e m b l a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	temblaban 
+t e n t a c i ó n	pos=N num=SG	tentación 
+t e r g i v e r s a r	pos=V tense=PST gen=FEM num=PL	tergiversadas 
+t i g r i n a	pos=N num=SG	tigrina 
+t i m a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	tima 
+t i m b r a r	pos=V alt=LGSPEC2 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	timbrasen 
+t i m b r a r	pos=V tense=PST gen=FEM num=SG	timbrada 
+t i n c a r	pos=V tense=PST gen=MASC num=PL	tincados 
+t i n t a r	pos=V mood=COND polite=FORM per=3 num=SG	tintaría 
+t i r a r	pos=V tense=PST per=1 num=PL aspect=PFV	tiré 
+t i r o n e a r	pos=V tense=PRS per=1 num=SG aspect=IPFV/PFV	tironeo 
+t i t r a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	titrases 
+t i t r a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=PFV	titrasteis 
+t i t u l a d o	pos=ADJ gen=MASC num=PL	titulados 
+t i z n a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	tizna 
+t i z n a r	pos=V mood=IND tense=PST gen=MASC per=1 num=PL aspect=PFV	tiznamos 
+t o d o	pos=ADJ gen=FEM num=PL	todas 
+t o l e r a r	pos=V mood=SBJV tense=FUT per=3 num=PL	toleraren 
+t o m a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	tomarais 
+t o m b o	pos=N num=PL	tombos 
+t o n t e r a	pos=N num=SG	tontera 
+t o p a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	toparan 
+t o r n a d i z o	pos=ADJ gen=FEM num=PL	tornadizas 
+t o r r e n t e	pos=N num=SG	torrente 
+t o s e r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	tosiera 
+t o t a l i z a r	pos=V mood=IND polite=INFM tense=FUT per=2 num=SG	totalizarás 
+t r a b a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	trabara 
+t r a b a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	traben 
+t r a d u c i r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	tradujere 
+t r a i c i o n a r	pos=V tense=PST gen=MASC num=PL	traicionados 
+t r a j i n a r	pos=V mood=IND polite=FORM tense=PST per=3 num=SG aspect=IPFV	trajinaba 
+t r a m a	pos=N num=PL	tramas 
+t r a n s a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	transemos 
+t r a n s c u r r i r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	transcurran 
+t r a n s i t a r	pos=V tense=PST gen=FEM num=SG	transitada 
+t r a n s l i t e r a r	pos=V mood=SBJV tense=FUT per=1 num=SG	transliterare 
+t r a n s p a r e n t a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	transparentásemos 
+t r a n s p l a n t a r	pos=V mood=SBJV polite=INFM tense=FUT per=2 num=SG	transplantares 
+t r a n s p o r t a r	pos=V mood=SBJV polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	transportéis 
+t r a n s v a s a r	pos=V mood=IND tense=FUT per=1 num=PL	transvasaremos 
+t r a p e a r	pos=V mood=SBJV tense=FUT per=3 num=PL	trapearen 
+t r a q u e t e a r	pos=V mood=SBJV tense=FUT per=1 num=SG	traqueteare 
+t r a s c u r r i r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	trascurramos 
+t r a s c u r s o	pos=N num=PL	trascursos 
+t r a s e g a r	pos=V mood=IND tense=PST per=1 num=SG aspect=IPFV	trasegaba 
+t r a s f i g u r a r	pos=V polar=POS mood=IMP per=1 num=PL	trasfiguremos 
+t r a s l a d a r	pos=V mood=IND tense=FUT per=1 num=SG	trasladaré 
+t r a s p a s a r	pos=V alt=LGSPEC1 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	traspasara 
+t r a s p l a n t a r	pos=V tense=PRS	trasplantando 
+t r a s v a s a r	pos=V tense=PRS aspect=IPFV/PFV	trasvase 
+t r a t a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	tratad 
+t r e p a r	pos=V tense=PST	trepado 
+t r i b u t a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	tributaban 
+t r i n c h a r	pos=V mood=SBJV tense=PRS per=3 num=PL aspect=IPFV/PFV	trinchen 
+t r i t u r a r	pos=V mood=COND polite=FORM per=3 num=SG	trituraría 
+t r u n c a r	pos=V mood=IND tense=PRS aspect=IPFV/PFV	trunca 
+t r u n c a r	pos=V tense=PRS	truncando 
+t u g u r i o	pos=N num=SG	tugurio 
+t u i t e a r	pos=V alt=LGSPEC2 mood=SBJV polite=FORM tense=PST per=3 num=SG aspect=IPFV	tuitease 
+t u r b a r	pos=V polar=POS mood=IMP polite={INFM/FORM} per=2 num=PL	turben 
+u l t r a j a r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	ultrajases 
+u n t a r	pos=V alt=LGSPEC1 mood=SBJV polite=INFM tense=PST per=2 num=SG aspect=IPFV	untaras 
+u n t a r	pos=V mood=IND polite=FORM tense=PRS per=3 num=SG aspect=IPFV/PFV	unta 
+u n t a r	pos=V mood=IND polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	untaban 
+u r a t o	pos=N num=SG	urato 
+u r b a n i z a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	urbanizabas 
+u r c i t a n o	pos=ADJ gen=FEM num=SG	urcitana 
+u t i l i z a r	pos=V mood=SBJV tense=PRS per=1 num=PL aspect=IPFV/PFV	utilicemos 
+v a c u n a r	pos=V mood=IND polite=INFM tense=PST per=2 num=PL aspect=IPFV	vacunabais 
+v a g a r	pos=V mood=IND tense=PST per=1 num=SG aspect=PFV	vagué 
+v a g u e a r	pos=V tense=PST gen=MASC num=SG	vagueado 
+v a l o r a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=PL aspect=IPFV	valorásemos 
+v a p o r i z a r	pos=V mood=COND per=1 num=SG	vaporizaría 
+v a q u e r a	pos=N num=PL	vaqueras 
+v e j a r	pos=V mood=IND polite=INFM tense=PRS per=2 num=PL aspect=IPFV/PFV	vejáis 
+v e n d a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	vendarán 
+v e n d a v a l	pos=N num=SG	vendaval 
+v e n d e r	pos=V alt=LGSPEC2 mood=SBJV polite=INFM tense=PST per=2 num=PL aspect=IPFV	vendieseis 
+v e r a n e a r	pos=V tense=PST gen=MASC num=SG	veraneado 
+v e r d e a r	pos=V mood=SBJV polite=FORM tense=FUT per=3 num=SG	verdeare 
+v e r s i o n a r	pos=V mood=IND polite={INFM/FORM} tense=FUT per=2 num=PL	versionarán 
+v i b o r e a r	pos=V alt=LGSPEC1 mood=SBJV polite={INFM/FORM} tense=PST per=2 num=PL aspect=IPFV	viborearan 
+v i b r a d o r	pos=N num=SG	vibrador 
+v i n c u l a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	vinculase 
+v i o l e n t a r	pos=V mood=SBJV tense=PRS per=1 num=SG aspect=IPFV/PFV	violente 
+v i r a j e	pos=N num=PL	virajes 
+v i t o r e a r	pos=V alt=LGSPEC2 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	vitorease 
+v u l c a n i z a r	pos=V mood=COND polite={INFM/FORM} per=2 num=PL	vulcanizarían 
+x e r o c o p i a r	pos=V mood=COND per=1 num=SG	xerocopiaría 
+y a p a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=3 num=PL aspect=IPFV	yaparan 
+y u g o	pos=N num=SG	yugo 
+z a m p a r	pos=V polar=POS mood=IMP polite=INFM per=2 num=PL	zampad 
+z a n j a r	pos=V tense=PST gen=FEM num=PL	zanjadas 
+z a n j a r	pos=V tense=PST gen=FEM num=SG	zanjada 
+z a p e a r	pos=V mood=IND tense=FUT per=1 num=PL	zapearemos 
+z a r a g o c í	pos=N num=PL	zaragocíes 
+z a r a n d e a r	pos=V mood=IND polite=INFM tense=PST per=2 num=SG aspect=IPFV	zarandeabas 
+z u r e a r	pos=V polar=POS mood=IMP polite=FORM per=2 num=SG	zuree 
+z u z a r	pos=V alt=LGSPEC1 mood=SBJV tense=PST per=1 num=SG aspect=IPFV	zuzara 

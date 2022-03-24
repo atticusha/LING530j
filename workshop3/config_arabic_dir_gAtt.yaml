@@ -1,0 +1,29 @@
+# Corpus opts:
+
+data:
+    train:
+        path_src: workshop3_data/arabic-train-src.txt
+        path_tgt: workshop3_data/arabic-train-tgt.txt
+    valid:
+        path_src: workshop3_data/arabic-dev-src.txt
+        path_tgt: workshop3_data/arabic-dev-tgt.txt
+
+save_data: models
+src_vocab: models/arabic.vocab.src
+tgt_vocab: models/arabic.vocab.tgt
+save_model: models/arabic_dir_gAtt
+save_checkpoint_steps: 10000
+
+train_steps: 10000       # Perform 10000 parameter updates.
+valid_steps: 500         # Print character-level accuracy on dev
+                         # set once every 500 updates.
+batch_size: 25           # Compute model update using 25 examples.
+
+layers: 1
+rnn_type: LSTM
+encoder_type: "brnn"      # Train a bidirectional encoder
+global_attention: "general" # Do use attention
+rnn_size: 100            # Use 100-dim RNN internal states
+word_vec_size: 50        # Use 50-dim character embeddings
+optim: "sgd"             # Train using stochastic gradient descent
+learning_rate: "0.1"     # Use a learning rate (alpha) 0.1
